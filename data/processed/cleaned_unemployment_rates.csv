@@ -1,0 +1,6392 @@
+Province,Month-Year,Unemployment Rate
+Canada,Jan-76,7.1
+Canada,Feb-76,7
+Canada,Mar-76,6.7
+Canada,Apr-76,6.8
+Canada,May-76,6.9
+Canada,Jun-76,6.9
+Canada,Jul-76,7.4
+Canada,Aug-76,7.1
+Canada,Sep-76,7
+Canada,Oct-76,7.4
+Canada,Nov-76,7.4
+Canada,Dec-76,7.5
+Canada,Jan-77,7.6
+Canada,Feb-77,7.9
+Canada,Mar-77,7.8
+Canada,Apr-77,7.9
+Canada,May-77,7.8
+Canada,Jun-77,7.8
+Canada,Jul-77,8.1
+Canada,Aug-77,8.2
+Canada,Sep-77,8.3
+Canada,Oct-77,8.4
+Canada,Nov-77,8.5
+Canada,Dec-77,8.5
+Canada,Jan-78,8.3
+Canada,Feb-78,8.3
+Canada,Mar-78,8.5
+Canada,Apr-78,8.4
+Canada,May-78,8.6
+Canada,Jun-78,8.4
+Canada,Jul-78,8.3
+Canada,Aug-78,8.4
+Canada,Sep-78,8.4
+Canada,Oct-78,8.2
+Canada,Nov-78,8.3
+Canada,Dec-78,8.3
+Canada,Jan-79,8.2
+Canada,Feb-79,8
+Canada,Mar-79,7.9
+Canada,Apr-79,8
+Canada,May-79,7.6
+Canada,Jun-79,7.4
+Canada,Jul-79,7.2
+Canada,Aug-79,7.1
+Canada,Sep-79,7
+Canada,Oct-79,7.2
+Canada,Nov-79,7.2
+Canada,Dec-79,7.2
+Canada,Jan-80,7.5
+Canada,Feb-80,7.6
+Canada,Mar-80,7.6
+Canada,Apr-80,7.7
+Canada,May-80,7.8
+Canada,Jun-80,7.7
+Canada,Jul-80,7.6
+Canada,Aug-80,7.6
+Canada,Sep-80,7.3
+Canada,Oct-80,7.3
+Canada,Nov-80,7.2
+Canada,Dec-80,7.3
+Canada,Jan-81,7.4
+Canada,Feb-81,7.4
+Canada,Mar-81,7.4
+Canada,Apr-81,7.1
+Canada,May-81,7.2
+Canada,Jun-81,7.2
+Canada,Jul-81,7.2
+Canada,Aug-81,7.1
+Canada,Sep-81,8.1
+Canada,Oct-81,8.3
+Canada,Nov-81,8.3
+Canada,Dec-81,8.7
+Canada,Jan-82,8.6
+Canada,Feb-82,8.9
+Canada,Mar-82,9.3
+Canada,Apr-82,9.8
+Canada,May-82,10.3
+Canada,Jun-82,11.1
+Canada,Jul-82,11.9
+Canada,Aug-82,12
+Canada,Sep-82,12.4
+Canada,Oct-82,12.9
+Canada,Nov-82,12.9
+Canada,Dec-82,13.1
+Canada,Jan-83,12.7
+Canada,Feb-83,12.7
+Canada,Mar-83,12.5
+Canada,Apr-83,12.4
+Canada,May-83,12.4
+Canada,Jun-83,12.4
+Canada,Jul-83,11.9
+Canada,Aug-83,11.7
+Canada,Sep-83,11.4
+Canada,Oct-83,11.3
+Canada,Nov-83,11.3
+Canada,Dec-83,11.3
+Canada,Jan-84,11.3
+Canada,Feb-84,11.3
+Canada,Mar-84,11.3
+Canada,Apr-84,11.5
+Canada,May-84,11.7
+Canada,Jun-84,11.3
+Canada,Jul-84,11.2
+Canada,Aug-84,11.3
+Canada,Sep-84,11.8
+Canada,Oct-84,11.3
+Canada,Nov-84,11.4
+Canada,Dec-84,11.1
+Canada,Jan-85,10.6
+Canada,Feb-85,10.8
+Canada,Mar-85,11
+Canada,Apr-85,10.8
+Canada,May-85,10.6
+Canada,Jun-85,10.7
+Canada,Jul-85,10.4
+Canada,Aug-85,10.3
+Canada,Sep-85,10.2
+Canada,Oct-85,10.3
+Canada,Nov-85,10.3
+Canada,Dec-85,10.1
+Canada,Jan-86,9.8
+Canada,Feb-86,9.9
+Canada,Mar-86,9.8
+Canada,Apr-86,9.7
+Canada,May-86,9.5
+Canada,Jun-86,9.6
+Canada,Jul-86,9.6
+Canada,Aug-86,9.6
+Canada,Sep-86,9.5
+Canada,Oct-86,9.4
+Canada,Nov-86,9.4
+Canada,Dec-86,9.5
+Canada,Jan-87,9.5
+Canada,Feb-87,9.5
+Canada,Mar-87,9.4
+Canada,Apr-87,9.2
+Canada,May-87,8.9
+Canada,Jun-87,8.9
+Canada,Jul-87,8.7
+Canada,Aug-87,8.6
+Canada,Sep-87,8.4
+Canada,Oct-87,8.3
+Canada,Nov-87,8.2
+Canada,Dec-87,8
+Canada,Jan-88,8.1
+Canada,Feb-88,7.8
+Canada,Mar-88,7.8
+Canada,Apr-88,7.7
+Canada,May-88,7.8
+Canada,Jun-88,7.6
+Canada,Jul-88,7.8
+Canada,Aug-88,7.8
+Canada,Sep-88,7.8
+Canada,Oct-88,7.8
+Canada,Nov-88,7.8
+Canada,Dec-88,7.5
+Canada,Jan-89,7.5
+Canada,Feb-89,7.6
+Canada,Mar-89,7.5
+Canada,Apr-89,7.8
+Canada,May-89,7.7
+Canada,Jun-89,7.5
+Canada,Jul-89,7.5
+Canada,Aug-89,7.3
+Canada,Sep-89,7.3
+Canada,Oct-89,7.2
+Canada,Nov-89,7.5
+Canada,Dec-89,7.7
+Canada,Jan-90,7.9
+Canada,Feb-90,7.7
+Canada,Mar-90,7.3
+Canada,Apr-90,7.6
+Canada,May-90,7.8
+Canada,Jun-90,7.6
+Canada,Jul-90,7.9
+Canada,Aug-90,8.1
+Canada,Sep-90,8.5
+Canada,Oct-90,8.8
+Canada,Nov-90,9.1
+Canada,Dec-90,9.5
+Canada,Jan-91,9.8
+Canada,Feb-91,10.2
+Canada,Mar-91,10.5
+Canada,Apr-91,10.3
+Canada,May-91,10.2
+Canada,Jun-91,10.5
+Canada,Jul-91,10.5
+Canada,Aug-91,10.5
+Canada,Sep-91,10.3
+Canada,Oct-91,10.3
+Canada,Nov-91,10.4
+Canada,Dec-91,10.3
+Canada,Jan-92,10.4
+Canada,Feb-92,10.5
+Canada,Mar-92,10.9
+Canada,Apr-92,10.7
+Canada,May-92,10.9
+Canada,Jun-92,11.4
+Canada,Jul-92,11.3
+Canada,Aug-92,11.7
+Canada,Sep-92,11.6
+Canada,Oct-92,11.4
+Canada,Nov-92,12.1
+Canada,Dec-92,11.7
+Canada,Jan-93,11.2
+Canada,Feb-93,11
+Canada,Mar-93,11.2
+Canada,Apr-93,11.6
+Canada,May-93,11.6
+Canada,Jun-93,11.7
+Canada,Jul-93,11.6
+Canada,Aug-93,11.2
+Canada,Sep-93,11.5
+Canada,Oct-93,11.3
+Canada,Nov-93,11.2
+Canada,Dec-93,11.4
+Canada,Jan-94,11.4
+Canada,Feb-94,11.1
+Canada,Mar-94,10.6
+Canada,Apr-94,10.9
+Canada,May-94,10.7
+Canada,Jun-94,10.3
+Canada,Jul-94,10.1
+Canada,Aug-94,10.2
+Canada,Sep-94,10.1
+Canada,Oct-94,10
+Canada,Nov-94,9.7
+Canada,Dec-94,9.6
+Canada,Jan-95,9.6
+Canada,Feb-95,9.6
+Canada,Mar-95,9.7
+Canada,Apr-95,9.5
+Canada,May-95,9.5
+Canada,Jun-95,9.5
+Canada,Jul-95,9.6
+Canada,Aug-95,9.5
+Canada,Sep-95,9.2
+Canada,Oct-95,9.3
+Canada,Nov-95,9.2
+Canada,Dec-95,9.4
+Canada,Jan-96,9.4
+Canada,Feb-96,9.5
+Canada,Mar-96,9.6
+Canada,Apr-96,9.3
+Canada,May-96,9.2
+Canada,Jun-96,9.8
+Canada,Jul-96,9.7
+Canada,Aug-96,9.4
+Canada,Sep-96,9.9
+Canada,Oct-96,9.9
+Canada,Nov-96,9.9
+Canada,Dec-96,9.7
+Canada,Jan-97,9.5
+Canada,Feb-97,9.5
+Canada,Mar-97,9.3
+Canada,Apr-97,9.4
+Canada,May-97,9.4
+Canada,Jun-97,9.1
+Canada,Jul-97,8.9
+Canada,Aug-97,8.9
+Canada,Sep-97,8.8
+Canada,Oct-97,8.9
+Canada,Nov-97,8.9
+Canada,Dec-97,8.5
+Canada,Jan-98,8.8
+Canada,Feb-98,8.6
+Canada,Mar-98,8.4
+Canada,Apr-98,8.3
+Canada,May-98,8.3
+Canada,Jun-98,8.4
+Canada,Jul-98,8.3
+Canada,Aug-98,8.1
+Canada,Sep-98,8.2
+Canada,Oct-98,8
+Canada,Nov-98,8
+Canada,Dec-98,8.1
+Canada,Jan-99,7.9
+Canada,Feb-99,7.9
+Canada,Mar-99,7.9
+Canada,Apr-99,8.2
+Canada,May-99,7.9
+Canada,Jun-99,7.6
+Canada,Jul-99,7.6
+Canada,Aug-99,7.4
+Canada,Sep-99,7.5
+Canada,Oct-99,7.2
+Canada,Nov-99,6.9
+Canada,Dec-99,6.8
+Canada,Jan-00,6.8
+Canada,Feb-00,6.9
+Canada,Mar-00,6.9
+Canada,Apr-00,6.7
+Canada,May-00,6.6
+Canada,Jun-00,6.7
+Canada,Jul-00,6.8
+Canada,Aug-00,7
+Canada,Sep-00,6.9
+Canada,Oct-00,7
+Canada,Nov-00,6.9
+Canada,Dec-00,6.8
+Canada,01-Jan,6.9
+Canada,01-Feb,7
+Canada,01-Mar,7.1
+Canada,01-Apr,7.1
+Canada,01-May,7
+Canada,01-Jun,7.2
+Canada,01-Jul,7.1
+Canada,01-Aug,7.2
+Canada,01-Sep,7.2
+Canada,01-Oct,7.3
+Canada,01-Nov,7.5
+Canada,01-Dec,8.1
+Canada,02-Jan,8
+Canada,02-Feb,7.9
+Canada,02-Mar,7.9
+Canada,02-Apr,7.7
+Canada,02-May,7.8
+Canada,02-Jun,7.6
+Canada,02-Jul,7.6
+Canada,02-Aug,7.4
+Canada,02-Sep,7.6
+Canada,02-Oct,7.6
+Canada,02-Nov,7.5
+Canada,02-Dec,7.6
+Canada,03-Jan,7.5
+Canada,03-Feb,7.5
+Canada,03-Mar,7.4
+Canada,03-Apr,7.6
+Canada,03-May,7.8
+Canada,03-Jun,7.6
+Canada,03-Jul,7.7
+Canada,03-Aug,7.8
+Canada,03-Sep,7.9
+Canada,03-Oct,7.6
+Canada,03-Nov,7.4
+Canada,03-Dec,7.3
+Canada,04-Jan,7.3
+Canada,04-Feb,7.3
+Canada,04-Mar,7.3
+Canada,04-Apr,7.2
+Canada,04-May,7.1
+Canada,04-Jun,7.2
+Canada,04-Jul,7.1
+Canada,04-Aug,7
+Canada,04-Sep,6.9
+Canada,04-Oct,7.1
+Canada,04-Nov,7.2
+Canada,04-Dec,7.1
+Canada,05-Jan,6.9
+Canada,05-Feb,7
+Canada,05-Mar,6.9
+Canada,05-Apr,6.7
+Canada,05-May,7
+Canada,05-Jun,6.8
+Canada,05-Jul,6.7
+Canada,05-Aug,6.7
+Canada,05-Sep,6.7
+Canada,05-Oct,6.7
+Canada,05-Nov,6.3
+Canada,05-Dec,6.6
+Canada,06-Jan,6.7
+Canada,06-Feb,6.6
+Canada,06-Mar,6.5
+Canada,06-Apr,6.5
+Canada,06-May,6.2
+Canada,06-Jun,6.3
+Canada,06-Jul,6.5
+Canada,06-Aug,6.5
+Canada,06-Sep,6.5
+Canada,06-Oct,6.3
+Canada,06-Nov,6.5
+Canada,06-Dec,6.3
+Canada,07-Jan,6.4
+Canada,07-Feb,6.3
+Canada,07-Mar,6.3
+Canada,07-Apr,6.3
+Canada,07-May,6.2
+Canada,07-Jun,6.1
+Canada,07-Jul,6
+Canada,07-Aug,6
+Canada,07-Sep,6
+Canada,07-Oct,6
+Canada,07-Nov,6.1
+Canada,07-Dec,6.2
+Canada,08-Jan,6.1
+Canada,08-Feb,6.1
+Canada,08-Mar,6.2
+Canada,08-Apr,6.2
+Canada,08-May,6.2
+Canada,08-Jun,6.1
+Canada,08-Jul,6.2
+Canada,08-Aug,6.2
+Canada,08-Sep,6.3
+Canada,08-Oct,6.4
+Canada,08-Nov,6.7
+Canada,08-Dec,7
+Canada,09-Jan,7.5
+Canada,09-Feb,8.1
+Canada,09-Mar,8.3
+Canada,09-Apr,8.4
+Canada,09-May,8.6
+Canada,09-Jun,8.8
+Canada,09-Jul,8.8
+Canada,09-Aug,8.8
+Canada,09-Sep,8.5
+Canada,09-Oct,8.5
+Canada,09-Nov,8.6
+Canada,09-Dec,8.6
+Canada,10-Jan,8.4
+Canada,10-Feb,8.4
+Canada,10-Mar,8.3
+Canada,10-Apr,8.2
+Canada,10-May,8.1
+Canada,10-Jun,8
+Canada,10-Jul,8.2
+Canada,10-Aug,8.2
+Canada,10-Sep,8.2
+Canada,10-Oct,8.1
+Canada,10-Nov,7.8
+Canada,10-Dec,7.8
+Canada,11-Jan,7.8
+Canada,11-Feb,7.8
+Canada,11-Mar,7.8
+Canada,11-Apr,7.8
+Canada,11-May,7.7
+Canada,11-Jun,7.7
+Canada,11-Jul,7.4
+Canada,11-Aug,7.4
+Canada,11-Sep,7.4
+Canada,11-Oct,7.5
+Canada,11-Nov,7.6
+Canada,11-Dec,7.5
+Canada,12-Jan,7.7
+Canada,12-Feb,7.6
+Canada,12-Mar,7.3
+Canada,12-Apr,7.4
+Canada,12-May,7.5
+Canada,12-Jun,7.4
+Canada,12-Jul,7.3
+Canada,12-Aug,7.4
+Canada,12-Sep,7.4
+Canada,12-Oct,7.4
+Canada,12-Nov,7.3
+Canada,12-Dec,7.2
+Canada,13-Jan,7.1
+Canada,13-Feb,7
+Canada,13-Mar,7.3
+Canada,13-Apr,7.2
+Canada,13-May,7
+Canada,13-Jun,7.2
+Canada,13-Jul,7.3
+Canada,13-Aug,7.2
+Canada,13-Sep,7.1
+Canada,13-Oct,7.2
+Canada,13-Nov,7.1
+Canada,13-Dec,7.4
+Canada,14-Jan,7.2
+Canada,14-Feb,7.2
+Canada,14-Mar,7.1
+Canada,14-Apr,7.1
+Canada,14-May,7.3
+Canada,14-Jun,7.1
+Canada,14-Jul,7.1
+Canada,14-Aug,7
+Canada,14-Sep,7
+Canada,14-Oct,6.8
+Canada,14-Nov,6.8
+Canada,14-Dec,6.7
+Canada,15-Jan,6.8
+Canada,15-Feb,6.9
+Canada,15-Mar,6.8
+Canada,15-Apr,6.9
+Canada,15-May,6.8
+Canada,15-Jun,6.9
+Canada,15-Jul,6.9
+Canada,15-Aug,7
+Canada,15-Sep,7.1
+Canada,15-Oct,7
+Canada,15-Nov,7.1
+Canada,15-Dec,7.2
+Canada,16-Jan,7.3
+Canada,16-Feb,7.3
+Canada,16-Mar,7.2
+Canada,16-Apr,7.3
+Canada,16-May,7
+Canada,16-Jun,6.9
+Canada,16-Jul,6.9
+Canada,16-Aug,6.9
+Canada,16-Sep,7
+Canada,16-Oct,6.9
+Canada,16-Nov,6.8
+Canada,16-Dec,6.9
+Canada,17-Jan,6.8
+Canada,17-Feb,6.6
+Canada,17-Mar,6.7
+Canada,17-Apr,6.5
+Canada,17-May,6.6
+Canada,17-Jun,6.5
+Canada,17-Jul,6.3
+Canada,17-Aug,6.2
+Canada,17-Sep,6.2
+Canada,17-Oct,6.4
+Canada,17-Nov,6.1
+Canada,17-Dec,6
+Canada,18-Jan,5.9
+Canada,18-Feb,6
+Canada,18-Mar,5.8
+Canada,18-Apr,5.8
+Canada,18-May,5.9
+Canada,18-Jun,6
+Canada,18-Jul,5.9
+Canada,18-Aug,6
+Canada,18-Sep,5.8
+Canada,18-Oct,5.7
+Canada,18-Nov,5.7
+Canada,18-Dec,5.7
+Canada,19-Jan,5.7
+Canada,19-Feb,5.8
+Canada,19-Mar,5.9
+Canada,19-Apr,5.7
+Canada,19-May,5.4
+Canada,19-Jun,5.6
+Canada,19-Jul,5.8
+Canada,19-Aug,5.8
+Canada,19-Sep,5.6
+Canada,19-Oct,5.6
+Canada,19-Nov,5.9
+Canada,19-Dec,5.6
+Canada,20-Jan,5.5
+Canada,20-Feb,5.7
+Canada,20-Mar,8.4
+Canada,20-Apr,13.6
+Canada,20-May,14.1
+Canada,20-Jun,12.4
+Canada,20-Jul,11
+Canada,20-Aug,10.2
+Canada,20-Sep,9.2
+Canada,20-Oct,9
+Canada,20-Nov,8.7
+Canada,20-Dec,8.9
+Canada,21-Jan,9.2
+Canada,21-Feb,8.5
+Canada,21-Mar,7.7
+Canada,21-Apr,8.2
+Canada,21-May,8.3
+Canada,21-Jun,7.9
+Canada,21-Jul,7.4
+Canada,21-Aug,7.1
+Canada,21-Sep,7
+Canada,21-Oct,6.5
+Canada,21-Nov,6.1
+Canada,21-Dec,5.9
+Canada,22-Jan,6.5
+Canada,22-Feb,5.5
+Canada,22-Mar,5.4
+Canada,22-Apr,5.3
+Canada,22-May,5.2
+Canada,22-Jun,5
+Canada,22-Jul,4.8
+Canada,22-Aug,5.2
+Canada,22-Sep,5.1
+Canada,22-Oct,5.1
+Canada,22-Nov,5.1
+Canada,22-Dec,5
+Canada,23-Jan,5
+Canada,23-Feb,5.1
+Canada,23-Mar,5.1
+Canada,23-Apr,5.1
+Canada,23-May,5.3
+Canada,23-Jun,5.4
+Canada,23-Jul,5.5
+Canada,23-Aug,5.5
+Canada,23-Sep,5.6
+Canada,23-Oct,5.7
+Canada,23-Nov,5.8
+Canada,23-Dec,5.8
+Canada,24-Jan,5.7
+Canada,24-Feb,5.8
+Canada,24-Mar,6.1
+Canada,24-Apr,6.1
+Canada,24-May,6.2
+Newfoundland and Labrador,Jan-76,12.3
+Newfoundland and Labrador,Feb-76,12.7
+Newfoundland and Labrador,Mar-76,12.3
+Newfoundland and Labrador,Apr-76,13.4
+Newfoundland and Labrador,May-76,13.3
+Newfoundland and Labrador,Jun-76,12.9
+Newfoundland and Labrador,Jul-76,14.5
+Newfoundland and Labrador,Aug-76,14
+Newfoundland and Labrador,Sep-76,13.5
+Newfoundland and Labrador,Oct-76,13.9
+Newfoundland and Labrador,Nov-76,14.3
+Newfoundland and Labrador,Dec-76,13.5
+Newfoundland and Labrador,Jan-77,14.2
+Newfoundland and Labrador,Feb-77,14.2
+Newfoundland and Labrador,Mar-77,14.5
+Newfoundland and Labrador,Apr-77,15.6
+Newfoundland and Labrador,May-77,14.3
+Newfoundland and Labrador,Jun-77,15.5
+Newfoundland and Labrador,Jul-77,15.6
+Newfoundland and Labrador,Aug-77,15.7
+Newfoundland and Labrador,Sep-77,16.5
+Newfoundland and Labrador,Oct-77,16.8
+Newfoundland and Labrador,Nov-77,16.6
+Newfoundland and Labrador,Dec-77,16.6
+Newfoundland and Labrador,Jan-78,15.1
+Newfoundland and Labrador,Feb-78,15.4
+Newfoundland and Labrador,Mar-78,15.9
+Newfoundland and Labrador,Apr-78,16.6
+Newfoundland and Labrador,May-78,16.6
+Newfoundland and Labrador,Jun-78,16
+Newfoundland and Labrador,Jul-78,16.4
+Newfoundland and Labrador,Aug-78,16.2
+Newfoundland and Labrador,Sep-78,16
+Newfoundland and Labrador,Oct-78,15.7
+Newfoundland and Labrador,Nov-78,15.1
+Newfoundland and Labrador,Dec-78,16.3
+Newfoundland and Labrador,Jan-79,16.9
+Newfoundland and Labrador,Feb-79,16.5
+Newfoundland and Labrador,Mar-79,16.5
+Newfoundland and Labrador,Apr-79,15.9
+Newfoundland and Labrador,May-79,15.7
+Newfoundland and Labrador,Jun-79,14.4
+Newfoundland and Labrador,Jul-79,13.8
+Newfoundland and Labrador,Aug-79,13
+Newfoundland and Labrador,Sep-79,12.7
+Newfoundland and Labrador,Oct-79,13.2
+Newfoundland and Labrador,Nov-79,14.1
+Newfoundland and Labrador,Dec-79,14.3
+Newfoundland and Labrador,Jan-80,14.4
+Newfoundland and Labrador,Feb-80,14
+Newfoundland and Labrador,Mar-80,13.7
+Newfoundland and Labrador,Apr-80,13.6
+Newfoundland and Labrador,May-80,13.8
+Newfoundland and Labrador,Jun-80,14
+Newfoundland and Labrador,Jul-80,13.4
+Newfoundland and Labrador,Aug-80,13.5
+Newfoundland and Labrador,Sep-80,12.6
+Newfoundland and Labrador,Oct-80,11.9
+Newfoundland and Labrador,Nov-80,11.8
+Newfoundland and Labrador,Dec-80,13.2
+Newfoundland and Labrador,Jan-81,13.2
+Newfoundland and Labrador,Feb-81,12.7
+Newfoundland and Labrador,Mar-81,12.7
+Newfoundland and Labrador,Apr-81,12.5
+Newfoundland and Labrador,May-81,11.3
+Newfoundland and Labrador,Jun-81,13
+Newfoundland and Labrador,Jul-81,13.3
+Newfoundland and Labrador,Aug-81,13.4
+Newfoundland and Labrador,Sep-81,16.7
+Newfoundland and Labrador,Oct-81,15.7
+Newfoundland and Labrador,Nov-81,13.9
+Newfoundland and Labrador,Dec-81,13.6
+Newfoundland and Labrador,Jan-82,13.8
+Newfoundland and Labrador,Feb-82,14.2
+Newfoundland and Labrador,Mar-82,13.7
+Newfoundland and Labrador,Apr-82,14.8
+Newfoundland and Labrador,May-82,15.8
+Newfoundland and Labrador,Jun-82,16
+Newfoundland and Labrador,Jul-82,16.2
+Newfoundland and Labrador,Aug-82,17.1
+Newfoundland and Labrador,Sep-82,18.1
+Newfoundland and Labrador,Oct-82,18.8
+Newfoundland and Labrador,Nov-82,18.4
+Newfoundland and Labrador,Dec-82,18.5
+Newfoundland and Labrador,Jan-83,17.1
+Newfoundland and Labrador,Feb-83,18
+Newfoundland and Labrador,Mar-83,18
+Newfoundland and Labrador,Apr-83,18.2
+Newfoundland and Labrador,May-83,17.3
+Newfoundland and Labrador,Jun-83,18.3
+Newfoundland and Labrador,Jul-83,18.1
+Newfoundland and Labrador,Aug-83,17.7
+Newfoundland and Labrador,Sep-83,17.8
+Newfoundland and Labrador,Oct-83,18.1
+Newfoundland and Labrador,Nov-83,18.9
+Newfoundland and Labrador,Dec-83,19.4
+Newfoundland and Labrador,Jan-84,19.8
+Newfoundland and Labrador,Feb-84,20.2
+Newfoundland and Labrador,Mar-84,19.7
+Newfoundland and Labrador,Apr-84,19.3
+Newfoundland and Labrador,May-84,20.2
+Newfoundland and Labrador,Jun-84,17.9
+Newfoundland and Labrador,Jul-84,19.1
+Newfoundland and Labrador,Aug-84,19.9
+Newfoundland and Labrador,Sep-84,22.7
+Newfoundland and Labrador,Oct-84,21
+Newfoundland and Labrador,Nov-84,21.3
+Newfoundland and Labrador,Dec-84,21.2
+Newfoundland and Labrador,Jan-85,20.7
+Newfoundland and Labrador,Feb-85,20.1
+Newfoundland and Labrador,Mar-85,19.5
+Newfoundland and Labrador,Apr-85,21.6
+Newfoundland and Labrador,May-85,21.5
+Newfoundland and Labrador,Jun-85,21.6
+Newfoundland and Labrador,Jul-85,19.9
+Newfoundland and Labrador,Aug-85,19.6
+Newfoundland and Labrador,Sep-85,19.1
+Newfoundland and Labrador,Oct-85,19.2
+Newfoundland and Labrador,Nov-85,19.4
+Newfoundland and Labrador,Dec-85,19.7
+Newfoundland and Labrador,Jan-86,19
+Newfoundland and Labrador,Feb-86,18.8
+Newfoundland and Labrador,Mar-86,19.2
+Newfoundland and Labrador,Apr-86,18.2
+Newfoundland and Labrador,May-86,17.3
+Newfoundland and Labrador,Jun-86,19
+Newfoundland and Labrador,Jul-86,20.6
+Newfoundland and Labrador,Aug-86,19.6
+Newfoundland and Labrador,Sep-86,19
+Newfoundland and Labrador,Oct-86,19.2
+Newfoundland and Labrador,Nov-86,19
+Newfoundland and Labrador,Dec-86,18.2
+Newfoundland and Labrador,Jan-87,18.8
+Newfoundland and Labrador,Feb-87,18.4
+Newfoundland and Labrador,Mar-87,19.2
+Newfoundland and Labrador,Apr-87,19.5
+Newfoundland and Labrador,May-87,19.7
+Newfoundland and Labrador,Jun-87,17.5
+Newfoundland and Labrador,Jul-87,16.2
+Newfoundland and Labrador,Aug-87,16.7
+Newfoundland and Labrador,Sep-87,16.5
+Newfoundland and Labrador,Oct-87,16.7
+Newfoundland and Labrador,Nov-87,16.6
+Newfoundland and Labrador,Dec-87,17.9
+Newfoundland and Labrador,Jan-88,17.4
+Newfoundland and Labrador,Feb-88,17.5
+Newfoundland and Labrador,Mar-88,17.2
+Newfoundland and Labrador,Apr-88,16.9
+Newfoundland and Labrador,May-88,16.6
+Newfoundland and Labrador,Jun-88,15.7
+Newfoundland and Labrador,Jul-88,16.1
+Newfoundland and Labrador,Aug-88,16.5
+Newfoundland and Labrador,Sep-88,16
+Newfoundland and Labrador,Oct-88,15.3
+Newfoundland and Labrador,Nov-88,14.7
+Newfoundland and Labrador,Dec-88,13.6
+Newfoundland and Labrador,Jan-89,15.2
+Newfoundland and Labrador,Feb-89,15
+Newfoundland and Labrador,Mar-89,15.2
+Newfoundland and Labrador,Apr-89,14.5
+Newfoundland and Labrador,May-89,14.4
+Newfoundland and Labrador,Jun-89,14.5
+Newfoundland and Labrador,Jul-89,14.5
+Newfoundland and Labrador,Aug-89,15.2
+Newfoundland and Labrador,Sep-89,16.5
+Newfoundland and Labrador,Oct-89,16.2
+Newfoundland and Labrador,Nov-89,16.4
+Newfoundland and Labrador,Dec-89,16.6
+Newfoundland and Labrador,Jan-90,16.9
+Newfoundland and Labrador,Feb-90,16.7
+Newfoundland and Labrador,Mar-90,15.4
+Newfoundland and Labrador,Apr-90,16.7
+Newfoundland and Labrador,May-90,17.1
+Newfoundland and Labrador,Jun-90,17.3
+Newfoundland and Labrador,Jul-90,17.6
+Newfoundland and Labrador,Aug-90,16.8
+Newfoundland and Labrador,Sep-90,16.7
+Newfoundland and Labrador,Oct-90,16.4
+Newfoundland and Labrador,Nov-90,18
+Newfoundland and Labrador,Dec-90,17.6
+Newfoundland and Labrador,Jan-91,17.9
+Newfoundland and Labrador,Feb-91,18.2
+Newfoundland and Labrador,Mar-91,18.7
+Newfoundland and Labrador,Apr-91,19.2
+Newfoundland and Labrador,May-91,18.9
+Newfoundland and Labrador,Jun-91,18.7
+Newfoundland and Labrador,Jul-91,17.6
+Newfoundland and Labrador,Aug-91,18.5
+Newfoundland and Labrador,Sep-91,18.3
+Newfoundland and Labrador,Oct-91,17.4
+Newfoundland and Labrador,Nov-91,16
+Newfoundland and Labrador,Dec-91,16.2
+Newfoundland and Labrador,Jan-92,18
+Newfoundland and Labrador,Feb-92,18.7
+Newfoundland and Labrador,Mar-92,19.9
+Newfoundland and Labrador,Apr-92,19
+Newfoundland and Labrador,May-92,19.6
+Newfoundland and Labrador,Jun-92,20.2
+Newfoundland and Labrador,Jul-92,20.4
+Newfoundland and Labrador,Aug-92,20.5
+Newfoundland and Labrador,Sep-92,20.5
+Newfoundland and Labrador,Oct-92,21.1
+Newfoundland and Labrador,Nov-92,22.1
+Newfoundland and Labrador,Dec-92,20.9
+Newfoundland and Labrador,Jan-93,20.1
+Newfoundland and Labrador,Feb-93,20.3
+Newfoundland and Labrador,Mar-93,20.4
+Newfoundland and Labrador,Apr-93,20.3
+Newfoundland and Labrador,May-93,19.6
+Newfoundland and Labrador,Jun-93,19.6
+Newfoundland and Labrador,Jul-93,19.9
+Newfoundland and Labrador,Aug-93,20
+Newfoundland and Labrador,Sep-93,19.7
+Newfoundland and Labrador,Oct-93,20.1
+Newfoundland and Labrador,Nov-93,20.1
+Newfoundland and Labrador,Dec-93,20.5
+Newfoundland and Labrador,Jan-94,20.4
+Newfoundland and Labrador,Feb-94,18.7
+Newfoundland and Labrador,Mar-94,18.8
+Newfoundland and Labrador,Apr-94,20
+Newfoundland and Labrador,May-94,20.6
+Newfoundland and Labrador,Jun-94,19.9
+Newfoundland and Labrador,Jul-94,20.2
+Newfoundland and Labrador,Aug-94,20.2
+Newfoundland and Labrador,Sep-94,20.2
+Newfoundland and Labrador,Oct-94,20.1
+Newfoundland and Labrador,Nov-94,20.7
+Newfoundland and Labrador,Dec-94,19.6
+Newfoundland and Labrador,Jan-95,18
+Newfoundland and Labrador,Feb-95,17.5
+Newfoundland and Labrador,Mar-95,18
+Newfoundland and Labrador,Apr-95,17.5
+Newfoundland and Labrador,May-95,18.4
+Newfoundland and Labrador,Jun-95,17.9
+Newfoundland and Labrador,Jul-95,19.1
+Newfoundland and Labrador,Aug-95,19
+Newfoundland and Labrador,Sep-95,18.3
+Newfoundland and Labrador,Oct-95,17.5
+Newfoundland and Labrador,Nov-95,17
+Newfoundland and Labrador,Dec-95,16.6
+Newfoundland and Labrador,Jan-96,18.2
+Newfoundland and Labrador,Feb-96,19.1
+Newfoundland and Labrador,Mar-96,18.6
+Newfoundland and Labrador,Apr-96,18.3
+Newfoundland and Labrador,May-96,18
+Newfoundland and Labrador,Jun-96,19.5
+Newfoundland and Labrador,Jul-96,18.9
+Newfoundland and Labrador,Aug-96,18.2
+Newfoundland and Labrador,Sep-96,19.6
+Newfoundland and Labrador,Oct-96,20.1
+Newfoundland and Labrador,Nov-96,19.4
+Newfoundland and Labrador,Dec-96,20.1
+Newfoundland and Labrador,Jan-97,19.7
+Newfoundland and Labrador,Feb-97,18.9
+Newfoundland and Labrador,Mar-97,18.7
+Newfoundland and Labrador,Apr-97,18.4
+Newfoundland and Labrador,May-97,19.7
+Newfoundland and Labrador,Jun-97,19
+Newfoundland and Labrador,Jul-97,18
+Newfoundland and Labrador,Aug-97,17.5
+Newfoundland and Labrador,Sep-97,17.1
+Newfoundland and Labrador,Oct-97,17.3
+Newfoundland and Labrador,Nov-97,17.3
+Newfoundland and Labrador,Dec-97,16.8
+Newfoundland and Labrador,Jan-98,17.2
+Newfoundland and Labrador,Feb-98,17.7
+Newfoundland and Labrador,Mar-98,16.4
+Newfoundland and Labrador,Apr-98,17
+Newfoundland and Labrador,May-98,17.2
+Newfoundland and Labrador,Jun-98,17.4
+Newfoundland and Labrador,Jul-98,17.6
+Newfoundland and Labrador,Aug-98,19.7
+Newfoundland and Labrador,Sep-98,18.9
+Newfoundland and Labrador,Oct-98,18
+Newfoundland and Labrador,Nov-98,17.3
+Newfoundland and Labrador,Dec-98,17.9
+Newfoundland and Labrador,Jan-99,17.1
+Newfoundland and Labrador,Feb-99,15.1
+Newfoundland and Labrador,Mar-99,17.1
+Newfoundland and Labrador,Apr-99,18.1
+Newfoundland and Labrador,May-99,17.6
+Newfoundland and Labrador,Jun-99,17.6
+Newfoundland and Labrador,Jul-99,17.3
+Newfoundland and Labrador,Aug-99,16.9
+Newfoundland and Labrador,Sep-99,17
+Newfoundland and Labrador,Oct-99,16.5
+Newfoundland and Labrador,Nov-99,15.7
+Newfoundland and Labrador,Dec-99,13.9
+Newfoundland and Labrador,Jan-00,16.8
+Newfoundland and Labrador,Feb-00,17.2
+Newfoundland and Labrador,Mar-00,17.4
+Newfoundland and Labrador,Apr-00,15.9
+Newfoundland and Labrador,May-00,15.9
+Newfoundland and Labrador,Jun-00,16
+Newfoundland and Labrador,Jul-00,16.3
+Newfoundland and Labrador,Aug-00,16
+Newfoundland and Labrador,Sep-00,16.7
+Newfoundland and Labrador,Oct-00,16.4
+Newfoundland and Labrador,Nov-00,17.1
+Newfoundland and Labrador,Dec-00,17.1
+Newfoundland and Labrador,01-Jan,15
+Newfoundland and Labrador,01-Feb,15.8
+Newfoundland and Labrador,01-Mar,16.1
+Newfoundland and Labrador,01-Apr,17.7
+Newfoundland and Labrador,01-May,15.5
+Newfoundland and Labrador,01-Jun,16
+Newfoundland and Labrador,01-Jul,16.2
+Newfoundland and Labrador,01-Aug,16.6
+Newfoundland and Labrador,01-Sep,15.7
+Newfoundland and Labrador,01-Oct,16.1
+Newfoundland and Labrador,01-Nov,15.4
+Newfoundland and Labrador,01-Dec,16
+Newfoundland and Labrador,02-Jan,16.4
+Newfoundland and Labrador,02-Feb,17.2
+Newfoundland and Labrador,02-Mar,16.5
+Newfoundland and Labrador,02-Apr,15
+Newfoundland and Labrador,02-May,17.3
+Newfoundland and Labrador,02-Jun,16.6
+Newfoundland and Labrador,02-Jul,15.8
+Newfoundland and Labrador,02-Aug,16.4
+Newfoundland and Labrador,02-Sep,17
+Newfoundland and Labrador,02-Oct,17.6
+Newfoundland and Labrador,02-Nov,17.4
+Newfoundland and Labrador,02-Dec,17.5
+Newfoundland and Labrador,03-Jan,17.6
+Newfoundland and Labrador,03-Feb,17.1
+Newfoundland and Labrador,03-Mar,16.7
+Newfoundland and Labrador,03-Apr,16.4
+Newfoundland and Labrador,03-May,15.8
+Newfoundland and Labrador,03-Jun,15.5
+Newfoundland and Labrador,03-Jul,16.6
+Newfoundland and Labrador,03-Aug,15.8
+Newfoundland and Labrador,03-Sep,16.6
+Newfoundland and Labrador,03-Oct,16.3
+Newfoundland and Labrador,03-Nov,17.2
+Newfoundland and Labrador,03-Dec,17.5
+Newfoundland and Labrador,04-Jan,16
+Newfoundland and Labrador,04-Feb,15.4
+Newfoundland and Labrador,04-Mar,15.5
+Newfoundland and Labrador,04-Apr,15.6
+Newfoundland and Labrador,04-May,15.7
+Newfoundland and Labrador,04-Jun,16.3
+Newfoundland and Labrador,04-Jul,15
+Newfoundland and Labrador,04-Aug,15
+Newfoundland and Labrador,04-Sep,15.7
+Newfoundland and Labrador,04-Oct,15.3
+Newfoundland and Labrador,04-Nov,15.9
+Newfoundland and Labrador,04-Dec,14.5
+Newfoundland and Labrador,05-Jan,14.2
+Newfoundland and Labrador,05-Feb,15.4
+Newfoundland and Labrador,05-Mar,14.7
+Newfoundland and Labrador,05-Apr,15.6
+Newfoundland and Labrador,05-May,15.8
+Newfoundland and Labrador,05-Jun,14.3
+Newfoundland and Labrador,05-Jul,14.6
+Newfoundland and Labrador,05-Aug,15.9
+Newfoundland and Labrador,05-Sep,15.2
+Newfoundland and Labrador,05-Oct,15.3
+Newfoundland and Labrador,05-Nov,14.9
+Newfoundland and Labrador,05-Dec,15.8
+Newfoundland and Labrador,06-Jan,16
+Newfoundland and Labrador,06-Feb,15
+Newfoundland and Labrador,06-Mar,15.6
+Newfoundland and Labrador,06-Apr,15.6
+Newfoundland and Labrador,06-May,15.3
+Newfoundland and Labrador,06-Jun,14.9
+Newfoundland and Labrador,06-Jul,15.2
+Newfoundland and Labrador,06-Aug,15.9
+Newfoundland and Labrador,06-Sep,14.2
+Newfoundland and Labrador,06-Oct,14.1
+Newfoundland and Labrador,06-Nov,13.5
+Newfoundland and Labrador,06-Dec,14.3
+Newfoundland and Labrador,07-Jan,15.4
+Newfoundland and Labrador,07-Feb,14.3
+Newfoundland and Labrador,07-Mar,14.7
+Newfoundland and Labrador,07-Apr,13.5
+Newfoundland and Labrador,07-May,13.4
+Newfoundland and Labrador,07-Jun,13.6
+Newfoundland and Labrador,07-Jul,13.4
+Newfoundland and Labrador,07-Aug,13.2
+Newfoundland and Labrador,07-Sep,13.1
+Newfoundland and Labrador,07-Oct,13.7
+Newfoundland and Labrador,07-Nov,12.7
+Newfoundland and Labrador,07-Dec,12.9
+Newfoundland and Labrador,08-Jan,12.6
+Newfoundland and Labrador,08-Feb,13.4
+Newfoundland and Labrador,08-Mar,13
+Newfoundland and Labrador,08-Apr,13.8
+Newfoundland and Labrador,08-May,13
+Newfoundland and Labrador,08-Jun,13.2
+Newfoundland and Labrador,08-Jul,12.6
+Newfoundland and Labrador,08-Aug,13.3
+Newfoundland and Labrador,08-Sep,13.9
+Newfoundland and Labrador,08-Oct,13.9
+Newfoundland and Labrador,08-Nov,14.1
+Newfoundland and Labrador,08-Dec,13.9
+Newfoundland and Labrador,09-Jan,14.8
+Newfoundland and Labrador,09-Feb,15.9
+Newfoundland and Labrador,09-Mar,14.8
+Newfoundland and Labrador,09-Apr,15.2
+Newfoundland and Labrador,09-May,15.7
+Newfoundland and Labrador,09-Jun,16
+Newfoundland and Labrador,09-Jul,18.1
+Newfoundland and Labrador,09-Aug,16.2
+Newfoundland and Labrador,09-Sep,16
+Newfoundland and Labrador,09-Oct,16.5
+Newfoundland and Labrador,09-Nov,15.6
+Newfoundland and Labrador,09-Dec,15.6
+Newfoundland and Labrador,10-Jan,15.3
+Newfoundland and Labrador,10-Feb,15.1
+Newfoundland and Labrador,10-Mar,16.1
+Newfoundland and Labrador,10-Apr,15.8
+Newfoundland and Labrador,10-May,14.7
+Newfoundland and Labrador,10-Jun,14.9
+Newfoundland and Labrador,10-Jul,15.4
+Newfoundland and Labrador,10-Aug,14.2
+Newfoundland and Labrador,10-Sep,14
+Newfoundland and Labrador,10-Oct,13.6
+Newfoundland and Labrador,10-Nov,14
+Newfoundland and Labrador,10-Dec,14.3
+Newfoundland and Labrador,11-Jan,12.5
+Newfoundland and Labrador,11-Feb,12.6
+Newfoundland and Labrador,11-Mar,12.5
+Newfoundland and Labrador,11-Apr,11.8
+Newfoundland and Labrador,11-May,13
+Newfoundland and Labrador,11-Jun,13.1
+Newfoundland and Labrador,11-Jul,12.6
+Newfoundland and Labrador,11-Aug,13.7
+Newfoundland and Labrador,11-Sep,13.9
+Newfoundland and Labrador,11-Oct,14.1
+Newfoundland and Labrador,11-Nov,13.6
+Newfoundland and Labrador,11-Dec,13.5
+Newfoundland and Labrador,12-Jan,13.8
+Newfoundland and Labrador,12-Feb,13.3
+Newfoundland and Labrador,12-Mar,12.8
+Newfoundland and Labrador,12-Apr,12.5
+Newfoundland and Labrador,12-May,12.6
+Newfoundland and Labrador,12-Jun,13.4
+Newfoundland and Labrador,12-Jul,12.9
+Newfoundland and Labrador,12-Aug,13.5
+Newfoundland and Labrador,12-Sep,12.6
+Newfoundland and Labrador,12-Oct,11.9
+Newfoundland and Labrador,12-Nov,12.4
+Newfoundland and Labrador,12-Dec,11.8
+Newfoundland and Labrador,13-Jan,12.1
+Newfoundland and Labrador,13-Feb,11.9
+Newfoundland and Labrador,13-Mar,12.4
+Newfoundland and Labrador,13-Apr,12.9
+Newfoundland and Labrador,13-May,12
+Newfoundland and Labrador,13-Jun,11.7
+Newfoundland and Labrador,13-Jul,12.1
+Newfoundland and Labrador,13-Aug,11
+Newfoundland and Labrador,13-Sep,10.7
+Newfoundland and Labrador,13-Oct,11.4
+Newfoundland and Labrador,13-Nov,12.3
+Newfoundland and Labrador,13-Dec,11.6
+Newfoundland and Labrador,14-Jan,12.3
+Newfoundland and Labrador,14-Feb,12.2
+Newfoundland and Labrador,14-Mar,11.7
+Newfoundland and Labrador,14-Apr,12.2
+Newfoundland and Labrador,14-May,13.3
+Newfoundland and Labrador,14-Jun,12.8
+Newfoundland and Labrador,14-Jul,13.1
+Newfoundland and Labrador,14-Aug,13.7
+Newfoundland and Labrador,14-Sep,12.9
+Newfoundland and Labrador,14-Oct,12.9
+Newfoundland and Labrador,14-Nov,11.8
+Newfoundland and Labrador,14-Dec,12
+Newfoundland and Labrador,15-Jan,11.9
+Newfoundland and Labrador,15-Feb,12.5
+Newfoundland and Labrador,15-Mar,13.6
+Newfoundland and Labrador,15-Apr,13.6
+Newfoundland and Labrador,15-May,14.4
+Newfoundland and Labrador,15-Jun,12.8
+Newfoundland and Labrador,15-Jul,12
+Newfoundland and Labrador,15-Aug,12.2
+Newfoundland and Labrador,15-Sep,13.8
+Newfoundland and Labrador,15-Oct,13.1
+Newfoundland and Labrador,15-Nov,13.6
+Newfoundland and Labrador,15-Dec,14.1
+Newfoundland and Labrador,16-Jan,14.6
+Newfoundland and Labrador,16-Feb,14.4
+Newfoundland and Labrador,16-Mar,13.4
+Newfoundland and Labrador,16-Apr,13
+Newfoundland and Labrador,16-May,12.3
+Newfoundland and Labrador,16-Jun,11.9
+Newfoundland and Labrador,16-Jul,13
+Newfoundland and Labrador,16-Aug,13
+Newfoundland and Labrador,16-Sep,13.8
+Newfoundland and Labrador,16-Oct,15.1
+Newfoundland and Labrador,16-Nov,15.1
+Newfoundland and Labrador,16-Dec,15
+Newfoundland and Labrador,17-Jan,14.6
+Newfoundland and Labrador,17-Feb,14.8
+Newfoundland and Labrador,17-Mar,15.5
+Newfoundland and Labrador,17-Apr,14.9
+Newfoundland and Labrador,17-May,15.3
+Newfoundland and Labrador,17-Jun,15.6
+Newfoundland and Labrador,17-Jul,15.2
+Newfoundland and Labrador,17-Aug,15.1
+Newfoundland and Labrador,17-Sep,15.4
+Newfoundland and Labrador,17-Oct,15.3
+Newfoundland and Labrador,17-Nov,15.3
+Newfoundland and Labrador,17-Dec,15.2
+Newfoundland and Labrador,18-Jan,15.2
+Newfoundland and Labrador,18-Feb,15
+Newfoundland and Labrador,18-Mar,14.8
+Newfoundland and Labrador,18-Apr,14.8
+Newfoundland and Labrador,18-May,14.5
+Newfoundland and Labrador,18-Jun,14.7
+Newfoundland and Labrador,18-Jul,15
+Newfoundland and Labrador,18-Aug,14.2
+Newfoundland and Labrador,18-Sep,13.1
+Newfoundland and Labrador,18-Oct,12
+Newfoundland and Labrador,18-Nov,12.5
+Newfoundland and Labrador,18-Dec,12.3
+Newfoundland and Labrador,19-Jan,11.8
+Newfoundland and Labrador,19-Feb,12
+Newfoundland and Labrador,19-Mar,12.3
+Newfoundland and Labrador,19-Apr,12
+Newfoundland and Labrador,19-May,12.3
+Newfoundland and Labrador,19-Jun,12.7
+Newfoundland and Labrador,19-Jul,12.6
+Newfoundland and Labrador,19-Aug,12.9
+Newfoundland and Labrador,19-Sep,11.3
+Newfoundland and Labrador,19-Oct,11.9
+Newfoundland and Labrador,19-Nov,12.2
+Newfoundland and Labrador,19-Dec,12.5
+Newfoundland and Labrador,20-Jan,12.2
+Newfoundland and Labrador,20-Feb,12.4
+Newfoundland and Labrador,20-Mar,11.7
+Newfoundland and Labrador,20-Apr,15.7
+Newfoundland and Labrador,20-May,17.6
+Newfoundland and Labrador,20-Jun,17.6
+Newfoundland and Labrador,20-Jul,17.1
+Newfoundland and Labrador,20-Aug,14.2
+Newfoundland and Labrador,20-Sep,15.1
+Newfoundland and Labrador,20-Oct,13.5
+Newfoundland and Labrador,20-Nov,13.2
+Newfoundland and Labrador,20-Dec,13.6
+Newfoundland and Labrador,21-Jan,12.3
+Newfoundland and Labrador,21-Feb,15.3
+Newfoundland and Labrador,21-Mar,13.3
+Newfoundland and Labrador,21-Apr,13.1
+Newfoundland and Labrador,21-May,13.1
+Newfoundland and Labrador,21-Jun,12.8
+Newfoundland and Labrador,21-Jul,13.2
+Newfoundland and Labrador,21-Aug,13.2
+Newfoundland and Labrador,21-Sep,14
+Newfoundland and Labrador,21-Oct,13.6
+Newfoundland and Labrador,21-Nov,11.1
+Newfoundland and Labrador,21-Dec,12.1
+Newfoundland and Labrador,22-Jan,13.6
+Newfoundland and Labrador,22-Feb,12.9
+Newfoundland and Labrador,22-Mar,13.3
+Newfoundland and Labrador,22-Apr,11.5
+Newfoundland and Labrador,22-May,10.3
+Newfoundland and Labrador,22-Jun,10
+Newfoundland and Labrador,22-Jul,10.5
+Newfoundland and Labrador,22-Aug,10.8
+Newfoundland and Labrador,22-Sep,10.1
+Newfoundland and Labrador,22-Oct,10.5
+Newfoundland and Labrador,22-Nov,10.5
+Newfoundland and Labrador,22-Dec,9.8
+Newfoundland and Labrador,23-Jan,11.4
+Newfoundland and Labrador,23-Feb,10.2
+Newfoundland and Labrador,23-Mar,10.4
+Newfoundland and Labrador,23-Apr,9.8
+Newfoundland and Labrador,23-May,10.3
+Newfoundland and Labrador,23-Jun,8.8
+Newfoundland and Labrador,23-Jul,8.9
+Newfoundland and Labrador,23-Aug,8.8
+Newfoundland and Labrador,23-Sep,9.6
+Newfoundland and Labrador,23-Oct,9.9
+Newfoundland and Labrador,23-Nov,10
+Newfoundland and Labrador,23-Dec,10.5
+Newfoundland and Labrador,24-Jan,10.2
+Newfoundland and Labrador,24-Feb,10.2
+Newfoundland and Labrador,24-Mar,10.1
+Newfoundland and Labrador,24-Apr,9.1
+Newfoundland and Labrador,24-May,9.9
+Prince Edward Island,Jan-76,9.9
+Prince Edward Island,Feb-76,10.9
+Prince Edward Island,Mar-76,8.6
+Prince Edward Island,Apr-76,8.7
+Prince Edward Island,May-76,8.7
+Prince Edward Island,Jun-76,9.7
+Prince Edward Island,Jul-76,11.2
+Prince Edward Island,Aug-76,9.2
+Prince Edward Island,Sep-76,8.8
+Prince Edward Island,Oct-76,9
+Prince Edward Island,Nov-76,8.2
+Prince Edward Island,Dec-76,7.7
+Prince Edward Island,Jan-77,8.6
+Prince Edward Island,Feb-77,10.1
+Prince Edward Island,Mar-77,9.2
+Prince Edward Island,Apr-77,9.4
+Prince Edward Island,May-77,10
+Prince Edward Island,Jun-77,9.2
+Prince Edward Island,Jul-77,9.8
+Prince Edward Island,Aug-77,10
+Prince Edward Island,Sep-77,9.2
+Prince Edward Island,Oct-77,9.6
+Prince Edward Island,Nov-77,10.2
+Prince Edward Island,Dec-77,10.2
+Prince Edward Island,Jan-78,10.2
+Prince Edward Island,Feb-78,9.4
+Prince Edward Island,Mar-78,9.1
+Prince Edward Island,Apr-78,10.8
+Prince Edward Island,May-78,9.5
+Prince Edward Island,Jun-78,9.4
+Prince Edward Island,Jul-78,9.1
+Prince Edward Island,Aug-78,8.9
+Prince Edward Island,Sep-78,9.8
+Prince Edward Island,Oct-78,9.9
+Prince Edward Island,Nov-78,10.2
+Prince Edward Island,Dec-78,11.2
+Prince Edward Island,Jan-79,11.1
+Prince Edward Island,Feb-79,12
+Prince Edward Island,Mar-79,11.8
+Prince Edward Island,Apr-79,11.9
+Prince Edward Island,May-79,11.4
+Prince Edward Island,Jun-79,12.1
+Prince Edward Island,Jul-79,10.7
+Prince Edward Island,Aug-79,11.8
+Prince Edward Island,Sep-79,11.3
+Prince Edward Island,Oct-79,11.9
+Prince Edward Island,Nov-79,10.8
+Prince Edward Island,Dec-79,10.8
+Prince Edward Island,Jan-80,10.8
+Prince Edward Island,Feb-80,10.6
+Prince Edward Island,Mar-80,9.7
+Prince Edward Island,Apr-80,10.4
+Prince Edward Island,May-80,10.2
+Prince Edward Island,Jun-80,10
+Prince Edward Island,Jul-80,10.4
+Prince Edward Island,Aug-80,10
+Prince Edward Island,Sep-80,10.2
+Prince Edward Island,Oct-80,10.5
+Prince Edward Island,Nov-80,11.1
+Prince Edward Island,Dec-80,11.4
+Prince Edward Island,Jan-81,11.3
+Prince Edward Island,Feb-81,11.4
+Prince Edward Island,Mar-81,12.3
+Prince Edward Island,Apr-81,11.4
+Prince Edward Island,May-81,9.8
+Prince Edward Island,Jun-81,10.8
+Prince Edward Island,Jul-81,11.2
+Prince Edward Island,Aug-81,10.9
+Prince Edward Island,Sep-81,11.8
+Prince Edward Island,Oct-81,11.2
+Prince Edward Island,Nov-81,11.8
+Prince Edward Island,Dec-81,11.3
+Prince Edward Island,Jan-82,10.3
+Prince Edward Island,Feb-82,11.2
+Prince Edward Island,Mar-82,12.1
+Prince Edward Island,Apr-82,12.3
+Prince Edward Island,May-82,13.9
+Prince Edward Island,Jun-82,13.6
+Prince Edward Island,Jul-82,12.7
+Prince Edward Island,Aug-82,14
+Prince Edward Island,Sep-82,12.8
+Prince Edward Island,Oct-82,12.9
+Prince Edward Island,Nov-82,13.6
+Prince Edward Island,Dec-82,13
+Prince Edward Island,Jan-83,13.5
+Prince Edward Island,Feb-83,12.2
+Prince Edward Island,Mar-83,11.7
+Prince Edward Island,Apr-83,11.6
+Prince Edward Island,May-83,11.5
+Prince Edward Island,Jun-83,13.6
+Prince Edward Island,Jul-83,13.5
+Prince Edward Island,Aug-83,13.3
+Prince Edward Island,Sep-83,12.4
+Prince Edward Island,Oct-83,13
+Prince Edward Island,Nov-83,11.7
+Prince Edward Island,Dec-83,11.8
+Prince Edward Island,Jan-84,11.8
+Prince Edward Island,Feb-84,12
+Prince Edward Island,Mar-84,11.8
+Prince Edward Island,Apr-84,13
+Prince Edward Island,May-84,13.5
+Prince Edward Island,Jun-84,12.9
+Prince Edward Island,Jul-84,12.5
+Prince Edward Island,Aug-84,11.8
+Prince Edward Island,Sep-84,13.7
+Prince Edward Island,Oct-84,13.4
+Prince Edward Island,Nov-84,11.9
+Prince Edward Island,Dec-84,12.6
+Prince Edward Island,Jan-85,13.7
+Prince Edward Island,Feb-85,13.7
+Prince Edward Island,Mar-85,13.6
+Prince Edward Island,Apr-85,12.9
+Prince Edward Island,May-85,13.9
+Prince Edward Island,Jun-85,12.8
+Prince Edward Island,Jul-85,12.8
+Prince Edward Island,Aug-85,13.8
+Prince Edward Island,Sep-85,11.2
+Prince Edward Island,Oct-85,13.9
+Prince Edward Island,Nov-85,14.8
+Prince Edward Island,Dec-85,13.6
+Prince Edward Island,Jan-86,12.8
+Prince Edward Island,Feb-86,13
+Prince Edward Island,Mar-86,12.6
+Prince Edward Island,Apr-86,12.6
+Prince Edward Island,May-86,12.6
+Prince Edward Island,Jun-86,14.4
+Prince Edward Island,Jul-86,14
+Prince Edward Island,Aug-86,14.1
+Prince Edward Island,Sep-86,12.2
+Prince Edward Island,Oct-86,12.6
+Prince Edward Island,Nov-86,12.8
+Prince Edward Island,Dec-86,13.5
+Prince Edward Island,Jan-87,12.3
+Prince Edward Island,Feb-87,12.1
+Prince Edward Island,Mar-87,12.2
+Prince Edward Island,Apr-87,11.8
+Prince Edward Island,May-87,10.7
+Prince Edward Island,Jun-87,11.5
+Prince Edward Island,Jul-87,11.7
+Prince Edward Island,Aug-87,13.5
+Prince Edward Island,Sep-87,13.1
+Prince Edward Island,Oct-87,12.3
+Prince Edward Island,Nov-87,13.1
+Prince Edward Island,Dec-87,13
+Prince Edward Island,Jan-88,13.6
+Prince Edward Island,Feb-88,12.4
+Prince Edward Island,Mar-88,12.8
+Prince Edward Island,Apr-88,12.7
+Prince Edward Island,May-88,13.1
+Prince Edward Island,Jun-88,12.6
+Prince Edward Island,Jul-88,12.1
+Prince Edward Island,Aug-88,11.4
+Prince Edward Island,Sep-88,11.2
+Prince Edward Island,Oct-88,12.4
+Prince Edward Island,Nov-88,11.5
+Prince Edward Island,Dec-88,11.4
+Prince Edward Island,Jan-89,11.7
+Prince Edward Island,Feb-89,12.9
+Prince Edward Island,Mar-89,12.8
+Prince Edward Island,Apr-89,14.7
+Prince Edward Island,May-89,12.5
+Prince Edward Island,Jun-89,12.9
+Prince Edward Island,Jul-89,13.4
+Prince Edward Island,Aug-89,14.8
+Prince Edward Island,Sep-89,14
+Prince Edward Island,Oct-89,14.5
+Prince Edward Island,Nov-89,14.2
+Prince Edward Island,Dec-89,14.8
+Prince Edward Island,Jan-90,15.5
+Prince Edward Island,Feb-90,14.7
+Prince Edward Island,Mar-90,13.3
+Prince Edward Island,Apr-90,14
+Prince Edward Island,May-90,13.1
+Prince Edward Island,Jun-90,12.7
+Prince Edward Island,Jul-90,14.3
+Prince Edward Island,Aug-90,13.8
+Prince Edward Island,Sep-90,13.3
+Prince Edward Island,Oct-90,14
+Prince Edward Island,Nov-90,15.9
+Prince Edward Island,Dec-90,16
+Prince Edward Island,Jan-91,16.1
+Prince Edward Island,Feb-91,15.9
+Prince Edward Island,Mar-91,16.4
+Prince Edward Island,Apr-91,15.8
+Prince Edward Island,May-91,15.6
+Prince Edward Island,Jun-91,16.5
+Prince Edward Island,Jul-91,15.9
+Prince Edward Island,Aug-91,16.1
+Prince Edward Island,Sep-91,17.7
+Prince Edward Island,Oct-91,18.6
+Prince Edward Island,Nov-91,16.8
+Prince Edward Island,Dec-91,16.9
+Prince Edward Island,Jan-92,17.4
+Prince Edward Island,Feb-92,17.3
+Prince Edward Island,Mar-92,18.5
+Prince Edward Island,Apr-92,18.7
+Prince Edward Island,May-92,18.6
+Prince Edward Island,Jun-92,18.2
+Prince Edward Island,Jul-92,18
+Prince Edward Island,Aug-92,17.4
+Prince Edward Island,Sep-92,16.6
+Prince Edward Island,Oct-92,16.6
+Prince Edward Island,Nov-92,18.1
+Prince Edward Island,Dec-92,17.1
+Prince Edward Island,Jan-93,15.7
+Prince Edward Island,Feb-93,15.9
+Prince Edward Island,Mar-93,15.9
+Prince Edward Island,Apr-93,15.2
+Prince Edward Island,May-93,17.7
+Prince Edward Island,Jun-93,18.7
+Prince Edward Island,Jul-93,16.3
+Prince Edward Island,Aug-93,17.6
+Prince Edward Island,Sep-93,17.2
+Prince Edward Island,Oct-93,18.9
+Prince Edward Island,Nov-93,18.2
+Prince Edward Island,Dec-93,17.3
+Prince Edward Island,Jan-94,17.4
+Prince Edward Island,Feb-94,17.5
+Prince Edward Island,Mar-94,16.4
+Prince Edward Island,Apr-94,16.4
+Prince Edward Island,May-94,17.2
+Prince Edward Island,Jun-94,15.4
+Prince Edward Island,Jul-94,17.5
+Prince Edward Island,Aug-94,17.4
+Prince Edward Island,Sep-94,17.6
+Prince Edward Island,Oct-94,16.9
+Prince Edward Island,Nov-94,15.6
+Prince Edward Island,Dec-94,14.5
+Prince Edward Island,Jan-95,14.9
+Prince Edward Island,Feb-95,14.8
+Prince Edward Island,Mar-95,15.4
+Prince Edward Island,Apr-95,15.5
+Prince Edward Island,May-95,15.8
+Prince Edward Island,Jun-95,15.5
+Prince Edward Island,Jul-95,15.8
+Prince Edward Island,Aug-95,15.6
+Prince Edward Island,Sep-95,15.4
+Prince Edward Island,Oct-95,14.1
+Prince Edward Island,Nov-95,12.7
+Prince Edward Island,Dec-95,14.9
+Prince Edward Island,Jan-96,14.5
+Prince Edward Island,Feb-96,14.6
+Prince Edward Island,Mar-96,14.1
+Prince Edward Island,Apr-96,14.4
+Prince Edward Island,May-96,13
+Prince Edward Island,Jun-96,14.2
+Prince Edward Island,Jul-96,14.7
+Prince Edward Island,Aug-96,14.3
+Prince Edward Island,Sep-96,14.1
+Prince Edward Island,Oct-96,15.3
+Prince Edward Island,Nov-96,15.3
+Prince Edward Island,Dec-96,15.7
+Prince Edward Island,Jan-97,15.8
+Prince Edward Island,Feb-97,15.8
+Prince Edward Island,Mar-97,16
+Prince Edward Island,Apr-97,15.9
+Prince Edward Island,May-97,16.4
+Prince Edward Island,Jun-97,16.4
+Prince Edward Island,Jul-97,15.7
+Prince Edward Island,Aug-97,15.1
+Prince Edward Island,Sep-97,14.3
+Prince Edward Island,Oct-97,13.2
+Prince Edward Island,Nov-97,14.8
+Prince Edward Island,Dec-97,14.5
+Prince Edward Island,Jan-98,14.2
+Prince Edward Island,Feb-98,14.2
+Prince Edward Island,Mar-98,13.5
+Prince Edward Island,Apr-98,14.6
+Prince Edward Island,May-98,13.3
+Prince Edward Island,Jun-98,14.1
+Prince Edward Island,Jul-98,12
+Prince Edward Island,Aug-98,13.7
+Prince Edward Island,Sep-98,14.6
+Prince Edward Island,Oct-98,14.3
+Prince Edward Island,Nov-98,14
+Prince Edward Island,Dec-98,15
+Prince Edward Island,Jan-99,15.7
+Prince Edward Island,Feb-99,15.6
+Prince Edward Island,Mar-99,16.1
+Prince Edward Island,Apr-99,15.2
+Prince Edward Island,May-99,15.1
+Prince Edward Island,Jun-99,14
+Prince Edward Island,Jul-99,12.9
+Prince Edward Island,Aug-99,12.9
+Prince Edward Island,Sep-99,13.9
+Prince Edward Island,Oct-99,13
+Prince Edward Island,Nov-99,12.9
+Prince Edward Island,Dec-99,12.6
+Prince Edward Island,Jan-00,12
+Prince Edward Island,Feb-00,11.7
+Prince Edward Island,Mar-00,12.1
+Prince Edward Island,Apr-00,11.8
+Prince Edward Island,May-00,11.3
+Prince Edward Island,Jun-00,11.9
+Prince Edward Island,Jul-00,12.4
+Prince Edward Island,Aug-00,12.7
+Prince Edward Island,Sep-00,11.5
+Prince Edward Island,Oct-00,13.6
+Prince Edward Island,Nov-00,14
+Prince Edward Island,Dec-00,11.9
+Prince Edward Island,01-Jan,11.6
+Prince Edward Island,01-Feb,11.4
+Prince Edward Island,01-Mar,11.2
+Prince Edward Island,01-Apr,13
+Prince Edward Island,01-May,12.4
+Prince Edward Island,01-Jun,10.2
+Prince Edward Island,01-Jul,11.5
+Prince Edward Island,01-Aug,11.9
+Prince Edward Island,01-Sep,12.5
+Prince Edward Island,01-Oct,11.9
+Prince Edward Island,01-Nov,12
+Prince Edward Island,01-Dec,12.8
+Prince Edward Island,02-Jan,12.9
+Prince Edward Island,02-Feb,13.3
+Prince Edward Island,02-Mar,11.7
+Prince Edward Island,02-Apr,10.2
+Prince Edward Island,02-May,10.8
+Prince Edward Island,02-Jun,11.7
+Prince Edward Island,02-Jul,12.7
+Prince Edward Island,02-Aug,12.3
+Prince Edward Island,02-Sep,11.6
+Prince Edward Island,02-Oct,11.6
+Prince Edward Island,02-Nov,11.4
+Prince Edward Island,02-Dec,11.2
+Prince Edward Island,03-Jan,11.1
+Prince Edward Island,03-Feb,11.1
+Prince Edward Island,03-Mar,12.2
+Prince Edward Island,03-Apr,11.5
+Prince Edward Island,03-May,11.1
+Prince Edward Island,03-Jun,9.8
+Prince Edward Island,03-Jul,10.6
+Prince Edward Island,03-Aug,10.4
+Prince Edward Island,03-Sep,10.2
+Prince Edward Island,03-Oct,10.2
+Prince Edward Island,03-Nov,11
+Prince Edward Island,03-Dec,10.6
+Prince Edward Island,04-Jan,11.1
+Prince Edward Island,04-Feb,11.8
+Prince Edward Island,04-Mar,11.5
+Prince Edward Island,04-Apr,12.3
+Prince Edward Island,04-May,11.6
+Prince Edward Island,04-Jun,11.4
+Prince Edward Island,04-Jul,10.7
+Prince Edward Island,04-Aug,10.9
+Prince Edward Island,04-Sep,10.9
+Prince Edward Island,04-Oct,11.3
+Prince Edward Island,04-Nov,10.3
+Prince Edward Island,04-Dec,10.4
+Prince Edward Island,05-Jan,10.7
+Prince Edward Island,05-Feb,10.7
+Prince Edward Island,05-Mar,10.6
+Prince Edward Island,05-Apr,11.3
+Prince Edward Island,05-May,11.6
+Prince Edward Island,05-Jun,11.6
+Prince Edward Island,05-Jul,10.7
+Prince Edward Island,05-Aug,11.2
+Prince Edward Island,05-Sep,11.1
+Prince Edward Island,05-Oct,11.1
+Prince Edward Island,05-Nov,10.2
+Prince Edward Island,05-Dec,10.7
+Prince Edward Island,06-Jan,10.8
+Prince Edward Island,06-Feb,11.5
+Prince Edward Island,06-Mar,12.6
+Prince Edward Island,06-Apr,11.6
+Prince Edward Island,06-May,10.9
+Prince Edward Island,06-Jun,11.5
+Prince Edward Island,06-Jul,11.8
+Prince Edward Island,06-Aug,11.1
+Prince Edward Island,06-Sep,11.1
+Prince Edward Island,06-Oct,11.4
+Prince Edward Island,06-Nov,11.5
+Prince Edward Island,06-Dec,12.2
+Prince Edward Island,07-Jan,11.2
+Prince Edward Island,07-Feb,11.1
+Prince Edward Island,07-Mar,10.4
+Prince Edward Island,07-Apr,9.3
+Prince Edward Island,07-May,10.6
+Prince Edward Island,07-Jun,10.6
+Prince Edward Island,07-Jul,10.5
+Prince Edward Island,07-Aug,10.5
+Prince Edward Island,07-Sep,10.2
+Prince Edward Island,07-Oct,9.2
+Prince Edward Island,07-Nov,11.3
+Prince Edward Island,07-Dec,10.7
+Prince Edward Island,08-Jan,11.4
+Prince Edward Island,08-Feb,10.1
+Prince Edward Island,08-Mar,10.3
+Prince Edward Island,08-Apr,11.6
+Prince Edward Island,08-May,10.2
+Prince Edward Island,08-Jun,10.5
+Prince Edward Island,08-Jul,11.5
+Prince Edward Island,08-Aug,10.7
+Prince Edward Island,08-Sep,11.5
+Prince Edward Island,08-Oct,12
+Prince Edward Island,08-Nov,12.1
+Prince Edward Island,08-Dec,12.5
+Prince Edward Island,09-Jan,12.2
+Prince Edward Island,09-Feb,13.1
+Prince Edward Island,09-Mar,12.5
+Prince Edward Island,09-Apr,13.1
+Prince Edward Island,09-May,13
+Prince Edward Island,09-Jun,12.4
+Prince Edward Island,09-Jul,12.3
+Prince Edward Island,09-Aug,12.6
+Prince Edward Island,09-Sep,11.1
+Prince Edward Island,09-Oct,11
+Prince Edward Island,09-Nov,10.2
+Prince Edward Island,09-Dec,10.5
+Prince Edward Island,10-Jan,10.1
+Prince Edward Island,10-Feb,10.4
+Prince Edward Island,10-Mar,11.2
+Prince Edward Island,10-Apr,10
+Prince Edward Island,10-May,10.7
+Prince Edward Island,10-Jun,12.3
+Prince Edward Island,10-Jul,11.3
+Prince Edward Island,10-Aug,11.4
+Prince Edward Island,10-Sep,13.2
+Prince Edward Island,10-Oct,12.9
+Prince Edward Island,10-Nov,13
+Prince Edward Island,10-Dec,12.4
+Prince Edward Island,11-Jan,11.1
+Prince Edward Island,11-Feb,12
+Prince Edward Island,11-Mar,11.2
+Prince Edward Island,11-Apr,11.6
+Prince Edward Island,11-May,12
+Prince Edward Island,11-Jun,11.1
+Prince Edward Island,11-Jul,11.6
+Prince Edward Island,11-Aug,11.6
+Prince Edward Island,11-Sep,11.6
+Prince Edward Island,11-Oct,11.6
+Prince Edward Island,11-Nov,10.6
+Prince Edward Island,11-Dec,11.2
+Prince Edward Island,12-Jan,12.1
+Prince Edward Island,12-Feb,10.7
+Prince Edward Island,12-Mar,10.3
+Prince Edward Island,12-Apr,11
+Prince Edward Island,12-May,11.5
+Prince Edward Island,12-Jun,12.6
+Prince Edward Island,12-Jul,10.8
+Prince Edward Island,12-Aug,12.2
+Prince Edward Island,12-Sep,11.4
+Prince Edward Island,12-Oct,11.3
+Prince Edward Island,12-Nov,11.5
+Prince Edward Island,12-Dec,10.8
+Prince Edward Island,13-Jan,12
+Prince Edward Island,13-Feb,11.8
+Prince Edward Island,13-Mar,11.6
+Prince Edward Island,13-Apr,11
+Prince Edward Island,13-May,11.1
+Prince Edward Island,13-Jun,10.7
+Prince Edward Island,13-Jul,11.9
+Prince Edward Island,13-Aug,10.5
+Prince Edward Island,13-Sep,11.7
+Prince Edward Island,13-Oct,12.1
+Prince Edward Island,13-Nov,12.2
+Prince Edward Island,13-Dec,11.6
+Prince Edward Island,14-Jan,11.1
+Prince Edward Island,14-Feb,11.7
+Prince Edward Island,14-Mar,11.4
+Prince Edward Island,14-Apr,10.8
+Prince Edward Island,14-May,11.3
+Prince Edward Island,14-Jun,10
+Prince Edward Island,14-Jul,9.2
+Prince Edward Island,14-Aug,9.7
+Prince Edward Island,14-Sep,9.9
+Prince Edward Island,14-Oct,9.3
+Prince Edward Island,14-Nov,10.6
+Prince Edward Island,14-Dec,11.5
+Prince Edward Island,15-Jan,10.6
+Prince Edward Island,15-Feb,9.9
+Prince Edward Island,15-Mar,11.1
+Prince Edward Island,15-Apr,10.6
+Prince Edward Island,15-May,11
+Prince Edward Island,15-Jun,11.3
+Prince Edward Island,15-Jul,11.3
+Prince Edward Island,15-Aug,11.1
+Prince Edward Island,15-Sep,9.8
+Prince Edward Island,15-Oct,10
+Prince Edward Island,15-Nov,10.6
+Prince Edward Island,15-Dec,10
+Prince Edward Island,16-Jan,10
+Prince Edward Island,16-Feb,10.6
+Prince Edward Island,16-Mar,10.2
+Prince Edward Island,16-Apr,10.7
+Prince Edward Island,16-May,10.5
+Prince Edward Island,16-Jun,10.6
+Prince Edward Island,16-Jul,9.6
+Prince Edward Island,16-Aug,12.2
+Prince Edward Island,16-Sep,11.4
+Prince Edward Island,16-Oct,11.7
+Prince Edward Island,16-Nov,11
+Prince Edward Island,16-Dec,10.3
+Prince Edward Island,17-Jan,9.5
+Prince Edward Island,17-Feb,10.1
+Prince Edward Island,17-Mar,9.8
+Prince Edward Island,17-Apr,10.1
+Prince Edward Island,17-May,10.2
+Prince Edward Island,17-Jun,10.1
+Prince Edward Island,17-Jul,9.9
+Prince Edward Island,17-Aug,9.1
+Prince Edward Island,17-Sep,10.4
+Prince Edward Island,17-Oct,10.8
+Prince Edward Island,17-Nov,9.3
+Prince Edward Island,17-Dec,9.9
+Prince Edward Island,18-Jan,11
+Prince Edward Island,18-Feb,10
+Prince Edward Island,18-Mar,10.4
+Prince Edward Island,18-Apr,11.3
+Prince Edward Island,18-May,9.5
+Prince Edward Island,18-Jun,8.8
+Prince Edward Island,18-Jul,9.7
+Prince Edward Island,18-Aug,9.6
+Prince Edward Island,18-Sep,8.8
+Prince Edward Island,18-Oct,8.7
+Prince Edward Island,18-Nov,9.5
+Prince Edward Island,18-Dec,10.2
+Prince Edward Island,19-Jan,10
+Prince Edward Island,19-Feb,9.8
+Prince Edward Island,19-Mar,9
+Prince Edward Island,19-Apr,8.9
+Prince Edward Island,19-May,8.7
+Prince Edward Island,19-Jun,9
+Prince Edward Island,19-Jul,8.6
+Prince Edward Island,19-Aug,8.7
+Prince Edward Island,19-Sep,8.5
+Prince Edward Island,19-Oct,8.2
+Prince Edward Island,19-Nov,7.8
+Prince Edward Island,19-Dec,7.7
+Prince Edward Island,20-Jan,7.4
+Prince Edward Island,20-Feb,8.1
+Prince Edward Island,20-Mar,9.4
+Prince Edward Island,20-Apr,11.1
+Prince Edward Island,20-May,14
+Prince Edward Island,20-Jun,14.1
+Prince Edward Island,20-Jul,11.5
+Prince Edward Island,20-Aug,9.9
+Prince Edward Island,20-Sep,10.3
+Prince Edward Island,20-Oct,10.4
+Prince Edward Island,20-Nov,11.1
+Prince Edward Island,20-Dec,10.8
+Prince Edward Island,21-Jan,8.4
+Prince Edward Island,21-Feb,9.7
+Prince Edward Island,21-Mar,8.8
+Prince Edward Island,21-Apr,9.5
+Prince Edward Island,21-May,10.5
+Prince Edward Island,21-Jun,12.5
+Prince Edward Island,21-Jul,11
+Prince Edward Island,21-Aug,10.7
+Prince Edward Island,21-Sep,11.3
+Prince Edward Island,21-Oct,9.4
+Prince Edward Island,21-Nov,8.9
+Prince Edward Island,21-Dec,8.4
+Prince Edward Island,22-Jan,9.4
+Prince Edward Island,22-Feb,9.3
+Prince Edward Island,22-Mar,8.8
+Prince Edward Island,22-Apr,8
+Prince Edward Island,22-May,7.8
+Prince Edward Island,22-Jun,6
+Prince Edward Island,22-Jul,6.3
+Prince Edward Island,22-Aug,7.2
+Prince Edward Island,22-Sep,8.5
+Prince Edward Island,22-Oct,6.1
+Prince Edward Island,22-Nov,7.1
+Prince Edward Island,22-Dec,5.7
+Prince Edward Island,23-Jan,7.5
+Prince Edward Island,23-Feb,7
+Prince Edward Island,23-Mar,6.7
+Prince Edward Island,23-Apr,7.2
+Prince Edward Island,23-May,7.2
+Prince Edward Island,23-Jun,8.4
+Prince Edward Island,23-Jul,8.1
+Prince Edward Island,23-Aug,7.9
+Prince Edward Island,23-Sep,6.6
+Prince Edward Island,23-Oct,6.3
+Prince Edward Island,23-Nov,7.7
+Prince Edward Island,23-Dec,8.1
+Prince Edward Island,24-Jan,7.4
+Prince Edward Island,24-Feb,7
+Prince Edward Island,24-Mar,7.4
+Prince Edward Island,24-Apr,6.8
+Prince Edward Island,24-May,7.1
+Nova Scotia,Jan-76,7.9
+Nova Scotia,Feb-76,7.9
+Nova Scotia,Mar-76,7.6
+Nova Scotia,Apr-76,8.2
+Nova Scotia,May-76,8.6
+Nova Scotia,Jun-76,9.6
+Nova Scotia,Jul-76,9.8
+Nova Scotia,Aug-76,10.1
+Nova Scotia,Sep-76,9.7
+Nova Scotia,Oct-76,10.2
+Nova Scotia,Nov-76,10.5
+Nova Scotia,Dec-76,10.1
+Nova Scotia,Jan-77,9.5
+Nova Scotia,Feb-77,11
+Nova Scotia,Mar-77,10.6
+Nova Scotia,Apr-77,10.5
+Nova Scotia,May-77,10.6
+Nova Scotia,Jun-77,10.6
+Nova Scotia,Jul-77,10.3
+Nova Scotia,Aug-77,10.4
+Nova Scotia,Sep-77,10.7
+Nova Scotia,Oct-77,10.3
+Nova Scotia,Nov-77,10.2
+Nova Scotia,Dec-77,9.9
+Nova Scotia,Jan-78,9.9
+Nova Scotia,Feb-78,10.1
+Nova Scotia,Mar-78,10.9
+Nova Scotia,Apr-78,11.1
+Nova Scotia,May-78,11.3
+Nova Scotia,Jun-78,11
+Nova Scotia,Jul-78,11
+Nova Scotia,Aug-78,10.5
+Nova Scotia,Sep-78,10.3
+Nova Scotia,Oct-78,10.3
+Nova Scotia,Nov-78,10
+Nova Scotia,Dec-78,10.2
+Nova Scotia,Jan-79,11.2
+Nova Scotia,Feb-79,9.9
+Nova Scotia,Mar-79,10.3
+Nova Scotia,Apr-79,10.7
+Nova Scotia,May-79,9.3
+Nova Scotia,Jun-79,8.8
+Nova Scotia,Jul-79,9.6
+Nova Scotia,Aug-79,10
+Nova Scotia,Sep-79,9.9
+Nova Scotia,Oct-79,9.9
+Nova Scotia,Nov-79,9.7
+Nova Scotia,Dec-79,10.3
+Nova Scotia,Jan-80,10.3
+Nova Scotia,Feb-80,9.9
+Nova Scotia,Mar-80,9.3
+Nova Scotia,Apr-80,9.4
+Nova Scotia,May-80,9.6
+Nova Scotia,Jun-80,9.6
+Nova Scotia,Jul-80,9.6
+Nova Scotia,Aug-80,10
+Nova Scotia,Sep-80,9.2
+Nova Scotia,Oct-80,9.2
+Nova Scotia,Nov-80,9.9
+Nova Scotia,Dec-80,9.6
+Nova Scotia,Jan-81,9.6
+Nova Scotia,Feb-81,10.1
+Nova Scotia,Mar-81,10.1
+Nova Scotia,Apr-81,8.6
+Nova Scotia,May-81,9.6
+Nova Scotia,Jun-81,10
+Nova Scotia,Jul-81,9.5
+Nova Scotia,Aug-81,9.4
+Nova Scotia,Sep-81,10.8
+Nova Scotia,Oct-81,10.7
+Nova Scotia,Nov-81,10.4
+Nova Scotia,Dec-81,10.4
+Nova Scotia,Jan-82,10.5
+Nova Scotia,Feb-82,11.3
+Nova Scotia,Mar-82,11.7
+Nova Scotia,Apr-82,12.5
+Nova Scotia,May-82,12.9
+Nova Scotia,Jun-82,13.5
+Nova Scotia,Jul-82,13.3
+Nova Scotia,Aug-82,12.9
+Nova Scotia,Sep-82,13.6
+Nova Scotia,Oct-82,13.5
+Nova Scotia,Nov-82,14
+Nova Scotia,Dec-82,14.4
+Nova Scotia,Jan-83,14.2
+Nova Scotia,Feb-83,13.1
+Nova Scotia,Mar-83,14
+Nova Scotia,Apr-83,13.2
+Nova Scotia,May-83,13.9
+Nova Scotia,Jun-83,13.5
+Nova Scotia,Jul-83,13.8
+Nova Scotia,Aug-83,13.1
+Nova Scotia,Sep-83,13.3
+Nova Scotia,Oct-83,13.2
+Nova Scotia,Nov-83,13.1
+Nova Scotia,Dec-83,13.3
+Nova Scotia,Jan-84,12.9
+Nova Scotia,Feb-84,12.7
+Nova Scotia,Mar-84,12.3
+Nova Scotia,Apr-84,12.9
+Nova Scotia,May-84,12.9
+Nova Scotia,Jun-84,12.9
+Nova Scotia,Jul-84,12.4
+Nova Scotia,Aug-84,13.1
+Nova Scotia,Sep-84,14
+Nova Scotia,Oct-84,14.1
+Nova Scotia,Nov-84,13.6
+Nova Scotia,Dec-84,13.6
+Nova Scotia,Jan-85,13.6
+Nova Scotia,Feb-85,13.6
+Nova Scotia,Mar-85,14.1
+Nova Scotia,Apr-85,13.8
+Nova Scotia,May-85,13.2
+Nova Scotia,Jun-85,13.1
+Nova Scotia,Jul-85,13.8
+Nova Scotia,Aug-85,13.5
+Nova Scotia,Sep-85,13.3
+Nova Scotia,Oct-85,13.3
+Nova Scotia,Nov-85,13.6
+Nova Scotia,Dec-85,12.3
+Nova Scotia,Jan-86,13
+Nova Scotia,Feb-86,13.2
+Nova Scotia,Mar-86,12.6
+Nova Scotia,Apr-86,12.9
+Nova Scotia,May-86,13.3
+Nova Scotia,Jun-86,13.3
+Nova Scotia,Jul-86,13.8
+Nova Scotia,Aug-86,13.5
+Nova Scotia,Sep-86,12.7
+Nova Scotia,Oct-86,13.4
+Nova Scotia,Nov-86,13.4
+Nova Scotia,Dec-86,13.9
+Nova Scotia,Jan-87,13.5
+Nova Scotia,Feb-87,13.8
+Nova Scotia,Mar-87,13.5
+Nova Scotia,Apr-87,13.5
+Nova Scotia,May-87,12.5
+Nova Scotia,Jun-87,12
+Nova Scotia,Jul-87,11.3
+Nova Scotia,Aug-87,10.8
+Nova Scotia,Sep-87,10.5
+Nova Scotia,Oct-87,10.5
+Nova Scotia,Nov-87,11
+Nova Scotia,Dec-87,10.8
+Nova Scotia,Jan-88,11.5
+Nova Scotia,Feb-88,10.8
+Nova Scotia,Mar-88,10.3
+Nova Scotia,Apr-88,10.3
+Nova Scotia,May-88,10.2
+Nova Scotia,Jun-88,10
+Nova Scotia,Jul-88,9.7
+Nova Scotia,Aug-88,10.1
+Nova Scotia,Sep-88,10.2
+Nova Scotia,Oct-88,10
+Nova Scotia,Nov-88,9.6
+Nova Scotia,Dec-88,9.6
+Nova Scotia,Jan-89,9
+Nova Scotia,Feb-89,9.1
+Nova Scotia,Mar-89,9.3
+Nova Scotia,Apr-89,11
+Nova Scotia,May-89,9.6
+Nova Scotia,Jun-89,9.3
+Nova Scotia,Jul-89,9.8
+Nova Scotia,Aug-89,10.1
+Nova Scotia,Sep-89,10.2
+Nova Scotia,Oct-89,10.2
+Nova Scotia,Nov-89,10.1
+Nova Scotia,Dec-89,10.6
+Nova Scotia,Jan-90,10.7
+Nova Scotia,Feb-90,11
+Nova Scotia,Mar-90,10.3
+Nova Scotia,Apr-90,9.9
+Nova Scotia,May-90,10.7
+Nova Scotia,Jun-90,10.7
+Nova Scotia,Jul-90,10.9
+Nova Scotia,Aug-90,10.7
+Nova Scotia,Sep-90,11.2
+Nova Scotia,Oct-90,10.7
+Nova Scotia,Nov-90,10.6
+Nova Scotia,Dec-90,11.1
+Nova Scotia,Jan-91,11.3
+Nova Scotia,Feb-91,11.7
+Nova Scotia,Mar-91,11.7
+Nova Scotia,Apr-91,11.6
+Nova Scotia,May-91,11.7
+Nova Scotia,Jun-91,12
+Nova Scotia,Jul-91,12
+Nova Scotia,Aug-91,12.3
+Nova Scotia,Sep-91,12.9
+Nova Scotia,Oct-91,12.7
+Nova Scotia,Nov-91,12.8
+Nova Scotia,Dec-91,12.6
+Nova Scotia,Jan-92,12.3
+Nova Scotia,Feb-92,12.3
+Nova Scotia,Mar-92,12.9
+Nova Scotia,Apr-92,12.5
+Nova Scotia,May-92,13
+Nova Scotia,Jun-92,13.1
+Nova Scotia,Jul-92,14
+Nova Scotia,Aug-92,13.1
+Nova Scotia,Sep-92,13.1
+Nova Scotia,Oct-92,12.8
+Nova Scotia,Nov-92,13.5
+Nova Scotia,Dec-92,14.1
+Nova Scotia,Jan-93,13.2
+Nova Scotia,Feb-93,13.7
+Nova Scotia,Mar-93,14
+Nova Scotia,Apr-93,13.9
+Nova Scotia,May-93,14
+Nova Scotia,Jun-93,13.7
+Nova Scotia,Jul-93,14.1
+Nova Scotia,Aug-93,14.6
+Nova Scotia,Sep-93,15
+Nova Scotia,Oct-93,15.1
+Nova Scotia,Nov-93,15.2
+Nova Scotia,Dec-93,15.7
+Nova Scotia,Jan-94,15
+Nova Scotia,Feb-94,14.3
+Nova Scotia,Mar-94,14
+Nova Scotia,Apr-94,14.3
+Nova Scotia,May-94,13.7
+Nova Scotia,Jun-94,13.4
+Nova Scotia,Jul-94,13.4
+Nova Scotia,Aug-94,13.2
+Nova Scotia,Sep-94,13
+Nova Scotia,Oct-94,12.5
+Nova Scotia,Nov-94,12.6
+Nova Scotia,Dec-94,12.4
+Nova Scotia,Jan-95,12.6
+Nova Scotia,Feb-95,11.9
+Nova Scotia,Mar-95,12.5
+Nova Scotia,Apr-95,11.6
+Nova Scotia,May-95,13
+Nova Scotia,Jun-95,13.2
+Nova Scotia,Jul-95,13.2
+Nova Scotia,Aug-95,12.4
+Nova Scotia,Sep-95,11.5
+Nova Scotia,Oct-95,11.5
+Nova Scotia,Nov-95,11.5
+Nova Scotia,Dec-95,10.8
+Nova Scotia,Jan-96,11.3
+Nova Scotia,Feb-96,11.5
+Nova Scotia,Mar-96,12.1
+Nova Scotia,Apr-96,12.3
+Nova Scotia,May-96,12
+Nova Scotia,Jun-96,12.7
+Nova Scotia,Jul-96,12.6
+Nova Scotia,Aug-96,12.8
+Nova Scotia,Sep-96,13.5
+Nova Scotia,Oct-96,13
+Nova Scotia,Nov-96,12.6
+Nova Scotia,Dec-96,12.5
+Nova Scotia,Jan-97,12.4
+Nova Scotia,Feb-97,13.1
+Nova Scotia,Mar-97,12.8
+Nova Scotia,Apr-97,12.8
+Nova Scotia,May-97,13.1
+Nova Scotia,Jun-97,12.2
+Nova Scotia,Jul-97,11.7
+Nova Scotia,Aug-97,11.8
+Nova Scotia,Sep-97,11.5
+Nova Scotia,Oct-97,11.2
+Nova Scotia,Nov-97,11.1
+Nova Scotia,Dec-97,11.3
+Nova Scotia,Jan-98,11.1
+Nova Scotia,Feb-98,10.4
+Nova Scotia,Mar-98,9.8
+Nova Scotia,Apr-98,10.8
+Nova Scotia,May-98,10.6
+Nova Scotia,Jun-98,10.7
+Nova Scotia,Jul-98,10.4
+Nova Scotia,Aug-98,10.1
+Nova Scotia,Sep-98,10.5
+Nova Scotia,Oct-98,10.6
+Nova Scotia,Nov-98,10.6
+Nova Scotia,Dec-98,9.8
+Nova Scotia,Jan-99,9.4
+Nova Scotia,Feb-99,10.2
+Nova Scotia,Mar-99,10.5
+Nova Scotia,Apr-99,9.4
+Nova Scotia,May-99,9.7
+Nova Scotia,Jun-99,9.4
+Nova Scotia,Jul-99,8.9
+Nova Scotia,Aug-99,9.1
+Nova Scotia,Sep-99,9.7
+Nova Scotia,Oct-99,9.5
+Nova Scotia,Nov-99,9.2
+Nova Scotia,Dec-99,9.6
+Nova Scotia,Jan-00,9.4
+Nova Scotia,Feb-00,9.5
+Nova Scotia,Mar-00,8.7
+Nova Scotia,Apr-00,8.5
+Nova Scotia,May-00,8.7
+Nova Scotia,Jun-00,8.6
+Nova Scotia,Jul-00,8.8
+Nova Scotia,Aug-00,9.4
+Nova Scotia,Sep-00,9.4
+Nova Scotia,Oct-00,9.4
+Nova Scotia,Nov-00,9.5
+Nova Scotia,Dec-00,9.1
+Nova Scotia,01-Jan,9.6
+Nova Scotia,01-Feb,8.9
+Nova Scotia,01-Mar,10.1
+Nova Scotia,01-Apr,10.1
+Nova Scotia,01-May,10.2
+Nova Scotia,01-Jun,10.3
+Nova Scotia,01-Jul,9.8
+Nova Scotia,01-Aug,9.8
+Nova Scotia,01-Sep,9.6
+Nova Scotia,01-Oct,9.7
+Nova Scotia,01-Nov,9.1
+Nova Scotia,01-Dec,10
+Nova Scotia,02-Jan,9.8
+Nova Scotia,02-Feb,10.1
+Nova Scotia,02-Mar,9.3
+Nova Scotia,02-Apr,9.5
+Nova Scotia,02-May,10
+Nova Scotia,02-Jun,9.5
+Nova Scotia,02-Jul,10.1
+Nova Scotia,02-Aug,9.4
+Nova Scotia,02-Sep,9.6
+Nova Scotia,02-Oct,9.4
+Nova Scotia,02-Nov,9.3
+Nova Scotia,02-Dec,9.2
+Nova Scotia,03-Jan,9
+Nova Scotia,03-Feb,8.6
+Nova Scotia,03-Mar,8.9
+Nova Scotia,03-Apr,8.4
+Nova Scotia,03-May,8.9
+Nova Scotia,03-Jun,8.8
+Nova Scotia,03-Jul,9.3
+Nova Scotia,03-Aug,10
+Nova Scotia,03-Sep,9.3
+Nova Scotia,03-Oct,9.2
+Nova Scotia,03-Nov,9.7
+Nova Scotia,03-Dec,8.8
+Nova Scotia,04-Jan,9.3
+Nova Scotia,04-Feb,8.7
+Nova Scotia,04-Mar,9.3
+Nova Scotia,04-Apr,9.2
+Nova Scotia,04-May,8.7
+Nova Scotia,04-Jun,8.6
+Nova Scotia,04-Jul,8.3
+Nova Scotia,04-Aug,8.8
+Nova Scotia,04-Sep,8.4
+Nova Scotia,04-Oct,8.5
+Nova Scotia,04-Nov,8.9
+Nova Scotia,04-Dec,9
+Nova Scotia,05-Jan,8.8
+Nova Scotia,05-Feb,9.5
+Nova Scotia,05-Mar,8.6
+Nova Scotia,05-Apr,8.6
+Nova Scotia,05-May,8.1
+Nova Scotia,05-Jun,8.5
+Nova Scotia,05-Jul,7.8
+Nova Scotia,05-Aug,7.3
+Nova Scotia,05-Sep,8.4
+Nova Scotia,05-Oct,8.5
+Nova Scotia,05-Nov,8.3
+Nova Scotia,05-Dec,8.7
+Nova Scotia,06-Jan,8
+Nova Scotia,06-Feb,8.6
+Nova Scotia,06-Mar,8.3
+Nova Scotia,06-Apr,8.6
+Nova Scotia,06-May,8.4
+Nova Scotia,06-Jun,8.5
+Nova Scotia,06-Jul,8.6
+Nova Scotia,06-Aug,8.2
+Nova Scotia,06-Sep,7.9
+Nova Scotia,06-Oct,8.1
+Nova Scotia,06-Nov,7.8
+Nova Scotia,06-Dec,7.9
+Nova Scotia,07-Jan,8.5
+Nova Scotia,07-Feb,7.8
+Nova Scotia,07-Mar,8.3
+Nova Scotia,07-Apr,8.2
+Nova Scotia,07-May,8.1
+Nova Scotia,07-Jun,8.3
+Nova Scotia,07-Jul,8.9
+Nova Scotia,07-Aug,8.3
+Nova Scotia,07-Sep,8.1
+Nova Scotia,07-Oct,7.7
+Nova Scotia,07-Nov,8.4
+Nova Scotia,07-Dec,7.9
+Nova Scotia,08-Jan,7.4
+Nova Scotia,08-Feb,7.9
+Nova Scotia,08-Mar,8
+Nova Scotia,08-Apr,7.3
+Nova Scotia,08-May,8.4
+Nova Scotia,08-Jun,7.8
+Nova Scotia,08-Jul,7.1
+Nova Scotia,08-Aug,8.2
+Nova Scotia,08-Sep,8
+Nova Scotia,08-Oct,8.3
+Nova Scotia,08-Nov,8.2
+Nova Scotia,08-Dec,8.3
+Nova Scotia,09-Jan,8.9
+Nova Scotia,09-Feb,8.9
+Nova Scotia,09-Mar,9.3
+Nova Scotia,09-Apr,10
+Nova Scotia,09-May,9.1
+Nova Scotia,09-Jun,9.5
+Nova Scotia,09-Jul,9.7
+Nova Scotia,09-Aug,9.2
+Nova Scotia,09-Sep,10
+Nova Scotia,09-Oct,9.2
+Nova Scotia,09-Nov,9.4
+Nova Scotia,09-Dec,9.2
+Nova Scotia,10-Jan,9.3
+Nova Scotia,10-Feb,9.3
+Nova Scotia,10-Mar,8.9
+Nova Scotia,10-Apr,8.7
+Nova Scotia,10-May,9
+Nova Scotia,10-Jun,9.2
+Nova Scotia,10-Jul,9.9
+Nova Scotia,10-Aug,10.1
+Nova Scotia,10-Sep,9.8
+Nova Scotia,10-Oct,10
+Nova Scotia,10-Nov,9.9
+Nova Scotia,10-Dec,10.8
+Nova Scotia,11-Jan,9.8
+Nova Scotia,11-Feb,9.6
+Nova Scotia,11-Mar,9.1
+Nova Scotia,11-Apr,9.5
+Nova Scotia,11-May,9.2
+Nova Scotia,11-Jun,8.7
+Nova Scotia,11-Jul,9.4
+Nova Scotia,11-Aug,8.9
+Nova Scotia,11-Sep,8.9
+Nova Scotia,11-Oct,8.9
+Nova Scotia,11-Nov,9.1
+Nova Scotia,11-Dec,7.7
+Nova Scotia,12-Jan,8.6
+Nova Scotia,12-Feb,8.6
+Nova Scotia,12-Mar,8.9
+Nova Scotia,12-Apr,9.1
+Nova Scotia,12-May,9.6
+Nova Scotia,12-Jun,9.4
+Nova Scotia,12-Jul,9.4
+Nova Scotia,12-Aug,9.8
+Nova Scotia,12-Sep,8.9
+Nova Scotia,12-Oct,9.6
+Nova Scotia,12-Nov,9.4
+Nova Scotia,12-Dec,9.8
+Nova Scotia,13-Jan,9.5
+Nova Scotia,13-Feb,9.1
+Nova Scotia,13-Mar,9.2
+Nova Scotia,13-Apr,8.8
+Nova Scotia,13-May,8.7
+Nova Scotia,13-Jun,9.1
+Nova Scotia,13-Jul,8.6
+Nova Scotia,13-Aug,9
+Nova Scotia,13-Sep,8.7
+Nova Scotia,13-Oct,9.2
+Nova Scotia,13-Nov,8.8
+Nova Scotia,13-Dec,9.4
+Nova Scotia,14-Jan,9.1
+Nova Scotia,14-Feb,8.9
+Nova Scotia,14-Mar,9
+Nova Scotia,14-Apr,9.1
+Nova Scotia,14-May,9.1
+Nova Scotia,14-Jun,9.3
+Nova Scotia,14-Jul,9.6
+Nova Scotia,14-Aug,8.8
+Nova Scotia,14-Sep,9.2
+Nova Scotia,14-Oct,9
+Nova Scotia,14-Nov,8.6
+Nova Scotia,14-Dec,8.3
+Nova Scotia,15-Jan,8.7
+Nova Scotia,15-Feb,9.3
+Nova Scotia,15-Mar,9.5
+Nova Scotia,15-Apr,9.7
+Nova Scotia,15-May,8.9
+Nova Scotia,15-Jun,8.5
+Nova Scotia,15-Jul,8.2
+Nova Scotia,15-Aug,8.1
+Nova Scotia,15-Sep,8.7
+Nova Scotia,15-Oct,7.9
+Nova Scotia,15-Nov,9.1
+Nova Scotia,15-Dec,9.1
+Nova Scotia,16-Jan,9
+Nova Scotia,16-Feb,9.1
+Nova Scotia,16-Mar,8.7
+Nova Scotia,16-Apr,8.1
+Nova Scotia,16-May,8.8
+Nova Scotia,16-Jun,7.9
+Nova Scotia,16-Jul,8.4
+Nova Scotia,16-Aug,8.3
+Nova Scotia,16-Sep,8
+Nova Scotia,16-Oct,7.8
+Nova Scotia,16-Nov,8
+Nova Scotia,16-Dec,8.5
+Nova Scotia,17-Jan,8.1
+Nova Scotia,17-Feb,8.4
+Nova Scotia,17-Mar,9.1
+Nova Scotia,17-Apr,8.9
+Nova Scotia,17-May,8.2
+Nova Scotia,17-Jun,8.9
+Nova Scotia,17-Jul,8.1
+Nova Scotia,17-Aug,8.4
+Nova Scotia,17-Sep,8.9
+Nova Scotia,17-Oct,8.6
+Nova Scotia,17-Nov,8.9
+Nova Scotia,17-Dec,8.1
+Nova Scotia,18-Jan,8.4
+Nova Scotia,18-Feb,8.5
+Nova Scotia,18-Mar,8.1
+Nova Scotia,18-Apr,7.2
+Nova Scotia,18-May,7.3
+Nova Scotia,18-Jun,7.8
+Nova Scotia,18-Jul,8.3
+Nova Scotia,18-Aug,8.3
+Nova Scotia,18-Sep,7.8
+Nova Scotia,18-Oct,7.8
+Nova Scotia,18-Nov,7.3
+Nova Scotia,18-Dec,7.1
+Nova Scotia,19-Jan,7.1
+Nova Scotia,19-Feb,6.8
+Nova Scotia,19-Mar,6.6
+Nova Scotia,19-Apr,7.2
+Nova Scotia,19-May,6.9
+Nova Scotia,19-Jun,7
+Nova Scotia,19-Jul,7.4
+Nova Scotia,19-Aug,8
+Nova Scotia,19-Sep,7.3
+Nova Scotia,19-Oct,8
+Nova Scotia,19-Nov,8.1
+Nova Scotia,19-Dec,8.1
+Nova Scotia,20-Jan,7.7
+Nova Scotia,20-Feb,8.1
+Nova Scotia,20-Mar,9.9
+Nova Scotia,20-Apr,12.6
+Nova Scotia,20-May,14.3
+Nova Scotia,20-Jun,13.7
+Nova Scotia,20-Jul,11
+Nova Scotia,20-Aug,10.1
+Nova Scotia,20-Sep,7.7
+Nova Scotia,20-Oct,8.9
+Nova Scotia,20-Nov,6.7
+Nova Scotia,20-Dec,8.5
+Nova Scotia,21-Jan,8.9
+Nova Scotia,21-Feb,8.6
+Nova Scotia,21-Mar,9.1
+Nova Scotia,21-Apr,8.3
+Nova Scotia,21-May,10.4
+Nova Scotia,21-Jun,8.8
+Nova Scotia,21-Jul,8.5
+Nova Scotia,21-Aug,8.1
+Nova Scotia,21-Sep,7.9
+Nova Scotia,21-Oct,8
+Nova Scotia,21-Nov,8.7
+Nova Scotia,21-Dec,7.6
+Nova Scotia,22-Jan,7.1
+Nova Scotia,22-Feb,6.5
+Nova Scotia,22-Mar,6.9
+Nova Scotia,22-Apr,6
+Nova Scotia,22-May,6.9
+Nova Scotia,22-Jun,6.5
+Nova Scotia,22-Jul,6.5
+Nova Scotia,22-Aug,7.6
+Nova Scotia,22-Sep,6.2
+Nova Scotia,22-Oct,6.7
+Nova Scotia,22-Nov,5.7
+Nova Scotia,22-Dec,6.3
+Nova Scotia,23-Jan,5.4
+Nova Scotia,23-Feb,5.8
+Nova Scotia,23-Mar,5.5
+Nova Scotia,23-Apr,6.4
+Nova Scotia,23-May,5.9
+Nova Scotia,23-Jun,6.6
+Nova Scotia,23-Jul,7.7
+Nova Scotia,23-Aug,7
+Nova Scotia,23-Sep,7
+Nova Scotia,23-Oct,6.5
+Nova Scotia,23-Nov,6.6
+Nova Scotia,23-Dec,5.9
+Nova Scotia,24-Jan,7
+Nova Scotia,24-Feb,6
+Nova Scotia,24-Mar,6.2
+Nova Scotia,24-Apr,6.1
+Nova Scotia,24-May,6.4
+New Brunswick,Jan-76,11.2
+New Brunswick,Feb-76,10.9
+New Brunswick,Mar-76,10.5
+New Brunswick,Apr-76,10.3
+New Brunswick,May-76,10.9
+New Brunswick,Jun-76,11
+New Brunswick,Jul-76,10.7
+New Brunswick,Aug-76,10.4
+New Brunswick,Sep-76,10.8
+New Brunswick,Oct-76,11.3
+New Brunswick,Nov-76,11.7
+New Brunswick,Dec-76,12
+New Brunswick,Jan-77,13.2
+New Brunswick,Feb-77,13.2
+New Brunswick,Mar-77,13.5
+New Brunswick,Apr-77,12.4
+New Brunswick,May-77,13.4
+New Brunswick,Jun-77,13
+New Brunswick,Jul-77,12.6
+New Brunswick,Aug-77,13.1
+New Brunswick,Sep-77,13.7
+New Brunswick,Oct-77,13.7
+New Brunswick,Nov-77,14.2
+New Brunswick,Dec-77,14.3
+New Brunswick,Jan-78,12.9
+New Brunswick,Feb-78,13.5
+New Brunswick,Mar-78,12.6
+New Brunswick,Apr-78,13
+New Brunswick,May-78,12.8
+New Brunswick,Jun-78,11.9
+New Brunswick,Jul-78,12.3
+New Brunswick,Aug-78,12.9
+New Brunswick,Sep-78,12.1
+New Brunswick,Oct-78,12.3
+New Brunswick,Nov-78,11.6
+New Brunswick,Dec-78,11.7
+New Brunswick,Jan-79,11.8
+New Brunswick,Feb-79,11.5
+New Brunswick,Mar-79,11.5
+New Brunswick,Apr-79,11.7
+New Brunswick,May-79,10.7
+New Brunswick,Jun-79,10.8
+New Brunswick,Jul-79,10.6
+New Brunswick,Aug-79,11.2
+New Brunswick,Sep-79,9.9
+New Brunswick,Oct-79,10
+New Brunswick,Nov-79,9.8
+New Brunswick,Dec-79,10.2
+New Brunswick,Jan-80,9.8
+New Brunswick,Feb-80,10.2
+New Brunswick,Mar-80,11
+New Brunswick,Apr-80,10.9
+New Brunswick,May-80,11.8
+New Brunswick,Jun-80,11.9
+New Brunswick,Jul-80,11.6
+New Brunswick,Aug-80,11.7
+New Brunswick,Sep-80,10.9
+New Brunswick,Oct-80,11.1
+New Brunswick,Nov-80,11.1
+New Brunswick,Dec-80,10.8
+New Brunswick,Jan-81,11.5
+New Brunswick,Feb-81,11.3
+New Brunswick,Mar-81,10.6
+New Brunswick,Apr-81,10.9
+New Brunswick,May-81,10.8
+New Brunswick,Jun-81,10.8
+New Brunswick,Jul-81,11
+New Brunswick,Aug-81,10.7
+New Brunswick,Sep-81,12.5
+New Brunswick,Oct-81,12.8
+New Brunswick,Nov-81,12.7
+New Brunswick,Dec-81,13.1
+New Brunswick,Jan-82,13
+New Brunswick,Feb-82,13.2
+New Brunswick,Mar-82,13.1
+New Brunswick,Apr-82,13.7
+New Brunswick,May-82,14
+New Brunswick,Jun-82,14.1
+New Brunswick,Jul-82,14
+New Brunswick,Aug-82,14.5
+New Brunswick,Sep-82,14.9
+New Brunswick,Oct-82,15.2
+New Brunswick,Nov-82,15.1
+New Brunswick,Dec-82,14.6
+New Brunswick,Jan-83,14.7
+New Brunswick,Feb-83,15.5
+New Brunswick,Mar-83,15.1
+New Brunswick,Apr-83,15.6
+New Brunswick,May-83,15.2
+New Brunswick,Jun-83,15
+New Brunswick,Jul-83,14.7
+New Brunswick,Aug-83,14.8
+New Brunswick,Sep-83,14.7
+New Brunswick,Oct-83,14.3
+New Brunswick,Nov-83,14.6
+New Brunswick,Dec-83,14.9
+New Brunswick,Jan-84,14.2
+New Brunswick,Feb-84,14
+New Brunswick,Mar-84,14.1
+New Brunswick,Apr-84,13.9
+New Brunswick,May-84,14.7
+New Brunswick,Jun-84,14.6
+New Brunswick,Jul-84,14.3
+New Brunswick,Aug-84,14.6
+New Brunswick,Sep-84,15.9
+New Brunswick,Oct-84,14.9
+New Brunswick,Nov-84,15
+New Brunswick,Dec-84,15.1
+New Brunswick,Jan-85,15.4
+New Brunswick,Feb-85,15.7
+New Brunswick,Mar-85,16.5
+New Brunswick,Apr-85,14.9
+New Brunswick,May-85,14.8
+New Brunswick,Jun-85,15.6
+New Brunswick,Jul-85,15
+New Brunswick,Aug-85,15.3
+New Brunswick,Sep-85,14.5
+New Brunswick,Oct-85,14.6
+New Brunswick,Nov-85,15.2
+New Brunswick,Dec-85,15.1
+New Brunswick,Jan-86,15.1
+New Brunswick,Feb-86,14.8
+New Brunswick,Mar-86,14.6
+New Brunswick,Apr-86,15
+New Brunswick,May-86,14.6
+New Brunswick,Jun-86,14.6
+New Brunswick,Jul-86,14.8
+New Brunswick,Aug-86,14.3
+New Brunswick,Sep-86,13.4
+New Brunswick,Oct-86,13.3
+New Brunswick,Nov-86,13.2
+New Brunswick,Dec-86,13.5
+New Brunswick,Jan-87,13.9
+New Brunswick,Feb-87,13.6
+New Brunswick,Mar-87,13.7
+New Brunswick,Apr-87,13.7
+New Brunswick,May-87,13.2
+New Brunswick,Jun-87,13.1
+New Brunswick,Jul-87,12.8
+New Brunswick,Aug-87,12.2
+New Brunswick,Sep-87,12.8
+New Brunswick,Oct-87,13.5
+New Brunswick,Nov-87,12.9
+New Brunswick,Dec-87,12.5
+New Brunswick,Jan-88,12.8
+New Brunswick,Feb-88,11.9
+New Brunswick,Mar-88,12.4
+New Brunswick,Apr-88,11.6
+New Brunswick,May-88,12.4
+New Brunswick,Jun-88,11.7
+New Brunswick,Jul-88,11.3
+New Brunswick,Aug-88,11.4
+New Brunswick,Sep-88,11.8
+New Brunswick,Oct-88,11.5
+New Brunswick,Nov-88,11.5
+New Brunswick,Dec-88,11
+New Brunswick,Jan-89,11.8
+New Brunswick,Feb-89,12
+New Brunswick,Mar-89,11.4
+New Brunswick,Apr-89,11.7
+New Brunswick,May-89,11.8
+New Brunswick,Jun-89,12.4
+New Brunswick,Jul-89,12.5
+New Brunswick,Aug-89,12.2
+New Brunswick,Sep-89,11.4
+New Brunswick,Oct-89,11.5
+New Brunswick,Nov-89,12.2
+New Brunswick,Dec-89,12.9
+New Brunswick,Jan-90,12.3
+New Brunswick,Feb-90,12.7
+New Brunswick,Mar-90,11.8
+New Brunswick,Apr-90,12.1
+New Brunswick,May-90,11
+New Brunswick,Jun-90,12.1
+New Brunswick,Jul-90,12.1
+New Brunswick,Aug-90,12.3
+New Brunswick,Sep-90,11.8
+New Brunswick,Oct-90,12.4
+New Brunswick,Nov-90,12.2
+New Brunswick,Dec-90,12
+New Brunswick,Jan-91,12
+New Brunswick,Feb-91,11.9
+New Brunswick,Mar-91,12.4
+New Brunswick,Apr-91,12.3
+New Brunswick,May-91,12.3
+New Brunswick,Jun-91,12.5
+New Brunswick,Jul-91,13
+New Brunswick,Aug-91,13
+New Brunswick,Sep-91,13.1
+New Brunswick,Oct-91,13.9
+New Brunswick,Nov-91,13.4
+New Brunswick,Dec-91,13.2
+New Brunswick,Jan-92,13.2
+New Brunswick,Feb-92,13
+New Brunswick,Mar-92,13.7
+New Brunswick,Apr-92,13.2
+New Brunswick,May-92,13.7
+New Brunswick,Jun-92,13.2
+New Brunswick,Jul-92,12.6
+New Brunswick,Aug-92,13.2
+New Brunswick,Sep-92,12.1
+New Brunswick,Oct-92,12.2
+New Brunswick,Nov-92,13.2
+New Brunswick,Dec-92,12.2
+New Brunswick,Jan-93,11.9
+New Brunswick,Feb-93,11.3
+New Brunswick,Mar-93,12.6
+New Brunswick,Apr-93,11.8
+New Brunswick,May-93,12
+New Brunswick,Jun-93,12.4
+New Brunswick,Jul-93,13.6
+New Brunswick,Aug-93,13.4
+New Brunswick,Sep-93,13.7
+New Brunswick,Oct-93,13.2
+New Brunswick,Nov-93,12.6
+New Brunswick,Dec-93,13.5
+New Brunswick,Jan-94,12.5
+New Brunswick,Feb-94,12.7
+New Brunswick,Mar-94,13
+New Brunswick,Apr-94,12.7
+New Brunswick,May-94,13.2
+New Brunswick,Jun-94,12.5
+New Brunswick,Jul-94,12.8
+New Brunswick,Aug-94,12
+New Brunswick,Sep-94,12.7
+New Brunswick,Oct-94,13.1
+New Brunswick,Nov-94,12.5
+New Brunswick,Dec-94,11.6
+New Brunswick,Jan-95,12.3
+New Brunswick,Feb-95,12.2
+New Brunswick,Mar-95,11.5
+New Brunswick,Apr-95,11.7
+New Brunswick,May-95,11.3
+New Brunswick,Jun-95,12.4
+New Brunswick,Jul-95,11.3
+New Brunswick,Aug-95,11.5
+New Brunswick,Sep-95,10.4
+New Brunswick,Oct-95,10.8
+New Brunswick,Nov-95,10.9
+New Brunswick,Dec-95,11.2
+New Brunswick,Jan-96,11.2
+New Brunswick,Feb-96,10.8
+New Brunswick,Mar-96,10.5
+New Brunswick,Apr-96,10.7
+New Brunswick,May-96,10.4
+New Brunswick,Jun-96,12.3
+New Brunswick,Jul-96,11.9
+New Brunswick,Aug-96,11.7
+New Brunswick,Sep-96,12.9
+New Brunswick,Oct-96,12.8
+New Brunswick,Nov-96,12.6
+New Brunswick,Dec-96,12.9
+New Brunswick,Jan-97,12.5
+New Brunswick,Feb-97,12.6
+New Brunswick,Mar-97,13.1
+New Brunswick,Apr-97,12.7
+New Brunswick,May-97,12.8
+New Brunswick,Jun-97,12.8
+New Brunswick,Jul-97,12.5
+New Brunswick,Aug-97,12.5
+New Brunswick,Sep-97,12.1
+New Brunswick,Oct-97,12.5
+New Brunswick,Nov-97,12.5
+New Brunswick,Dec-97,12.2
+New Brunswick,Jan-98,12.9
+New Brunswick,Feb-98,13.1
+New Brunswick,Mar-98,12.3
+New Brunswick,Apr-98,12.9
+New Brunswick,May-98,11.9
+New Brunswick,Jun-98,12.2
+New Brunswick,Jul-98,11.5
+New Brunswick,Aug-98,12
+New Brunswick,Sep-98,11.8
+New Brunswick,Oct-98,11.7
+New Brunswick,Nov-98,11.6
+New Brunswick,Dec-98,11.5
+New Brunswick,Jan-99,11.6
+New Brunswick,Feb-99,11.3
+New Brunswick,Mar-99,10.4
+New Brunswick,Apr-99,10.6
+New Brunswick,May-99,9.9
+New Brunswick,Jun-99,8.6
+New Brunswick,Jul-99,9.3
+New Brunswick,Aug-99,9.2
+New Brunswick,Sep-99,10.2
+New Brunswick,Oct-99,10.1
+New Brunswick,Nov-99,9.6
+New Brunswick,Dec-99,10.1
+New Brunswick,Jan-00,9.7
+New Brunswick,Feb-00,9.6
+New Brunswick,Mar-00,10.3
+New Brunswick,Apr-00,10.4
+New Brunswick,May-00,10.4
+New Brunswick,Jun-00,10.4
+New Brunswick,Jul-00,9.8
+New Brunswick,Aug-00,9.9
+New Brunswick,Sep-00,9.6
+New Brunswick,Oct-00,9.9
+New Brunswick,Nov-00,10.5
+New Brunswick,Dec-00,9.8
+New Brunswick,01-Jan,10.3
+New Brunswick,01-Feb,11.2
+New Brunswick,01-Mar,12.7
+New Brunswick,01-Apr,11.5
+New Brunswick,01-May,11.6
+New Brunswick,01-Jun,10.9
+New Brunswick,01-Jul,11.2
+New Brunswick,01-Aug,10.7
+New Brunswick,01-Sep,10.9
+New Brunswick,01-Oct,10.5
+New Brunswick,01-Nov,11.2
+New Brunswick,01-Dec,11.2
+New Brunswick,02-Jan,11
+New Brunswick,02-Feb,10.9
+New Brunswick,02-Mar,10.3
+New Brunswick,02-Apr,9.9
+New Brunswick,02-May,9.4
+New Brunswick,02-Jun,10
+New Brunswick,02-Jul,10.1
+New Brunswick,02-Aug,9.7
+New Brunswick,02-Sep,10
+New Brunswick,02-Oct,10.1
+New Brunswick,02-Nov,10.3
+New Brunswick,02-Dec,10.5
+New Brunswick,03-Jan,9.9
+New Brunswick,03-Feb,10.6
+New Brunswick,03-Mar,9.6
+New Brunswick,03-Apr,10.3
+New Brunswick,03-May,11.6
+New Brunswick,03-Jun,10.1
+New Brunswick,03-Jul,10.1
+New Brunswick,03-Aug,10.4
+New Brunswick,03-Sep,9.9
+New Brunswick,03-Oct,9.9
+New Brunswick,03-Nov,9.7
+New Brunswick,03-Dec,9.8
+New Brunswick,04-Jan,10.1
+New Brunswick,04-Feb,9.4
+New Brunswick,04-Mar,9.8
+New Brunswick,04-Apr,10
+New Brunswick,04-May,9.9
+New Brunswick,04-Jun,10.1
+New Brunswick,04-Jul,10
+New Brunswick,04-Aug,10.1
+New Brunswick,04-Sep,9.4
+New Brunswick,04-Oct,9.3
+New Brunswick,04-Nov,9.7
+New Brunswick,04-Dec,9.3
+New Brunswick,05-Jan,9.7
+New Brunswick,05-Feb,9.4
+New Brunswick,05-Mar,9.3
+New Brunswick,05-Apr,9.3
+New Brunswick,05-May,9.3
+New Brunswick,05-Jun,10.2
+New Brunswick,05-Jul,9.6
+New Brunswick,05-Aug,9.7
+New Brunswick,05-Sep,10.1
+New Brunswick,05-Oct,10.7
+New Brunswick,05-Nov,9.5
+New Brunswick,05-Dec,9.4
+New Brunswick,06-Jan,8.8
+New Brunswick,06-Feb,9.9
+New Brunswick,06-Mar,9.6
+New Brunswick,06-Apr,9.6
+New Brunswick,06-May,8.9
+New Brunswick,06-Jun,8.7
+New Brunswick,06-Jul,9.6
+New Brunswick,06-Aug,9.4
+New Brunswick,06-Sep,8.8
+New Brunswick,06-Oct,9.1
+New Brunswick,06-Nov,8.9
+New Brunswick,06-Dec,8.9
+New Brunswick,07-Jan,8.2
+New Brunswick,07-Feb,7.3
+New Brunswick,07-Mar,7.5
+New Brunswick,07-Apr,7.7
+New Brunswick,07-May,7.6
+New Brunswick,07-Jun,7.3
+New Brunswick,07-Jul,7.1
+New Brunswick,07-Aug,7.9
+New Brunswick,07-Sep,8.5
+New Brunswick,07-Oct,7.9
+New Brunswick,07-Nov,7.7
+New Brunswick,07-Dec,8.1
+New Brunswick,08-Jan,8.5
+New Brunswick,08-Feb,8.7
+New Brunswick,08-Mar,8.7
+New Brunswick,08-Apr,8.5
+New Brunswick,08-May,8.8
+New Brunswick,08-Jun,8.8
+New Brunswick,08-Jul,8.8
+New Brunswick,08-Aug,7.8
+New Brunswick,08-Sep,8.6
+New Brunswick,08-Oct,8.9
+New Brunswick,08-Nov,8.9
+New Brunswick,08-Dec,8.7
+New Brunswick,09-Jan,8.7
+New Brunswick,09-Feb,9
+New Brunswick,09-Mar,9.6
+New Brunswick,09-Apr,8.9
+New Brunswick,09-May,9
+New Brunswick,09-Jun,9.2
+New Brunswick,09-Jul,9
+New Brunswick,09-Aug,9.2
+New Brunswick,09-Sep,8.2
+New Brunswick,09-Oct,7.9
+New Brunswick,09-Nov,8.5
+New Brunswick,09-Dec,9.1
+New Brunswick,10-Jan,9.2
+New Brunswick,10-Feb,8.9
+New Brunswick,10-Mar,8.7
+New Brunswick,10-Apr,8.9
+New Brunswick,10-May,9.4
+New Brunswick,10-Jun,9.3
+New Brunswick,10-Jul,9.2
+New Brunswick,10-Aug,10.1
+New Brunswick,10-Sep,9.9
+New Brunswick,10-Oct,9.8
+New Brunswick,10-Nov,10.2
+New Brunswick,10-Dec,9.8
+New Brunswick,11-Jan,9.3
+New Brunswick,11-Feb,9.9
+New Brunswick,11-Mar,9.7
+New Brunswick,11-Apr,10
+New Brunswick,11-May,9.9
+New Brunswick,11-Jun,9.9
+New Brunswick,11-Jul,10.2
+New Brunswick,11-Aug,9
+New Brunswick,11-Sep,9
+New Brunswick,11-Oct,9.5
+New Brunswick,11-Nov,9.6
+New Brunswick,11-Dec,9.7
+New Brunswick,12-Jan,9.7
+New Brunswick,12-Feb,9.9
+New Brunswick,12-Mar,10.1
+New Brunswick,12-Apr,9.7
+New Brunswick,12-May,9.8
+New Brunswick,12-Jun,9.6
+New Brunswick,12-Jul,10.6
+New Brunswick,12-Aug,11.1
+New Brunswick,12-Sep,11.6
+New Brunswick,12-Oct,11.9
+New Brunswick,12-Nov,11.5
+New Brunswick,12-Dec,10.8
+New Brunswick,13-Jan,11.5
+New Brunswick,13-Feb,10.6
+New Brunswick,13-Mar,10.8
+New Brunswick,13-Apr,10.6
+New Brunswick,13-May,10.2
+New Brunswick,13-Jun,10.9
+New Brunswick,13-Jul,9.7
+New Brunswick,13-Aug,10.7
+New Brunswick,13-Sep,10.5
+New Brunswick,13-Oct,10.1
+New Brunswick,13-Nov,9.9
+New Brunswick,13-Dec,10.6
+New Brunswick,14-Jan,9.8
+New Brunswick,14-Feb,10.1
+New Brunswick,14-Mar,9.8
+New Brunswick,14-Apr,10.8
+New Brunswick,14-May,10.6
+New Brunswick,14-Jun,9.4
+New Brunswick,14-Jul,9.9
+New Brunswick,14-Aug,9.2
+New Brunswick,14-Sep,10.2
+New Brunswick,14-Oct,10
+New Brunswick,14-Nov,10.3
+New Brunswick,14-Dec,10
+New Brunswick,15-Jan,10
+New Brunswick,15-Feb,10.1
+New Brunswick,15-Mar,10.1
+New Brunswick,15-Apr,10
+New Brunswick,15-May,9.9
+New Brunswick,15-Jun,11.2
+New Brunswick,15-Jul,11.4
+New Brunswick,15-Aug,10.1
+New Brunswick,15-Sep,9.3
+New Brunswick,15-Oct,9.1
+New Brunswick,15-Nov,8.9
+New Brunswick,15-Dec,9.2
+New Brunswick,16-Jan,9.4
+New Brunswick,16-Feb,10.1
+New Brunswick,16-Mar,10.2
+New Brunswick,16-Apr,9.5
+New Brunswick,16-May,10.1
+New Brunswick,16-Jun,9.8
+New Brunswick,16-Jul,10
+New Brunswick,16-Aug,9.5
+New Brunswick,16-Sep,9.9
+New Brunswick,16-Oct,10.1
+New Brunswick,16-Nov,9.3
+New Brunswick,16-Dec,9.2
+New Brunswick,17-Jan,8.6
+New Brunswick,17-Feb,8.6
+New Brunswick,17-Mar,8.5
+New Brunswick,17-Apr,8.9
+New Brunswick,17-May,8.8
+New Brunswick,17-Jun,8.4
+New Brunswick,17-Jul,6.9
+New Brunswick,17-Aug,8
+New Brunswick,17-Sep,8
+New Brunswick,17-Oct,8.4
+New Brunswick,17-Nov,8.6
+New Brunswick,17-Dec,8.2
+New Brunswick,18-Jan,9
+New Brunswick,18-Feb,8.4
+New Brunswick,18-Mar,8.3
+New Brunswick,18-Apr,8
+New Brunswick,18-May,7.8
+New Brunswick,18-Jun,8
+New Brunswick,18-Jul,7.7
+New Brunswick,18-Aug,8.4
+New Brunswick,18-Sep,7.9
+New Brunswick,18-Oct,7.3
+New Brunswick,18-Nov,8.1
+New Brunswick,18-Dec,8.6
+New Brunswick,19-Jan,8.4
+New Brunswick,19-Feb,8.8
+New Brunswick,19-Mar,8
+New Brunswick,19-Apr,8.2
+New Brunswick,19-May,7.6
+New Brunswick,19-Jun,8.3
+New Brunswick,19-Jul,9.2
+New Brunswick,19-Aug,8.4
+New Brunswick,19-Sep,8
+New Brunswick,19-Oct,8.2
+New Brunswick,19-Nov,7.8
+New Brunswick,19-Dec,7.5
+New Brunswick,20-Jan,7.7
+New Brunswick,20-Feb,7.3
+New Brunswick,20-Mar,9.2
+New Brunswick,20-Apr,14.3
+New Brunswick,20-May,13.5
+New Brunswick,20-Jun,11.1
+New Brunswick,20-Jul,10.3
+New Brunswick,20-Aug,9.5
+New Brunswick,20-Sep,11.2
+New Brunswick,20-Oct,10.6
+New Brunswick,20-Nov,10
+New Brunswick,20-Dec,10
+New Brunswick,21-Jan,8.7
+New Brunswick,21-Feb,9.5
+New Brunswick,21-Mar,9.5
+New Brunswick,21-Apr,8.9
+New Brunswick,21-May,9.3
+New Brunswick,21-Jun,10.1
+New Brunswick,21-Jul,9.5
+New Brunswick,21-Aug,9.6
+New Brunswick,21-Sep,9.6
+New Brunswick,21-Oct,9.3
+New Brunswick,21-Nov,8.4
+New Brunswick,21-Dec,7.5
+New Brunswick,22-Jan,8.3
+New Brunswick,22-Feb,7.5
+New Brunswick,22-Mar,7.3
+New Brunswick,22-Apr,6.8
+New Brunswick,22-May,7.3
+New Brunswick,22-Jun,6.5
+New Brunswick,22-Jul,7.4
+New Brunswick,22-Aug,7
+New Brunswick,22-Sep,6.7
+New Brunswick,22-Oct,7.4
+New Brunswick,22-Nov,6.9
+New Brunswick,22-Dec,7.4
+New Brunswick,23-Jan,7
+New Brunswick,23-Feb,6.2
+New Brunswick,23-Mar,5.9
+New Brunswick,23-Apr,6.4
+New Brunswick,23-May,6.3
+New Brunswick,23-Jun,6.8
+New Brunswick,23-Jul,6.4
+New Brunswick,23-Aug,7.6
+New Brunswick,23-Sep,7.3
+New Brunswick,23-Oct,6.7
+New Brunswick,23-Nov,6.3
+New Brunswick,23-Dec,6.3
+New Brunswick,24-Jan,6.6
+New Brunswick,24-Feb,6.9
+New Brunswick,24-Mar,7.8
+New Brunswick,24-Apr,7
+New Brunswick,24-May,7.5
+Quebec,Jan-76,8.1
+Quebec,Feb-76,8.7
+Quebec,Mar-76,7.8
+Quebec,Apr-76,8.4
+Quebec,May-76,8.2
+Quebec,Jun-76,8.4
+Quebec,Jul-76,8.9
+Quebec,Aug-76,8.8
+Quebec,Sep-76,9
+Quebec,Oct-76,9.4
+Quebec,Nov-76,9.5
+Quebec,Dec-76,9.3
+Quebec,Jan-77,9.3
+Quebec,Feb-77,9.9
+Quebec,Mar-77,9.7
+Quebec,Apr-77,9.8
+Quebec,May-77,9.9
+Quebec,Jun-77,10
+Quebec,Jul-77,10.8
+Quebec,Aug-77,10.5
+Quebec,Sep-77,10.9
+Quebec,Oct-77,11.3
+Quebec,Nov-77,11.3
+Quebec,Dec-77,11.1
+Quebec,Jan-78,11.1
+Quebec,Feb-78,11
+Quebec,Mar-78,11.3
+Quebec,Apr-78,11.3
+Quebec,May-78,11.5
+Quebec,Jun-78,11.4
+Quebec,Jul-78,10.8
+Quebec,Aug-78,11.2
+Quebec,Sep-78,10.8
+Quebec,Oct-78,10.4
+Quebec,Nov-78,10.5
+Quebec,Dec-78,10.3
+Quebec,Jan-79,10.9
+Quebec,Feb-79,10.5
+Quebec,Mar-79,10.5
+Quebec,Apr-79,10.2
+Quebec,May-79,9.7
+Quebec,Jun-79,9.5
+Quebec,Jul-79,9.3
+Quebec,Aug-79,8.7
+Quebec,Sep-79,9
+Quebec,Oct-79,9.5
+Quebec,Nov-79,9.3
+Quebec,Dec-79,9.7
+Quebec,Jan-80,9.5
+Quebec,Feb-80,10.2
+Quebec,Mar-80,9.8
+Quebec,Apr-80,10
+Quebec,May-80,9.9
+Quebec,Jun-80,10.3
+Quebec,Jul-80,10.2
+Quebec,Aug-80,10.2
+Quebec,Sep-80,10
+Quebec,Oct-80,10
+Quebec,Nov-80,10.2
+Quebec,Dec-80,10
+Quebec,Jan-81,10.4
+Quebec,Feb-81,10.2
+Quebec,Mar-81,10.3
+Quebec,Apr-81,9.7
+Quebec,May-81,10.3
+Quebec,Jun-81,10.1
+Quebec,Jul-81,10
+Quebec,Aug-81,9.8
+Quebec,Sep-81,11.2
+Quebec,Oct-81,11.6
+Quebec,Nov-81,11.4
+Quebec,Dec-81,12
+Quebec,Jan-82,11.4
+Quebec,Feb-82,11.9
+Quebec,Mar-82,12.5
+Quebec,Apr-82,13
+Quebec,May-82,13.9
+Quebec,Jun-82,14.4
+Quebec,Jul-82,15.2
+Quebec,Aug-82,15.6
+Quebec,Sep-82,15.4
+Quebec,Oct-82,15.8
+Quebec,Nov-82,15
+Quebec,Dec-82,15.3
+Quebec,Jan-83,14.8
+Quebec,Feb-83,14.9
+Quebec,Mar-83,14.6
+Quebec,Apr-83,14.5
+Quebec,May-83,14.3
+Quebec,Jun-83,14.6
+Quebec,Jul-83,14.1
+Quebec,Aug-83,14
+Quebec,Sep-83,13.5
+Quebec,Oct-83,13.4
+Quebec,Nov-83,13.3
+Quebec,Dec-83,13.4
+Quebec,Jan-84,13.4
+Quebec,Feb-84,13.4
+Quebec,Mar-84,12.9
+Quebec,Apr-84,13.5
+Quebec,May-84,13.5
+Quebec,Jun-84,13.3
+Quebec,Jul-84,12.8
+Quebec,Aug-84,12.7
+Quebec,Sep-84,13.4
+Quebec,Oct-84,13.1
+Quebec,Nov-84,13.1
+Quebec,Dec-84,12.5
+Quebec,Jan-85,11.9
+Quebec,Feb-85,11.9
+Quebec,Mar-85,12.5
+Quebec,Apr-85,12.2
+Quebec,May-85,12.3
+Quebec,Jun-85,12.5
+Quebec,Jul-85,12
+Quebec,Aug-85,11.7
+Quebec,Sep-85,12.2
+Quebec,Oct-85,12.5
+Quebec,Nov-85,12.4
+Quebec,Dec-85,12.2
+Quebec,Jan-86,11.9
+Quebec,Feb-86,12
+Quebec,Mar-86,11.8
+Quebec,Apr-86,11.4
+Quebec,May-86,10.6
+Quebec,Jun-86,10.8
+Quebec,Jul-86,10.8
+Quebec,Aug-86,11
+Quebec,Sep-86,10.7
+Quebec,Oct-86,10.4
+Quebec,Nov-86,10.5
+Quebec,Dec-86,10.5
+Quebec,Jan-87,10.7
+Quebec,Feb-87,11
+Quebec,Mar-87,10.6
+Quebec,Apr-87,10.3
+Quebec,May-87,10.1
+Quebec,Jun-87,10.2
+Quebec,Jul-87,10.4
+Quebec,Aug-87,10
+Quebec,Sep-87,9.8
+Quebec,Oct-87,9.5
+Quebec,Nov-87,9.5
+Quebec,Dec-87,9.9
+Quebec,Jan-88,9.1
+Quebec,Feb-88,9
+Quebec,Mar-88,9.3
+Quebec,Apr-88,9.4
+Quebec,May-88,9.6
+Quebec,Jun-88,9.2
+Quebec,Jul-88,9.9
+Quebec,Aug-88,10.1
+Quebec,Sep-88,9.6
+Quebec,Oct-88,9.8
+Quebec,Nov-88,9.6
+Quebec,Dec-88,9.2
+Quebec,Jan-89,9.5
+Quebec,Feb-89,9.2
+Quebec,Mar-89,9.4
+Quebec,Apr-89,9.7
+Quebec,May-89,10
+Quebec,Jun-89,10
+Quebec,Jul-89,9.7
+Quebec,Aug-89,9.3
+Quebec,Sep-89,9.4
+Quebec,Oct-89,9.3
+Quebec,Nov-89,9.4
+Quebec,Dec-89,9.7
+Quebec,Jan-90,10.4
+Quebec,Feb-90,10.3
+Quebec,Mar-90,9.5
+Quebec,Apr-90,10
+Quebec,May-90,10.1
+Quebec,Jun-90,9.5
+Quebec,Jul-90,9.8
+Quebec,Aug-90,10.5
+Quebec,Sep-90,11
+Quebec,Oct-90,11.3
+Quebec,Nov-90,11.4
+Quebec,Dec-90,11.8
+Quebec,Jan-91,12.1
+Quebec,Feb-91,12
+Quebec,Mar-91,12.2
+Quebec,Apr-91,12.1
+Quebec,May-91,11.9
+Quebec,Jun-91,12.1
+Quebec,Jul-91,12.6
+Quebec,Aug-91,12.4
+Quebec,Sep-91,12.6
+Quebec,Oct-91,11.8
+Quebec,Nov-91,12.1
+Quebec,Dec-91,11.9
+Quebec,Jan-92,11.9
+Quebec,Feb-92,12
+Quebec,Mar-92,12.4
+Quebec,Apr-92,12
+Quebec,May-92,12.5
+Quebec,Jun-92,12.8
+Quebec,Jul-92,13.1
+Quebec,Aug-92,13.3
+Quebec,Sep-92,12.9
+Quebec,Oct-92,12.5
+Quebec,Nov-92,14.3
+Quebec,Dec-92,13.5
+Quebec,Jan-93,13.3
+Quebec,Feb-93,13
+Quebec,Mar-93,13.2
+Quebec,Apr-93,13.6
+Quebec,May-93,13.8
+Quebec,Jun-93,13.8
+Quebec,Jul-93,13.4
+Quebec,Aug-93,12.8
+Quebec,Sep-93,13
+Quebec,Oct-93,13.3
+Quebec,Nov-93,13.1
+Quebec,Dec-93,12.6
+Quebec,Jan-94,13.2
+Quebec,Feb-94,12.8
+Quebec,Mar-94,11.9
+Quebec,Apr-94,12.7
+Quebec,May-94,12.5
+Quebec,Jun-94,12.2
+Quebec,Jul-94,11.7
+Quebec,Aug-94,12.4
+Quebec,Sep-94,12.3
+Quebec,Oct-94,11.8
+Quebec,Nov-94,11.7
+Quebec,Dec-94,12.1
+Quebec,Jan-95,11.9
+Quebec,Feb-95,11.7
+Quebec,Mar-95,12.4
+Quebec,Apr-95,11.6
+Quebec,May-95,11.2
+Quebec,Jun-95,11.3
+Quebec,Jul-95,11
+Quebec,Aug-95,11
+Quebec,Sep-95,11
+Quebec,Oct-95,11.1
+Quebec,Nov-95,11.1
+Quebec,Dec-95,11.2
+Quebec,Jan-96,11.1
+Quebec,Feb-96,11.6
+Quebec,Mar-96,11.6
+Quebec,Apr-96,11.3
+Quebec,May-96,10.7
+Quebec,Jun-96,11.5
+Quebec,Jul-96,12.4
+Quebec,Aug-96,11.8
+Quebec,Sep-96,12.5
+Quebec,Oct-96,12.6
+Quebec,Nov-96,12.5
+Quebec,Dec-96,12.4
+Quebec,Jan-97,11.9
+Quebec,Feb-97,11.8
+Quebec,Mar-97,11.4
+Quebec,Apr-97,11.4
+Quebec,May-97,11.9
+Quebec,Jun-97,11.4
+Quebec,Jul-97,11.3
+Quebec,Aug-97,11.4
+Quebec,Sep-97,11.4
+Quebec,Oct-97,11.4
+Quebec,Nov-97,11.1
+Quebec,Dec-97,10.7
+Quebec,Jan-98,11.3
+Quebec,Feb-98,10.7
+Quebec,Mar-98,10.2
+Quebec,Apr-98,10.2
+Quebec,May-98,10.4
+Quebec,Jun-98,10.4
+Quebec,Jul-98,10.5
+Quebec,Aug-98,10.1
+Quebec,Sep-98,10.2
+Quebec,Oct-98,9.8
+Quebec,Nov-98,10
+Quebec,Dec-98,10.3
+Quebec,Jan-99,9.9
+Quebec,Feb-99,9.8
+Quebec,Mar-99,9.7
+Quebec,Apr-99,9.9
+Quebec,May-99,9.6
+Quebec,Jun-99,9.4
+Quebec,Jul-99,9.3
+Quebec,Aug-99,9.6
+Quebec,Sep-99,9.2
+Quebec,Oct-99,9.2
+Quebec,Nov-99,8.4
+Quebec,Dec-99,8.1
+Quebec,Jan-00,8.2
+Quebec,Feb-00,8.5
+Quebec,Mar-00,8.5
+Quebec,Apr-00,8.6
+Quebec,May-00,8.3
+Quebec,Jun-00,8.5
+Quebec,Jul-00,8.8
+Quebec,Aug-00,8.5
+Quebec,Sep-00,8.5
+Quebec,Oct-00,8.8
+Quebec,Nov-00,8.4
+Quebec,Dec-00,7.8
+Quebec,01-Jan,8.5
+Quebec,01-Feb,8.4
+Quebec,01-Mar,8.7
+Quebec,01-Apr,8.7
+Quebec,01-May,9
+Quebec,01-Jun,9
+Quebec,01-Jul,8.3
+Quebec,01-Aug,8.4
+Quebec,01-Sep,8.5
+Quebec,01-Oct,8.5
+Quebec,01-Nov,8.6
+Quebec,01-Dec,9.5
+Quebec,02-Jan,9.3
+Quebec,02-Feb,9.3
+Quebec,02-Mar,9
+Quebec,02-Apr,8.9
+Quebec,02-May,8.5
+Quebec,02-Jun,8.4
+Quebec,02-Jul,8.9
+Quebec,02-Aug,8.5
+Quebec,02-Sep,8.5
+Quebec,02-Oct,8.3
+Quebec,02-Nov,8.7
+Quebec,02-Dec,8.5
+Quebec,03-Jan,8.5
+Quebec,03-Feb,8.6
+Quebec,03-Mar,9
+Quebec,03-Apr,9.3
+Quebec,03-May,9.5
+Quebec,03-Jun,9.2
+Quebec,03-Jul,9.2
+Quebec,03-Aug,9.8
+Quebec,03-Sep,9.3
+Quebec,03-Oct,9.3
+Quebec,03-Nov,9
+Quebec,03-Dec,9.2
+Quebec,04-Jan,9
+Quebec,04-Feb,9
+Quebec,04-Mar,8.5
+Quebec,04-Apr,8.4
+Quebec,04-May,8
+Quebec,04-Jun,8.5
+Quebec,04-Jul,8.4
+Quebec,04-Aug,8
+Quebec,04-Sep,8.3
+Quebec,04-Oct,8.5
+Quebec,04-Nov,8.8
+Quebec,04-Dec,8.7
+Quebec,05-Jan,8.2
+Quebec,05-Feb,8.1
+Quebec,05-Mar,8.1
+Quebec,05-Apr,7.8
+Quebec,05-May,8.6
+Quebec,05-Jun,8.1
+Quebec,05-Jul,8.2
+Quebec,05-Aug,8.3
+Quebec,05-Sep,8.3
+Quebec,05-Oct,8.4
+Quebec,05-Nov,7.9
+Quebec,05-Dec,8.3
+Quebec,06-Jan,8.9
+Quebec,06-Feb,8.5
+Quebec,06-Mar,8.6
+Quebec,06-Apr,8.3
+Quebec,06-May,7.9
+Quebec,06-Jun,8.2
+Quebec,06-Jul,8
+Quebec,06-Aug,7.9
+Quebec,06-Sep,8.1
+Quebec,06-Oct,7.9
+Quebec,06-Nov,8.4
+Quebec,06-Dec,8
+Quebec,07-Jan,7.8
+Quebec,07-Feb,7.9
+Quebec,07-Mar,7.7
+Quebec,07-Apr,7.5
+Quebec,07-May,7.4
+Quebec,07-Jun,7.2
+Quebec,07-Jul,7.1
+Quebec,07-Aug,7.2
+Quebec,07-Sep,7.2
+Quebec,07-Oct,7.4
+Quebec,07-Nov,7.3
+Quebec,07-Dec,7.3
+Quebec,08-Jan,7.1
+Quebec,08-Feb,7.2
+Quebec,08-Mar,7.4
+Quebec,08-Apr,7.7
+Quebec,08-May,7.6
+Quebec,08-Jun,7.5
+Quebec,08-Jul,7.4
+Quebec,08-Aug,7.5
+Quebec,08-Sep,7.5
+Quebec,08-Oct,7.4
+Quebec,08-Nov,7.7
+Quebec,08-Dec,7.8
+Quebec,09-Jan,8.3
+Quebec,09-Feb,8.6
+Quebec,09-Mar,8.9
+Quebec,09-Apr,8.9
+Quebec,09-May,8.7
+Quebec,09-Jun,8.9
+Quebec,09-Jul,9.2
+Quebec,09-Aug,9.1
+Quebec,09-Sep,9.1
+Quebec,09-Oct,8.6
+Quebec,09-Nov,8.5
+Quebec,09-Dec,8.8
+Quebec,10-Jan,8.3
+Quebec,10-Feb,8.3
+Quebec,10-Mar,8.3
+Quebec,10-Apr,8.1
+Quebec,10-May,8.4
+Quebec,10-Jun,8.1
+Quebec,10-Jul,8.5
+Quebec,10-Aug,8.4
+Quebec,10-Sep,8.1
+Quebec,10-Oct,8.3
+Quebec,10-Nov,8.1
+Quebec,10-Dec,7.6
+Quebec,11-Jan,7.9
+Quebec,11-Feb,7.7
+Quebec,11-Mar,8
+Quebec,11-Apr,8
+Quebec,11-May,7.8
+Quebec,11-Jun,8.1
+Quebec,11-Jul,7.4
+Quebec,11-Aug,7.8
+Quebec,11-Sep,7.6
+Quebec,11-Oct,8.1
+Quebec,11-Nov,8.4
+Quebec,11-Dec,8.9
+Quebec,12-Jan,8.7
+Quebec,12-Feb,8.5
+Quebec,12-Mar,7.8
+Quebec,12-Apr,8
+Quebec,12-May,8
+Quebec,12-Jun,7.6
+Quebec,12-Jul,7.3
+Quebec,12-Aug,7.5
+Quebec,12-Sep,7.6
+Quebec,12-Oct,7.4
+Quebec,12-Nov,7.8
+Quebec,12-Dec,7.5
+Quebec,13-Jan,7.3
+Quebec,13-Feb,7.5
+Quebec,13-Mar,8
+Quebec,13-Apr,8
+Quebec,13-May,7.5
+Quebec,13-Jun,7.8
+Quebec,13-Jul,8.2
+Quebec,13-Aug,8
+Quebec,13-Sep,7.9
+Quebec,13-Oct,7.8
+Quebec,13-Nov,7.6
+Quebec,13-Dec,8.1
+Quebec,14-Jan,8
+Quebec,14-Feb,8.1
+Quebec,14-Mar,7.9
+Quebec,14-Apr,7.9
+Quebec,14-May,8.1
+Quebec,14-Jun,7.9
+Quebec,14-Jul,8
+Quebec,14-Aug,7.5
+Quebec,14-Sep,7.9
+Quebec,14-Oct,7.8
+Quebec,14-Nov,7.8
+Quebec,14-Dec,7.5
+Quebec,15-Jan,7.7
+Quebec,15-Feb,7.6
+Quebec,15-Mar,7.8
+Quebec,15-Apr,7.6
+Quebec,15-May,7.9
+Quebec,15-Jun,8
+Quebec,15-Jul,7.6
+Quebec,15-Aug,7.8
+Quebec,15-Sep,7.6
+Quebec,15-Oct,7.6
+Quebec,15-Nov,7.7
+Quebec,15-Dec,7.8
+Quebec,16-Jan,7.8
+Quebec,16-Feb,7.7
+Quebec,16-Mar,7.8
+Quebec,16-Apr,7.9
+Quebec,16-May,7.3
+Quebec,16-Jun,7.1
+Quebec,16-Jul,7.1
+Quebec,16-Aug,6.9
+Quebec,16-Sep,6.8
+Quebec,16-Oct,6.6
+Quebec,16-Nov,6.2
+Quebec,16-Dec,6.5
+Quebec,17-Jan,6.3
+Quebec,17-Feb,6.3
+Quebec,17-Mar,6
+Quebec,17-Apr,6.2
+Quebec,17-May,6.1
+Quebec,17-Jun,6.2
+Quebec,17-Jul,5.7
+Quebec,17-Aug,6
+Quebec,17-Sep,5.9
+Quebec,17-Oct,6.1
+Quebec,17-Nov,5.5
+Quebec,17-Dec,5.3
+Quebec,18-Jan,5.3
+Quebec,18-Feb,5.9
+Quebec,18-Mar,5.5
+Quebec,18-Apr,5.4
+Quebec,18-May,5.3
+Quebec,18-Jun,5.4
+Quebec,18-Jul,5.6
+Quebec,18-Aug,5.7
+Quebec,18-Sep,5.4
+Quebec,18-Oct,5.1
+Quebec,18-Nov,5.3
+Quebec,18-Dec,5.3
+Quebec,19-Jan,5.2
+Quebec,19-Feb,5.3
+Quebec,19-Mar,5.4
+Quebec,19-Apr,4.9
+Quebec,19-May,5
+Quebec,19-Jun,5
+Quebec,19-Jul,4.9
+Quebec,19-Aug,4.6
+Quebec,19-Sep,5.1
+Quebec,19-Oct,5.1
+Quebec,19-Nov,5.4
+Quebec,19-Dec,5
+Quebec,20-Jan,4.8
+Quebec,20-Feb,4.6
+Quebec,20-Mar,8.6
+Quebec,20-Apr,18.3
+Quebec,20-May,14.1
+Quebec,20-Jun,10.9
+Quebec,20-Jul,9.4
+Quebec,20-Aug,8.4
+Quebec,20-Sep,7.3
+Quebec,20-Oct,7.6
+Quebec,20-Nov,7.2
+Quebec,20-Dec,6.8
+Quebec,21-Jan,8.2
+Quebec,21-Feb,6.5
+Quebec,21-Mar,6.7
+Quebec,21-Apr,6.8
+Quebec,21-May,6.7
+Quebec,21-Jun,6.2
+Quebec,21-Jul,6.2
+Quebec,21-Aug,5.7
+Quebec,21-Sep,5.9
+Quebec,21-Oct,5.3
+Quebec,21-Nov,4.5
+Quebec,21-Dec,4.6
+Quebec,22-Jan,5
+Quebec,22-Feb,4.4
+Quebec,22-Mar,4.2
+Quebec,22-Apr,4.4
+Quebec,22-May,4.4
+Quebec,22-Jun,4.4
+Quebec,22-Jul,4.1
+Quebec,22-Aug,4.4
+Quebec,22-Sep,4.4
+Quebec,22-Oct,4
+Quebec,22-Nov,3.9
+Quebec,22-Dec,4.1
+Quebec,23-Jan,4
+Quebec,23-Feb,4.1
+Quebec,23-Mar,4.3
+Quebec,23-Apr,4.2
+Quebec,23-May,4.1
+Quebec,23-Jun,4.5
+Quebec,23-Jul,4.5
+Quebec,23-Aug,4.4
+Quebec,23-Sep,4.5
+Quebec,23-Oct,5
+Quebec,23-Nov,5.2
+Quebec,23-Dec,4.7
+Quebec,24-Jan,4.5
+Quebec,24-Feb,4.7
+Quebec,24-Mar,5
+Quebec,24-Apr,5.1
+Quebec,24-May,5.1
+Ontario,Jan-76,6.4
+Ontario,Feb-76,6.1
+Ontario,Mar-76,6
+Ontario,Apr-76,5.9
+Ontario,May-76,5.8
+Ontario,Jun-76,5.8
+Ontario,Jul-76,6.6
+Ontario,Aug-76,6.1
+Ontario,Sep-76,5.7
+Ontario,Oct-76,6.4
+Ontario,Nov-76,6.3
+Ontario,Dec-76,6.6
+Ontario,Jan-77,6.7
+Ontario,Feb-77,7
+Ontario,Mar-77,6.8
+Ontario,Apr-77,6.9
+Ontario,May-77,6.9
+Ontario,Jun-77,6.7
+Ontario,Jul-77,6.8
+Ontario,Aug-77,7.1
+Ontario,Sep-77,7.2
+Ontario,Oct-77,7
+Ontario,Nov-77,7
+Ontario,Dec-77,7.2
+Ontario,Jan-78,7
+Ontario,Feb-78,7
+Ontario,Mar-78,7.2
+Ontario,Apr-78,7.2
+Ontario,May-78,7.3
+Ontario,Jun-78,7.2
+Ontario,Jul-78,7.4
+Ontario,Aug-78,7.1
+Ontario,Sep-78,7.5
+Ontario,Oct-78,7.1
+Ontario,Nov-78,7.5
+Ontario,Dec-78,7.4
+Ontario,Jan-79,7
+Ontario,Feb-79,6.8
+Ontario,Mar-79,6.7
+Ontario,Apr-79,6.8
+Ontario,May-79,6.6
+Ontario,Jun-79,6.6
+Ontario,Jul-79,6.4
+Ontario,Aug-79,6.5
+Ontario,Sep-79,6.2
+Ontario,Oct-79,6.6
+Ontario,Nov-79,6.5
+Ontario,Dec-79,6.2
+Ontario,Jan-80,6.6
+Ontario,Feb-80,6.6
+Ontario,Mar-80,7
+Ontario,Apr-80,7.2
+Ontario,May-80,7.6
+Ontario,Jun-80,7.2
+Ontario,Jul-80,7
+Ontario,Aug-80,7.1
+Ontario,Sep-80,6.6
+Ontario,Oct-80,6.5
+Ontario,Nov-80,6.1
+Ontario,Dec-80,6.6
+Ontario,Jan-81,6.5
+Ontario,Feb-81,6.4
+Ontario,Mar-81,6.5
+Ontario,Apr-81,6.3
+Ontario,May-81,6.2
+Ontario,Jun-81,6.4
+Ontario,Jul-81,6.2
+Ontario,Aug-81,6
+Ontario,Sep-81,7
+Ontario,Oct-81,7.1
+Ontario,Nov-81,7
+Ontario,Dec-81,7.5
+Ontario,Jan-82,7.6
+Ontario,Feb-82,7.8
+Ontario,Mar-82,8
+Ontario,Apr-82,8.3
+Ontario,May-82,8.8
+Ontario,Jun-82,9.5
+Ontario,Jul-82,10.4
+Ontario,Aug-82,10.5
+Ontario,Sep-82,11.1
+Ontario,Oct-82,11.8
+Ontario,Nov-82,12.2
+Ontario,Dec-82,12.4
+Ontario,Jan-83,11.7
+Ontario,Feb-83,11.8
+Ontario,Mar-83,11.3
+Ontario,Apr-83,11.4
+Ontario,May-83,11.2
+Ontario,Jun-83,10.9
+Ontario,Jul-83,10.1
+Ontario,Aug-83,9.8
+Ontario,Sep-83,9.2
+Ontario,Oct-83,9.2
+Ontario,Nov-83,9.1
+Ontario,Dec-83,9.1
+Ontario,Jan-84,9.2
+Ontario,Feb-84,9.1
+Ontario,Mar-84,9.2
+Ontario,Apr-84,9.3
+Ontario,May-84,9.4
+Ontario,Jun-84,8.7
+Ontario,Jul-84,8.8
+Ontario,Aug-84,9
+Ontario,Sep-84,9.2
+Ontario,Oct-84,8.5
+Ontario,Nov-84,8.9
+Ontario,Dec-84,8.6
+Ontario,Jan-85,8.3
+Ontario,Feb-85,8.3
+Ontario,Mar-85,8.6
+Ontario,Apr-85,8.4
+Ontario,May-85,8
+Ontario,Jun-85,8
+Ontario,Jul-85,7.9
+Ontario,Aug-85,7.9
+Ontario,Sep-85,7.7
+Ontario,Oct-85,7.6
+Ontario,Nov-85,7.1
+Ontario,Dec-85,7.2
+Ontario,Jan-86,7.2
+Ontario,Feb-86,7.2
+Ontario,Mar-86,6.9
+Ontario,Apr-86,7
+Ontario,May-86,7
+Ontario,Jun-86,7
+Ontario,Jul-86,7
+Ontario,Aug-86,6.9
+Ontario,Sep-86,7.2
+Ontario,Oct-86,7
+Ontario,Nov-86,6.5
+Ontario,Dec-86,6.8
+Ontario,Jan-87,6.4
+Ontario,Feb-87,6.6
+Ontario,Mar-87,6.6
+Ontario,Apr-87,6.4
+Ontario,May-87,6.3
+Ontario,Jun-87,6.2
+Ontario,Jul-87,5.9
+Ontario,Aug-87,5.9
+Ontario,Sep-87,5.9
+Ontario,Oct-87,5.8
+Ontario,Nov-87,5.8
+Ontario,Dec-87,5.3
+Ontario,Jan-88,5.7
+Ontario,Feb-88,5.1
+Ontario,Mar-88,5
+Ontario,Apr-88,4.8
+Ontario,May-88,4.9
+Ontario,Jun-88,4.9
+Ontario,Jul-88,5
+Ontario,Aug-88,4.9
+Ontario,Sep-88,5.2
+Ontario,Oct-88,5
+Ontario,Nov-88,5.1
+Ontario,Dec-88,4.9
+Ontario,Jan-89,4.8
+Ontario,Feb-89,5.2
+Ontario,Mar-89,5
+Ontario,Apr-89,5.2
+Ontario,May-89,5
+Ontario,Jun-89,4.7
+Ontario,Jul-89,4.8
+Ontario,Aug-89,4.9
+Ontario,Sep-89,4.8
+Ontario,Oct-89,4.7
+Ontario,Nov-89,5.1
+Ontario,Dec-89,5.4
+Ontario,Jan-90,5.6
+Ontario,Feb-90,5.2
+Ontario,Mar-90,5.2
+Ontario,Apr-90,5.3
+Ontario,May-90,5.6
+Ontario,Jun-90,5.5
+Ontario,Jul-90,6.1
+Ontario,Aug-90,6.2
+Ontario,Sep-90,6.7
+Ontario,Oct-90,7.2
+Ontario,Nov-90,7.6
+Ontario,Dec-90,8.1
+Ontario,Jan-91,8.5
+Ontario,Feb-91,9.4
+Ontario,Mar-91,9.9
+Ontario,Apr-91,9.6
+Ontario,May-91,9.4
+Ontario,Jun-91,10
+Ontario,Jul-91,9.7
+Ontario,Aug-91,9.9
+Ontario,Sep-91,9
+Ontario,Oct-91,9.5
+Ontario,Nov-91,9.5
+Ontario,Dec-91,9.7
+Ontario,Jan-92,9.6
+Ontario,Feb-92,9.8
+Ontario,Mar-92,10.3
+Ontario,Apr-92,10.5
+Ontario,May-92,10.6
+Ontario,Jun-92,10.9
+Ontario,Jul-92,10.7
+Ontario,Aug-92,11.3
+Ontario,Sep-92,11.6
+Ontario,Oct-92,11.3
+Ontario,Nov-92,11.5
+Ontario,Dec-92,11.3
+Ontario,Jan-93,10.6
+Ontario,Feb-93,10.3
+Ontario,Mar-93,10.6
+Ontario,Apr-93,11.1
+Ontario,May-93,11
+Ontario,Jun-93,11.3
+Ontario,Jul-93,11.2
+Ontario,Aug-93,10.9
+Ontario,Sep-93,11.1
+Ontario,Oct-93,10.6
+Ontario,Nov-93,11
+Ontario,Dec-93,11.2
+Ontario,Jan-94,11
+Ontario,Feb-94,10.6
+Ontario,Mar-94,10.1
+Ontario,Apr-94,10.3
+Ontario,May-94,9.9
+Ontario,Jun-94,9.5
+Ontario,Jul-94,9.3
+Ontario,Aug-94,9.2
+Ontario,Sep-94,9.3
+Ontario,Oct-94,9.1
+Ontario,Nov-94,8.9
+Ontario,Dec-94,8.7
+Ontario,Jan-95,8.6
+Ontario,Feb-95,8.8
+Ontario,Mar-95,8.7
+Ontario,Apr-95,8.7
+Ontario,May-95,8.9
+Ontario,Jun-95,8.8
+Ontario,Jul-95,9.2
+Ontario,Aug-95,9
+Ontario,Sep-95,8.6
+Ontario,Oct-95,8.7
+Ontario,Nov-95,8.4
+Ontario,Dec-95,8.6
+Ontario,Jan-96,8.8
+Ontario,Feb-96,8.9
+Ontario,Mar-96,9
+Ontario,Apr-96,8.9
+Ontario,May-96,9
+Ontario,Jun-96,9.5
+Ontario,Jul-96,9.1
+Ontario,Aug-96,8.6
+Ontario,Sep-96,9.2
+Ontario,Oct-96,9.1
+Ontario,Nov-96,9.1
+Ontario,Dec-96,9
+Ontario,Jan-97,8.9
+Ontario,Feb-97,8.9
+Ontario,Mar-97,8.8
+Ontario,Apr-97,9
+Ontario,May-97,8.6
+Ontario,Jun-97,8.4
+Ontario,Jul-97,8.1
+Ontario,Aug-97,8.1
+Ontario,Sep-97,7.9
+Ontario,Oct-97,8
+Ontario,Nov-97,8.1
+Ontario,Dec-97,7.6
+Ontario,Jan-98,7.9
+Ontario,Feb-98,7.5
+Ontario,Mar-98,7.4
+Ontario,Apr-98,7.3
+Ontario,May-98,7
+Ontario,Jun-98,7.2
+Ontario,Jul-98,7.2
+Ontario,Aug-98,6.9
+Ontario,Sep-98,7
+Ontario,Oct-98,6.9
+Ontario,Nov-98,6.9
+Ontario,Dec-98,7
+Ontario,Jan-99,6.6
+Ontario,Feb-99,6.7
+Ontario,Mar-99,6.6
+Ontario,Apr-99,7.3
+Ontario,May-99,6.9
+Ontario,Jun-99,6.3
+Ontario,Jul-99,6.4
+Ontario,Aug-99,5.9
+Ontario,Sep-99,6.3
+Ontario,Oct-99,5.9
+Ontario,Nov-99,5.6
+Ontario,Dec-99,5.5
+Ontario,Jan-00,5.8
+Ontario,Feb-00,5.8
+Ontario,Mar-00,5.7
+Ontario,Apr-00,5.6
+Ontario,May-00,5.6
+Ontario,Jun-00,5.6
+Ontario,Jul-00,5.4
+Ontario,Aug-00,5.9
+Ontario,Sep-00,5.9
+Ontario,Oct-00,6
+Ontario,Nov-00,6.1
+Ontario,Dec-00,6
+Ontario,01-Jan,5.7
+Ontario,01-Feb,6.2
+Ontario,01-Mar,6.3
+Ontario,01-Apr,6.1
+Ontario,01-May,5.9
+Ontario,01-Jun,6.3
+Ontario,01-Jul,6.2
+Ontario,01-Aug,6.5
+Ontario,01-Sep,6.5
+Ontario,01-Oct,6.6
+Ontario,01-Nov,6.9
+Ontario,01-Dec,7.1
+Ontario,02-Jan,7.5
+Ontario,02-Feb,7.1
+Ontario,02-Mar,7.2
+Ontario,02-Apr,7
+Ontario,02-May,7
+Ontario,02-Jun,7.1
+Ontario,02-Jul,7
+Ontario,02-Aug,7.1
+Ontario,02-Sep,7.2
+Ontario,02-Oct,7.2
+Ontario,02-Nov,6.8
+Ontario,02-Dec,6.9
+Ontario,03-Jan,6.9
+Ontario,03-Feb,6.8
+Ontario,03-Mar,6.5
+Ontario,03-Apr,6.9
+Ontario,03-May,7.1
+Ontario,03-Jun,7.1
+Ontario,03-Jul,7.1
+Ontario,03-Aug,7
+Ontario,03-Sep,7.4
+Ontario,03-Oct,7
+Ontario,03-Nov,6.8
+Ontario,03-Dec,6.6
+Ontario,04-Jan,6.6
+Ontario,04-Feb,6.6
+Ontario,04-Mar,6.9
+Ontario,04-Apr,6.7
+Ontario,04-May,6.9
+Ontario,04-Jun,6.8
+Ontario,04-Jul,6.7
+Ontario,04-Aug,6.8
+Ontario,04-Sep,6.5
+Ontario,04-Oct,6.6
+Ontario,04-Nov,6.9
+Ontario,04-Dec,7
+Ontario,05-Jan,6.7
+Ontario,05-Feb,6.8
+Ontario,05-Mar,6.8
+Ontario,05-Apr,6.7
+Ontario,05-May,7.1
+Ontario,05-Jun,6.8
+Ontario,05-Jul,6.7
+Ontario,05-Aug,6.7
+Ontario,05-Sep,6.5
+Ontario,05-Oct,6.5
+Ontario,05-Nov,6.1
+Ontario,05-Dec,6.3
+Ontario,06-Jan,6.6
+Ontario,06-Feb,6.6
+Ontario,06-Mar,6.3
+Ontario,06-Apr,6.4
+Ontario,06-May,6.2
+Ontario,06-Jun,6.2
+Ontario,06-Jul,6.6
+Ontario,06-Aug,6.6
+Ontario,06-Sep,6.7
+Ontario,06-Oct,6.6
+Ontario,06-Nov,6.7
+Ontario,06-Dec,6.3
+Ontario,07-Jan,6.5
+Ontario,07-Feb,6.5
+Ontario,07-Mar,6.6
+Ontario,07-Apr,6.7
+Ontario,07-May,6.4
+Ontario,07-Jun,6.5
+Ontario,07-Jul,6.4
+Ontario,07-Aug,6.3
+Ontario,07-Sep,6.2
+Ontario,07-Oct,6.2
+Ontario,07-Nov,6.5
+Ontario,07-Dec,6.7
+Ontario,08-Jan,6.6
+Ontario,08-Feb,6.3
+Ontario,08-Mar,6.6
+Ontario,08-Apr,6.4
+Ontario,08-May,6.3
+Ontario,08-Jun,6.5
+Ontario,08-Jul,6.5
+Ontario,08-Aug,6.4
+Ontario,08-Sep,6.6
+Ontario,08-Oct,6.7
+Ontario,08-Nov,7.3
+Ontario,08-Dec,7.4
+Ontario,09-Jan,8.2
+Ontario,09-Feb,8.9
+Ontario,09-Mar,9
+Ontario,09-Apr,9
+Ontario,09-May,9.6
+Ontario,09-Jun,9.6
+Ontario,09-Jul,9.5
+Ontario,09-Aug,9.4
+Ontario,09-Sep,9.1
+Ontario,09-Oct,9.1
+Ontario,09-Nov,9.3
+Ontario,09-Dec,9.2
+Ontario,10-Jan,9.1
+Ontario,10-Feb,9.3
+Ontario,10-Mar,8.9
+Ontario,10-Apr,9
+Ontario,10-May,8.7
+Ontario,10-Jun,8.5
+Ontario,10-Jul,8.7
+Ontario,10-Aug,8.9
+Ontario,10-Sep,8.9
+Ontario,10-Oct,8.4
+Ontario,10-Nov,8.2
+Ontario,10-Dec,8.3
+Ontario,11-Jan,8.3
+Ontario,11-Feb,8.2
+Ontario,11-Mar,8.3
+Ontario,11-Apr,8.2
+Ontario,11-May,8.3
+Ontario,11-Jun,8.1
+Ontario,11-Jul,7.7
+Ontario,11-Aug,7.6
+Ontario,11-Sep,7.9
+Ontario,11-Oct,8
+Ontario,11-Nov,8
+Ontario,11-Dec,7.7
+Ontario,12-Jan,8.1
+Ontario,12-Feb,7.9
+Ontario,12-Mar,7.7
+Ontario,12-Apr,8
+Ontario,12-May,8.2
+Ontario,12-Jun,8.1
+Ontario,12-Jul,8
+Ontario,12-Aug,8.1
+Ontario,12-Sep,7.9
+Ontario,12-Oct,8.2
+Ontario,12-Nov,8
+Ontario,12-Dec,7.8
+Ontario,13-Jan,7.7
+Ontario,13-Feb,7.5
+Ontario,13-Mar,7.6
+Ontario,13-Apr,7.6
+Ontario,13-May,7.5
+Ontario,13-Jun,7.6
+Ontario,13-Jul,7.7
+Ontario,13-Aug,7.7
+Ontario,13-Sep,7.5
+Ontario,13-Oct,7.6
+Ontario,13-Nov,7.5
+Ontario,13-Dec,7.8
+Ontario,14-Jan,7.5
+Ontario,14-Feb,7.6
+Ontario,14-Mar,7.4
+Ontario,14-Apr,7.4
+Ontario,14-May,7.6
+Ontario,14-Jun,7.5
+Ontario,14-Jul,7.5
+Ontario,14-Aug,7.3
+Ontario,14-Sep,7.3
+Ontario,14-Oct,6.8
+Ontario,14-Nov,7.2
+Ontario,14-Dec,7
+Ontario,15-Jan,6.9
+Ontario,15-Feb,7
+Ontario,15-Mar,6.8
+Ontario,15-Apr,6.8
+Ontario,15-May,6.3
+Ontario,15-Jun,6.5
+Ontario,15-Jul,6.7
+Ontario,15-Aug,6.9
+Ontario,15-Sep,6.8
+Ontario,15-Oct,6.8
+Ontario,15-Nov,6.8
+Ontario,15-Dec,6.8
+Ontario,16-Jan,6.7
+Ontario,16-Feb,6.7
+Ontario,16-Mar,6.9
+Ontario,16-Apr,7.1
+Ontario,16-May,6.5
+Ontario,16-Jun,6.4
+Ontario,16-Jul,6.3
+Ontario,16-Aug,6.5
+Ontario,16-Sep,6.5
+Ontario,16-Oct,6.4
+Ontario,16-Nov,6.3
+Ontario,16-Dec,6.5
+Ontario,17-Jan,6.5
+Ontario,17-Feb,6.3
+Ontario,17-Mar,6.4
+Ontario,17-Apr,5.9
+Ontario,17-May,6.4
+Ontario,17-Jun,6.3
+Ontario,17-Jul,6.1
+Ontario,17-Aug,5.5
+Ontario,17-Sep,5.9
+Ontario,17-Oct,5.9
+Ontario,17-Nov,5.8
+Ontario,17-Dec,5.9
+Ontario,18-Jan,5.6
+Ontario,18-Feb,5.6
+Ontario,18-Mar,5.5
+Ontario,18-Apr,5.4
+Ontario,18-May,5.8
+Ontario,18-Jun,5.9
+Ontario,18-Jul,5.5
+Ontario,18-Aug,5.7
+Ontario,18-Sep,5.8
+Ontario,18-Oct,5.7
+Ontario,18-Nov,5.7
+Ontario,18-Dec,5.6
+Ontario,19-Jan,5.6
+Ontario,19-Feb,5.6
+Ontario,19-Mar,5.9
+Ontario,19-Apr,6
+Ontario,19-May,5.2
+Ontario,19-Jun,5.4
+Ontario,19-Jul,5.7
+Ontario,19-Aug,5.6
+Ontario,19-Sep,5.4
+Ontario,19-Oct,5.4
+Ontario,19-Nov,5.6
+Ontario,19-Dec,5.3
+Ontario,20-Jan,5.2
+Ontario,20-Feb,5.6
+Ontario,20-Mar,8.3
+Ontario,20-Apr,12
+Ontario,20-May,14
+Ontario,20-Jun,12.5
+Ontario,20-Jul,11.5
+Ontario,20-Aug,10.5
+Ontario,20-Sep,9.6
+Ontario,20-Oct,9.5
+Ontario,20-Nov,9.1
+Ontario,20-Dec,10
+Ontario,21-Jan,10.3
+Ontario,21-Feb,9.6
+Ontario,21-Mar,7.9
+Ontario,21-Apr,9.3
+Ontario,21-May,9.3
+Ontario,21-Jun,8.7
+Ontario,21-Jul,7.9
+Ontario,21-Aug,7.7
+Ontario,21-Sep,7.4
+Ontario,21-Oct,6.7
+Ontario,21-Nov,6.5
+Ontario,21-Dec,6.3
+Ontario,22-Jan,7.5
+Ontario,22-Feb,5.7
+Ontario,22-Mar,5.5
+Ontario,22-Apr,5.6
+Ontario,22-May,5.4
+Ontario,22-Jun,5.2
+Ontario,22-Jul,5.1
+Ontario,22-Aug,5.5
+Ontario,22-Sep,5.5
+Ontario,22-Oct,5.5
+Ontario,22-Nov,5.6
+Ontario,22-Dec,5.3
+Ontario,23-Jan,5.2
+Ontario,23-Feb,5.2
+Ontario,23-Mar,5.3
+Ontario,23-Apr,5.1
+Ontario,23-May,5.6
+Ontario,23-Jun,5.7
+Ontario,23-Jul,5.7
+Ontario,23-Aug,6
+Ontario,23-Sep,6
+Ontario,23-Oct,6.2
+Ontario,23-Nov,6.1
+Ontario,23-Dec,6.3
+Ontario,24-Jan,6.2
+Ontario,24-Feb,6.5
+Ontario,24-Mar,6.7
+Ontario,24-Apr,6.8
+Ontario,24-May,6.7
+Manitoba,Jan-76,5.6
+Manitoba,Feb-76,4.9
+Manitoba,Mar-76,4.4
+Manitoba,Apr-76,4
+Manitoba,May-76,4.4
+Manitoba,Jun-76,4.4
+Manitoba,Jul-76,4.6
+Manitoba,Aug-76,4.3
+Manitoba,Sep-76,4.7
+Manitoba,Oct-76,4.6
+Manitoba,Nov-76,4.9
+Manitoba,Dec-76,5.1
+Manitoba,Jan-77,5.3
+Manitoba,Feb-77,5.1
+Manitoba,Mar-77,5.3
+Manitoba,Apr-77,5.6
+Manitoba,May-77,5.1
+Manitoba,Jun-77,5.5
+Manitoba,Jul-77,5.6
+Manitoba,Aug-77,5.5
+Manitoba,Sep-77,5.6
+Manitoba,Oct-77,5.9
+Manitoba,Nov-77,6.6
+Manitoba,Dec-77,6.6
+Manitoba,Jan-78,6.5
+Manitoba,Feb-78,6.4
+Manitoba,Mar-78,6.5
+Manitoba,Apr-78,6.1
+Manitoba,May-78,6.7
+Manitoba,Jun-78,6.3
+Manitoba,Jul-78,6.5
+Manitoba,Aug-78,6.4
+Manitoba,Sep-78,7.1
+Manitoba,Oct-78,6.5
+Manitoba,Nov-78,6.7
+Manitoba,Dec-78,6.4
+Manitoba,Jan-79,6.1
+Manitoba,Feb-79,6
+Manitoba,Mar-79,5.6
+Manitoba,Apr-79,6.2
+Manitoba,May-79,6.2
+Manitoba,Jun-79,5.1
+Manitoba,Jul-79,5.6
+Manitoba,Aug-79,5.2
+Manitoba,Sep-79,5
+Manitoba,Oct-79,4.7
+Manitoba,Nov-79,4.6
+Manitoba,Dec-79,4.9
+Manitoba,Jan-80,4.9
+Manitoba,Feb-80,5.5
+Manitoba,Mar-80,5.5
+Manitoba,Apr-80,5.7
+Manitoba,May-80,6
+Manitoba,Jun-80,5.4
+Manitoba,Jul-80,5.4
+Manitoba,Aug-80,5.8
+Manitoba,Sep-80,5.2
+Manitoba,Oct-80,5.4
+Manitoba,Nov-80,5.9
+Manitoba,Dec-80,5
+Manitoba,Jan-81,5.9
+Manitoba,Feb-81,5.6
+Manitoba,Mar-81,6
+Manitoba,Apr-81,5.6
+Manitoba,May-81,5.3
+Manitoba,Jun-81,5.8
+Manitoba,Jul-81,6.5
+Manitoba,Aug-81,5.9
+Manitoba,Sep-81,6.2
+Manitoba,Oct-81,5.9
+Manitoba,Nov-81,6.3
+Manitoba,Dec-81,6.7
+Manitoba,Jan-82,6.8
+Manitoba,Feb-82,6.6
+Manitoba,Mar-82,7.2
+Manitoba,Apr-82,7.4
+Manitoba,May-82,7.8
+Manitoba,Jun-82,8.7
+Manitoba,Jul-82,8.4
+Manitoba,Aug-82,9.4
+Manitoba,Sep-82,9.5
+Manitoba,Oct-82,9.8
+Manitoba,Nov-82,11
+Manitoba,Dec-82,10.5
+Manitoba,Jan-83,9.9
+Manitoba,Feb-83,9.9
+Manitoba,Mar-83,9.5
+Manitoba,Apr-83,9.8
+Manitoba,May-83,10.6
+Manitoba,Jun-83,10.1
+Manitoba,Jul-83,9.5
+Manitoba,Aug-83,8.8
+Manitoba,Sep-83,9.2
+Manitoba,Oct-83,9.4
+Manitoba,Nov-83,8.8
+Manitoba,Dec-83,8.5
+Manitoba,Jan-84,8.5
+Manitoba,Feb-84,8.7
+Manitoba,Mar-84,8.2
+Manitoba,Apr-84,8.2
+Manitoba,May-84,8.2
+Manitoba,Jun-84,8.3
+Manitoba,Jul-84,8.4
+Manitoba,Aug-84,8.8
+Manitoba,Sep-84,8.8
+Manitoba,Oct-84,9
+Manitoba,Nov-84,8.5
+Manitoba,Dec-84,8.6
+Manitoba,Jan-85,8.4
+Manitoba,Feb-85,8.5
+Manitoba,Mar-85,8.8
+Manitoba,Apr-85,8.5
+Manitoba,May-85,8.2
+Manitoba,Jun-85,8.6
+Manitoba,Jul-85,8.5
+Manitoba,Aug-85,8.9
+Manitoba,Sep-85,7.9
+Manitoba,Oct-85,7.6
+Manitoba,Nov-85,7.8
+Manitoba,Dec-85,7.5
+Manitoba,Jan-86,7.7
+Manitoba,Feb-86,7.7
+Manitoba,Mar-86,8.1
+Manitoba,Apr-86,8
+Manitoba,May-86,8
+Manitoba,Jun-86,7.2
+Manitoba,Jul-86,7.8
+Manitoba,Aug-86,7.4
+Manitoba,Sep-86,6.6
+Manitoba,Oct-86,6.6
+Manitoba,Nov-86,7.9
+Manitoba,Dec-86,8.1
+Manitoba,Jan-87,8.3
+Manitoba,Feb-87,7.2
+Manitoba,Mar-87,7.7
+Manitoba,Apr-87,7.5
+Manitoba,May-87,7.1
+Manitoba,Jun-87,7.6
+Manitoba,Jul-87,6.8
+Manitoba,Aug-87,7.7
+Manitoba,Sep-87,7.5
+Manitoba,Oct-87,7.9
+Manitoba,Nov-87,7.2
+Manitoba,Dec-87,7.3
+Manitoba,Jan-88,7.7
+Manitoba,Feb-88,7.7
+Manitoba,Mar-88,7.7
+Manitoba,Apr-88,7.7
+Manitoba,May-88,7.6
+Manitoba,Jun-88,7.3
+Manitoba,Jul-88,7.8
+Manitoba,Aug-88,7.8
+Manitoba,Sep-88,8.2
+Manitoba,Oct-88,8
+Manitoba,Nov-88,7.8
+Manitoba,Dec-88,7.4
+Manitoba,Jan-89,7.6
+Manitoba,Feb-89,8
+Manitoba,Mar-89,7.8
+Manitoba,Apr-89,7.9
+Manitoba,May-89,7.6
+Manitoba,Jun-89,7.1
+Manitoba,Jul-89,6.8
+Manitoba,Aug-89,6.3
+Manitoba,Sep-89,7
+Manitoba,Oct-89,7.4
+Manitoba,Nov-89,8
+Manitoba,Dec-89,7.5
+Manitoba,Jan-90,6.9
+Manitoba,Feb-90,7.1
+Manitoba,Mar-90,6.8
+Manitoba,Apr-90,6.7
+Manitoba,May-90,7.7
+Manitoba,Jun-90,8.3
+Manitoba,Jul-90,7.6
+Manitoba,Aug-90,7.3
+Manitoba,Sep-90,7
+Manitoba,Oct-90,7.1
+Manitoba,Nov-90,7.7
+Manitoba,Dec-90,8.1
+Manitoba,Jan-91,7.8
+Manitoba,Feb-91,8.3
+Manitoba,Mar-91,8.4
+Manitoba,Apr-91,8.7
+Manitoba,May-91,8.2
+Manitoba,Jun-91,8.5
+Manitoba,Jul-91,9
+Manitoba,Aug-91,9.2
+Manitoba,Sep-91,9.7
+Manitoba,Oct-91,9.3
+Manitoba,Nov-91,8.4
+Manitoba,Dec-91,7.8
+Manitoba,Jan-92,9.1
+Manitoba,Feb-92,8.2
+Manitoba,Mar-92,9.3
+Manitoba,Apr-92,9.1
+Manitoba,May-92,9.2
+Manitoba,Jun-92,9.3
+Manitoba,Jul-92,10
+Manitoba,Aug-92,9.6
+Manitoba,Sep-92,9.4
+Manitoba,Oct-92,8.9
+Manitoba,Nov-92,9.9
+Manitoba,Dec-92,9.7
+Manitoba,Jan-93,8.4
+Manitoba,Feb-93,8.6
+Manitoba,Mar-93,8.9
+Manitoba,Apr-93,9.2
+Manitoba,May-93,9.7
+Manitoba,Jun-93,10.3
+Manitoba,Jul-93,10
+Manitoba,Aug-93,9.2
+Manitoba,Sep-93,9.4
+Manitoba,Oct-93,9.5
+Manitoba,Nov-93,9.6
+Manitoba,Dec-93,9.3
+Manitoba,Jan-94,9.9
+Manitoba,Feb-94,10.3
+Manitoba,Mar-94,9.4
+Manitoba,Apr-94,9.2
+Manitoba,May-94,8.7
+Manitoba,Jun-94,8.3
+Manitoba,Jul-94,7.7
+Manitoba,Aug-94,8.8
+Manitoba,Sep-94,8.5
+Manitoba,Oct-94,8.6
+Manitoba,Nov-94,7.8
+Manitoba,Dec-94,7.6
+Manitoba,Jan-95,7.5
+Manitoba,Feb-95,7.5
+Manitoba,Mar-95,7.5
+Manitoba,Apr-95,7.5
+Manitoba,May-95,7.1
+Manitoba,Jun-95,7.1
+Manitoba,Jul-95,7.1
+Manitoba,Aug-95,7.4
+Manitoba,Sep-95,7
+Manitoba,Oct-95,7.2
+Manitoba,Nov-95,7.1
+Manitoba,Dec-95,6.9
+Manitoba,Jan-96,7.6
+Manitoba,Feb-96,7.3
+Manitoba,Mar-96,7.2
+Manitoba,Apr-96,7.2
+Manitoba,May-96,7.5
+Manitoba,Jun-96,7.4
+Manitoba,Jul-96,7.5
+Manitoba,Aug-96,6.8
+Manitoba,Sep-96,6.8
+Manitoba,Oct-96,6.7
+Manitoba,Nov-96,7.5
+Manitoba,Dec-96,7.3
+Manitoba,Jan-97,7.1
+Manitoba,Feb-97,6.7
+Manitoba,Mar-97,6.9
+Manitoba,Apr-97,6.8
+Manitoba,May-97,6.9
+Manitoba,Jun-97,6.5
+Manitoba,Jul-97,6.4
+Manitoba,Aug-97,6.1
+Manitoba,Sep-97,6.5
+Manitoba,Oct-97,6.2
+Manitoba,Nov-97,5.9
+Manitoba,Dec-97,5.6
+Manitoba,Jan-98,5.5
+Manitoba,Feb-98,5.8
+Manitoba,Mar-98,5.2
+Manitoba,Apr-98,5.7
+Manitoba,May-98,5.5
+Manitoba,Jun-98,5.6
+Manitoba,Jul-98,5.1
+Manitoba,Aug-98,5.3
+Manitoba,Sep-98,5.8
+Manitoba,Oct-98,5.7
+Manitoba,Nov-98,5.6
+Manitoba,Dec-98,5.8
+Manitoba,Jan-99,5.8
+Manitoba,Feb-99,5.5
+Manitoba,Mar-99,5.3
+Manitoba,Apr-99,5.7
+Manitoba,May-99,5.5
+Manitoba,Jun-99,5.7
+Manitoba,Jul-99,5.7
+Manitoba,Aug-99,6
+Manitoba,Sep-99,5.9
+Manitoba,Oct-99,5.4
+Manitoba,Nov-99,5.4
+Manitoba,Dec-99,5.4
+Manitoba,Jan-00,5.1
+Manitoba,Feb-00,5.3
+Manitoba,Mar-00,5.6
+Manitoba,Apr-00,4.9
+Manitoba,May-00,4.6
+Manitoba,Jun-00,4.5
+Manitoba,Jul-00,5
+Manitoba,Aug-00,5
+Manitoba,Sep-00,4.5
+Manitoba,Oct-00,4.6
+Manitoba,Nov-00,4.9
+Manitoba,Dec-00,5.1
+Manitoba,01-Jan,4.7
+Manitoba,01-Feb,4.4
+Manitoba,01-Mar,5.1
+Manitoba,01-Apr,5.1
+Manitoba,01-May,5.2
+Manitoba,01-Jun,5.8
+Manitoba,01-Jul,5.5
+Manitoba,01-Aug,5.2
+Manitoba,01-Sep,5.2
+Manitoba,01-Oct,5.1
+Manitoba,01-Nov,5
+Manitoba,01-Dec,4.8
+Manitoba,02-Jan,5
+Manitoba,02-Feb,5.7
+Manitoba,02-Mar,5.2
+Manitoba,02-Apr,5.3
+Manitoba,02-May,5.1
+Manitoba,02-Jun,5
+Manitoba,02-Jul,5
+Manitoba,02-Aug,5
+Manitoba,02-Sep,4.5
+Manitoba,02-Oct,5.1
+Manitoba,02-Nov,5.1
+Manitoba,02-Dec,5
+Manitoba,03-Jan,5
+Manitoba,03-Feb,5.1
+Manitoba,03-Mar,4.8
+Manitoba,03-Apr,4.3
+Manitoba,03-May,4.6
+Manitoba,03-Jun,4.6
+Manitoba,03-Jul,4.9
+Manitoba,03-Aug,4.9
+Manitoba,03-Sep,5.3
+Manitoba,03-Oct,5.3
+Manitoba,03-Nov,5.4
+Manitoba,03-Dec,5.2
+Manitoba,04-Jan,5.3
+Manitoba,04-Feb,5
+Manitoba,04-Mar,5
+Manitoba,04-Apr,5.2
+Manitoba,04-May,5.2
+Manitoba,04-Jun,5.7
+Manitoba,04-Jul,5.4
+Manitoba,04-Aug,5.4
+Manitoba,04-Sep,5.6
+Manitoba,04-Oct,5.3
+Manitoba,04-Nov,5
+Manitoba,04-Dec,5.1
+Manitoba,05-Jan,5.1
+Manitoba,05-Feb,5
+Manitoba,05-Mar,5.2
+Manitoba,05-Apr,4.7
+Manitoba,05-May,5
+Manitoba,05-Jun,4.9
+Manitoba,05-Jul,4.5
+Manitoba,05-Aug,4.4
+Manitoba,05-Sep,4.8
+Manitoba,05-Oct,4.6
+Manitoba,05-Nov,4.2
+Manitoba,05-Dec,4.5
+Manitoba,06-Jan,4.5
+Manitoba,06-Feb,4.5
+Manitoba,06-Mar,4.5
+Manitoba,06-Apr,5
+Manitoba,06-May,4.2
+Manitoba,06-Jun,4
+Manitoba,06-Jul,4.9
+Manitoba,06-Aug,4.5
+Manitoba,06-Sep,4.3
+Manitoba,06-Oct,4.4
+Manitoba,06-Nov,5.1
+Manitoba,06-Dec,4.5
+Manitoba,07-Jan,4.9
+Manitoba,07-Feb,4.6
+Manitoba,07-Mar,4.6
+Manitoba,07-Apr,5.2
+Manitoba,07-May,5.3
+Manitoba,07-Jun,4.9
+Manitoba,07-Jul,4.3
+Manitoba,07-Aug,4.4
+Manitoba,07-Sep,4.2
+Manitoba,07-Oct,4.3
+Manitoba,07-Nov,4.5
+Manitoba,07-Dec,4.4
+Manitoba,08-Jan,4
+Manitoba,08-Feb,4.1
+Manitoba,08-Mar,4.3
+Manitoba,08-Apr,4.3
+Manitoba,08-May,4.2
+Manitoba,08-Jun,3.9
+Manitoba,08-Jul,4
+Manitoba,08-Aug,4.1
+Manitoba,08-Sep,4.4
+Manitoba,08-Oct,4.3
+Manitoba,08-Nov,4.5
+Manitoba,08-Dec,4.7
+Manitoba,09-Jan,4.9
+Manitoba,09-Feb,5.4
+Manitoba,09-Mar,5.6
+Manitoba,09-Apr,5.1
+Manitoba,09-May,4.8
+Manitoba,09-Jun,5.5
+Manitoba,09-Jul,5.2
+Manitoba,09-Aug,5.7
+Manitoba,09-Sep,5.5
+Manitoba,09-Oct,6
+Manitoba,09-Nov,5.3
+Manitoba,09-Dec,5.8
+Manitoba,10-Jan,5.8
+Manitoba,10-Feb,5.7
+Manitoba,10-Mar,5.5
+Manitoba,10-Apr,5.2
+Manitoba,10-May,5.8
+Manitoba,10-Jun,5.6
+Manitoba,10-Jul,5.4
+Manitoba,10-Aug,5.4
+Manitoba,10-Sep,5.2
+Manitoba,10-Oct,5
+Manitoba,10-Nov,5.1
+Manitoba,10-Dec,5.4
+Manitoba,11-Jan,5.1
+Manitoba,11-Feb,5.4
+Manitoba,11-Mar,5.8
+Manitoba,11-Apr,5.3
+Manitoba,11-May,5.3
+Manitoba,11-Jun,5.4
+Manitoba,11-Jul,5.7
+Manitoba,11-Aug,5.3
+Manitoba,11-Sep,5.6
+Manitoba,11-Oct,5.4
+Manitoba,11-Nov,5.5
+Manitoba,11-Dec,5.5
+Manitoba,12-Jan,5.6
+Manitoba,12-Feb,5.5
+Manitoba,12-Mar,5.3
+Manitoba,12-Apr,5.2
+Manitoba,12-May,5.1
+Manitoba,12-Jun,5.5
+Manitoba,12-Jul,5.6
+Manitoba,12-Aug,5.7
+Manitoba,12-Sep,5.4
+Manitoba,12-Oct,5.7
+Manitoba,12-Nov,5.5
+Manitoba,12-Dec,5.1
+Manitoba,13-Jan,4.6
+Manitoba,13-Feb,5.1
+Manitoba,13-Mar,5.1
+Manitoba,13-Apr,5.7
+Manitoba,13-May,5.7
+Manitoba,13-Jun,5.5
+Manitoba,13-Jul,5.5
+Manitoba,13-Aug,5.3
+Manitoba,13-Sep,5.6
+Manitoba,13-Oct,5.7
+Manitoba,13-Nov,6
+Manitoba,13-Dec,5.6
+Manitoba,14-Jan,5.5
+Manitoba,14-Feb,5.3
+Manitoba,14-Mar,5.4
+Manitoba,14-Apr,5.7
+Manitoba,14-May,5.6
+Manitoba,14-Jun,5.4
+Manitoba,14-Jul,5.3
+Manitoba,14-Aug,5.6
+Manitoba,14-Sep,5.6
+Manitoba,14-Oct,5.4
+Manitoba,14-Nov,5
+Manitoba,14-Dec,5.5
+Manitoba,15-Jan,6
+Manitoba,15-Feb,5.6
+Manitoba,15-Mar,5.3
+Manitoba,15-Apr,5.4
+Manitoba,15-May,5.8
+Manitoba,15-Jun,5.2
+Manitoba,15-Jul,5.8
+Manitoba,15-Aug,6.1
+Manitoba,15-Sep,5.7
+Manitoba,15-Oct,5.5
+Manitoba,15-Nov,6
+Manitoba,15-Dec,5.8
+Manitoba,16-Jan,6.2
+Manitoba,16-Feb,6
+Manitoba,16-Mar,6
+Manitoba,16-Apr,6.1
+Manitoba,16-May,6
+Manitoba,16-Jun,6.2
+Manitoba,16-Jul,6.3
+Manitoba,16-Aug,6
+Manitoba,16-Sep,6.4
+Manitoba,16-Oct,6.1
+Manitoba,16-Nov,5.9
+Manitoba,16-Dec,5.9
+Manitoba,17-Jan,5.9
+Manitoba,17-Feb,5.8
+Manitoba,17-Mar,5.7
+Manitoba,17-Apr,5.4
+Manitoba,17-May,5.2
+Manitoba,17-Jun,5.1
+Manitoba,17-Jul,4.8
+Manitoba,17-Aug,4.9
+Manitoba,17-Sep,5.4
+Manitoba,17-Oct,5.1
+Manitoba,17-Nov,5.5
+Manitoba,17-Dec,5.6
+Manitoba,18-Jan,5.6
+Manitoba,18-Feb,6
+Manitoba,18-Mar,6.3
+Manitoba,18-Apr,6.2
+Manitoba,18-May,6.1
+Manitoba,18-Jun,5.9
+Manitoba,18-Jul,6.1
+Manitoba,18-Aug,5.7
+Manitoba,18-Sep,5.8
+Manitoba,18-Oct,6.2
+Manitoba,18-Nov,5.9
+Manitoba,18-Dec,5.9
+Manitoba,19-Jan,5.7
+Manitoba,19-Feb,5.5
+Manitoba,19-Mar,5.2
+Manitoba,19-Apr,5.1
+Manitoba,19-May,5.1
+Manitoba,19-Jun,5.5
+Manitoba,19-Jul,5.8
+Manitoba,19-Aug,5.3
+Manitoba,19-Sep,5.1
+Manitoba,19-Oct,5.3
+Manitoba,19-Nov,5.6
+Manitoba,19-Dec,4.8
+Manitoba,20-Jan,5
+Manitoba,20-Feb,5.2
+Manitoba,20-Mar,6.8
+Manitoba,20-Apr,11.4
+Manitoba,20-May,11.8
+Manitoba,20-Jun,10.2
+Manitoba,20-Jul,8.8
+Manitoba,20-Aug,8.3
+Manitoba,20-Sep,7.5
+Manitoba,20-Oct,7.2
+Manitoba,20-Nov,7.7
+Manitoba,20-Dec,8.3
+Manitoba,21-Jan,8.2
+Manitoba,21-Feb,7.1
+Manitoba,21-Mar,7.1
+Manitoba,21-Apr,7.3
+Manitoba,21-May,7
+Manitoba,21-Jun,7.6
+Manitoba,21-Jul,6.1
+Manitoba,21-Aug,5.7
+Manitoba,21-Sep,5.8
+Manitoba,21-Oct,5
+Manitoba,21-Nov,5.1
+Manitoba,21-Dec,5.2
+Manitoba,22-Jan,4.9
+Manitoba,22-Feb,4.5
+Manitoba,22-Mar,4.7
+Manitoba,22-Apr,4.8
+Manitoba,22-May,4.5
+Manitoba,22-Jun,4.1
+Manitoba,22-Jul,3.9
+Manitoba,22-Aug,5
+Manitoba,22-Sep,4.7
+Manitoba,22-Oct,4.6
+Manitoba,22-Nov,4.2
+Manitoba,22-Dec,4.5
+Manitoba,23-Jan,4.3
+Manitoba,23-Feb,4.6
+Manitoba,23-Mar,4.7
+Manitoba,23-Apr,4.9
+Manitoba,23-May,4.9
+Manitoba,23-Jun,4.6
+Manitoba,23-Jul,5
+Manitoba,23-Aug,5.5
+Manitoba,23-Sep,5.2
+Manitoba,23-Oct,5.1
+Manitoba,23-Nov,4.8
+Manitoba,23-Dec,4.2
+Manitoba,24-Jan,4
+Manitoba,24-Feb,4.5
+Manitoba,24-Mar,5
+Manitoba,24-Apr,5.1
+Manitoba,24-May,4.9
+Saskatchewan,Jan-76,3.8
+Saskatchewan,Feb-76,4.1
+Saskatchewan,Mar-76,3.6
+Saskatchewan,Apr-76,3.5
+Saskatchewan,May-76,3.5
+Saskatchewan,Jun-76,4
+Saskatchewan,Jul-76,4.4
+Saskatchewan,Aug-76,4.8
+Saskatchewan,Sep-76,3.5
+Saskatchewan,Oct-76,3.9
+Saskatchewan,Nov-76,3.6
+Saskatchewan,Dec-76,3.5
+Saskatchewan,Jan-77,3.5
+Saskatchewan,Feb-77,3.9
+Saskatchewan,Mar-77,4.2
+Saskatchewan,Apr-77,4.4
+Saskatchewan,May-77,4.4
+Saskatchewan,Jun-77,4.3
+Saskatchewan,Jul-77,4.9
+Saskatchewan,Aug-77,4.5
+Saskatchewan,Sep-77,4.4
+Saskatchewan,Oct-77,4.4
+Saskatchewan,Nov-77,4.7
+Saskatchewan,Dec-77,5
+Saskatchewan,Jan-78,4.8
+Saskatchewan,Feb-78,4.9
+Saskatchewan,Mar-78,5.3
+Saskatchewan,Apr-78,4.8
+Saskatchewan,May-78,5.1
+Saskatchewan,Jun-78,4.9
+Saskatchewan,Jul-78,4.7
+Saskatchewan,Aug-78,4.8
+Saskatchewan,Sep-78,4.6
+Saskatchewan,Oct-78,4.5
+Saskatchewan,Nov-78,4.6
+Saskatchewan,Dec-78,4.6
+Saskatchewan,Jan-79,4.7
+Saskatchewan,Feb-79,4.6
+Saskatchewan,Mar-79,4.4
+Saskatchewan,Apr-79,4.7
+Saskatchewan,May-79,4.6
+Saskatchewan,Jun-79,4
+Saskatchewan,Jul-79,3.5
+Saskatchewan,Aug-79,3.6
+Saskatchewan,Sep-79,3.7
+Saskatchewan,Oct-79,3.8
+Saskatchewan,Nov-79,3.8
+Saskatchewan,Dec-79,4.2
+Saskatchewan,Jan-80,3.8
+Saskatchewan,Feb-80,4.1
+Saskatchewan,Mar-80,4.2
+Saskatchewan,Apr-80,4.1
+Saskatchewan,May-80,4.1
+Saskatchewan,Jun-80,4.2
+Saskatchewan,Jul-80,4.7
+Saskatchewan,Aug-80,4.4
+Saskatchewan,Sep-80,4.6
+Saskatchewan,Oct-80,4.6
+Saskatchewan,Nov-80,4.4
+Saskatchewan,Dec-80,4.5
+Saskatchewan,Jan-81,4.7
+Saskatchewan,Feb-81,5.1
+Saskatchewan,Mar-81,4.5
+Saskatchewan,Apr-81,4.2
+Saskatchewan,May-81,4.2
+Saskatchewan,Jun-81,4.3
+Saskatchewan,Jul-81,3.7
+Saskatchewan,Aug-81,4.2
+Saskatchewan,Sep-81,4.7
+Saskatchewan,Oct-81,4.5
+Saskatchewan,Nov-81,4.9
+Saskatchewan,Dec-81,4.6
+Saskatchewan,Jan-82,4.3
+Saskatchewan,Feb-82,4.8
+Saskatchewan,Mar-82,4.8
+Saskatchewan,Apr-82,5.6
+Saskatchewan,May-82,5.9
+Saskatchewan,Jun-82,6.7
+Saskatchewan,Jul-82,7.3
+Saskatchewan,Aug-82,7.3
+Saskatchewan,Sep-82,7.3
+Saskatchewan,Oct-82,7.5
+Saskatchewan,Nov-82,7.5
+Saskatchewan,Dec-82,7.3
+Saskatchewan,Jan-83,7.9
+Saskatchewan,Feb-83,7.4
+Saskatchewan,Mar-83,7.1
+Saskatchewan,Apr-83,7.8
+Saskatchewan,May-83,7.9
+Saskatchewan,Jun-83,7.5
+Saskatchewan,Jul-83,7.4
+Saskatchewan,Aug-83,7.7
+Saskatchewan,Sep-83,7.8
+Saskatchewan,Oct-83,7.8
+Saskatchewan,Nov-83,7.7
+Saskatchewan,Dec-83,7.8
+Saskatchewan,Jan-84,7.5
+Saskatchewan,Feb-84,7.9
+Saskatchewan,Mar-84,8.1
+Saskatchewan,Apr-84,7.8
+Saskatchewan,May-84,8.1
+Saskatchewan,Jun-84,8.2
+Saskatchewan,Jul-84,7.9
+Saskatchewan,Aug-84,7.8
+Saskatchewan,Sep-84,8.7
+Saskatchewan,Oct-84,8.3
+Saskatchewan,Nov-84,8.6
+Saskatchewan,Dec-84,8.5
+Saskatchewan,Jan-85,8.1
+Saskatchewan,Feb-85,8.1
+Saskatchewan,Mar-85,8.2
+Saskatchewan,Apr-85,8.3
+Saskatchewan,May-85,8.2
+Saskatchewan,Jun-85,8.1
+Saskatchewan,Jul-85,8
+Saskatchewan,Aug-85,8.5
+Saskatchewan,Sep-85,7.9
+Saskatchewan,Oct-85,8
+Saskatchewan,Nov-85,8
+Saskatchewan,Dec-85,8.2
+Saskatchewan,Jan-86,7.8
+Saskatchewan,Feb-86,7.8
+Saskatchewan,Mar-86,8.3
+Saskatchewan,Apr-86,7.7
+Saskatchewan,May-86,7.9
+Saskatchewan,Jun-86,8
+Saskatchewan,Jul-86,7.8
+Saskatchewan,Aug-86,7.5
+Saskatchewan,Sep-86,7.6
+Saskatchewan,Oct-86,7.5
+Saskatchewan,Nov-86,7.5
+Saskatchewan,Dec-86,7.2
+Saskatchewan,Jan-87,7.5
+Saskatchewan,Feb-87,7.2
+Saskatchewan,Mar-87,7.1
+Saskatchewan,Apr-87,7.2
+Saskatchewan,May-87,7.6
+Saskatchewan,Jun-87,7.1
+Saskatchewan,Jul-87,7.6
+Saskatchewan,Aug-87,7.6
+Saskatchewan,Sep-87,7.1
+Saskatchewan,Oct-87,7.1
+Saskatchewan,Nov-87,7.3
+Saskatchewan,Dec-87,7
+Saskatchewan,Jan-88,7.9
+Saskatchewan,Feb-88,7.2
+Saskatchewan,Mar-88,7.7
+Saskatchewan,Apr-88,7.1
+Saskatchewan,May-88,6.7
+Saskatchewan,Jun-88,7
+Saskatchewan,Jul-88,6.7
+Saskatchewan,Aug-88,7.2
+Saskatchewan,Sep-88,7.3
+Saskatchewan,Oct-88,7.6
+Saskatchewan,Nov-88,7.8
+Saskatchewan,Dec-88,7.7
+Saskatchewan,Jan-89,7.6
+Saskatchewan,Feb-89,7.9
+Saskatchewan,Mar-89,7.4
+Saskatchewan,Apr-89,7.5
+Saskatchewan,May-89,7.4
+Saskatchewan,Jun-89,7.3
+Saskatchewan,Jul-89,7.4
+Saskatchewan,Aug-89,7.1
+Saskatchewan,Sep-89,7.4
+Saskatchewan,Oct-89,7.1
+Saskatchewan,Nov-89,7.2
+Saskatchewan,Dec-89,6.9
+Saskatchewan,Jan-90,7.7
+Saskatchewan,Feb-90,7
+Saskatchewan,Mar-90,6.8
+Saskatchewan,Apr-90,7.1
+Saskatchewan,May-90,7.1
+Saskatchewan,Jun-90,7.2
+Saskatchewan,Jul-90,6.8
+Saskatchewan,Aug-90,7
+Saskatchewan,Sep-90,6.8
+Saskatchewan,Oct-90,7.1
+Saskatchewan,Nov-90,7
+Saskatchewan,Dec-90,7
+Saskatchewan,Jan-91,7.2
+Saskatchewan,Feb-91,7.7
+Saskatchewan,Mar-91,7.4
+Saskatchewan,Apr-91,7.6
+Saskatchewan,May-91,7.6
+Saskatchewan,Jun-91,7.4
+Saskatchewan,Jul-91,7.3
+Saskatchewan,Aug-91,7.3
+Saskatchewan,Sep-91,7
+Saskatchewan,Oct-91,7.4
+Saskatchewan,Nov-91,7.1
+Saskatchewan,Dec-91,7.1
+Saskatchewan,Jan-92,7.1
+Saskatchewan,Feb-92,6.9
+Saskatchewan,Mar-92,7.4
+Saskatchewan,Apr-92,7.4
+Saskatchewan,May-92,7.6
+Saskatchewan,Jun-92,8.3
+Saskatchewan,Jul-92,8.2
+Saskatchewan,Aug-92,8.2
+Saskatchewan,Sep-92,8.5
+Saskatchewan,Oct-92,8.6
+Saskatchewan,Nov-92,8.9
+Saskatchewan,Dec-92,9
+Saskatchewan,Jan-93,8.9
+Saskatchewan,Feb-93,8.4
+Saskatchewan,Mar-93,8.5
+Saskatchewan,Apr-93,8.3
+Saskatchewan,May-93,8.3
+Saskatchewan,Jun-93,8.3
+Saskatchewan,Jul-93,8.3
+Saskatchewan,Aug-93,8.3
+Saskatchewan,Sep-93,8.4
+Saskatchewan,Oct-93,7.7
+Saskatchewan,Nov-93,7.9
+Saskatchewan,Dec-93,8.3
+Saskatchewan,Jan-94,7.8
+Saskatchewan,Feb-94,7.3
+Saskatchewan,Mar-94,7.1
+Saskatchewan,Apr-94,7.4
+Saskatchewan,May-94,7
+Saskatchewan,Jun-94,6.7
+Saskatchewan,Jul-94,6.2
+Saskatchewan,Aug-94,6.4
+Saskatchewan,Sep-94,6.4
+Saskatchewan,Oct-94,7.2
+Saskatchewan,Nov-94,6.4
+Saskatchewan,Dec-94,6.1
+Saskatchewan,Jan-95,6.2
+Saskatchewan,Feb-95,6.5
+Saskatchewan,Mar-95,6.3
+Saskatchewan,Apr-95,6.3
+Saskatchewan,May-95,7.2
+Saskatchewan,Jun-95,6.2
+Saskatchewan,Jul-95,6.9
+Saskatchewan,Aug-95,7.1
+Saskatchewan,Sep-95,7
+Saskatchewan,Oct-95,6.7
+Saskatchewan,Nov-95,7.4
+Saskatchewan,Dec-95,7.2
+Saskatchewan,Jan-96,7.3
+Saskatchewan,Feb-96,7.3
+Saskatchewan,Mar-96,7.4
+Saskatchewan,Apr-96,6.9
+Saskatchewan,May-96,6.8
+Saskatchewan,Jun-96,6.8
+Saskatchewan,Jul-96,6.6
+Saskatchewan,Aug-96,6.3
+Saskatchewan,Sep-96,6.1
+Saskatchewan,Oct-96,5.5
+Saskatchewan,Nov-96,5.5
+Saskatchewan,Dec-96,5.8
+Saskatchewan,Jan-97,6
+Saskatchewan,Feb-97,6.3
+Saskatchewan,Mar-97,6.2
+Saskatchewan,Apr-97,6.1
+Saskatchewan,May-97,5.9
+Saskatchewan,Jun-97,6
+Saskatchewan,Jul-97,5.7
+Saskatchewan,Aug-97,5.6
+Saskatchewan,Sep-97,6
+Saskatchewan,Oct-97,6.1
+Saskatchewan,Nov-97,6.1
+Saskatchewan,Dec-97,5.2
+Saskatchewan,Jan-98,5.3
+Saskatchewan,Feb-98,5.3
+Saskatchewan,Mar-98,5.4
+Saskatchewan,Apr-98,5.7
+Saskatchewan,May-98,5.3
+Saskatchewan,Jun-98,6
+Saskatchewan,Jul-98,6.1
+Saskatchewan,Aug-98,6.3
+Saskatchewan,Sep-98,5.9
+Saskatchewan,Oct-98,6
+Saskatchewan,Nov-98,6.2
+Saskatchewan,Dec-98,6.3
+Saskatchewan,Jan-99,6.4
+Saskatchewan,Feb-99,6.8
+Saskatchewan,Mar-99,6.6
+Saskatchewan,Apr-99,6.4
+Saskatchewan,May-99,7.1
+Saskatchewan,Jun-99,5.6
+Saskatchewan,Jul-99,5.9
+Saskatchewan,Aug-99,5.8
+Saskatchewan,Sep-99,5.3
+Saskatchewan,Oct-99,5.7
+Saskatchewan,Nov-99,5.3
+Saskatchewan,Dec-99,5.1
+Saskatchewan,Jan-00,4.9
+Saskatchewan,Feb-00,4.6
+Saskatchewan,Mar-00,4.8
+Saskatchewan,Apr-00,4.7
+Saskatchewan,May-00,5.1
+Saskatchewan,Jun-00,5.5
+Saskatchewan,Jul-00,5.4
+Saskatchewan,Aug-00,5.7
+Saskatchewan,Sep-00,5.5
+Saskatchewan,Oct-00,5.2
+Saskatchewan,Nov-00,4.9
+Saskatchewan,Dec-00,5
+Saskatchewan,01-Jan,5.4
+Saskatchewan,01-Feb,5.8
+Saskatchewan,01-Mar,5.7
+Saskatchewan,01-Apr,6
+Saskatchewan,01-May,6
+Saskatchewan,01-Jun,5.7
+Saskatchewan,01-Jul,5.7
+Saskatchewan,01-Aug,5.4
+Saskatchewan,01-Sep,5.9
+Saskatchewan,01-Oct,5.8
+Saskatchewan,01-Nov,6
+Saskatchewan,01-Dec,5.9
+Saskatchewan,02-Jan,5.8
+Saskatchewan,02-Feb,5.6
+Saskatchewan,02-Mar,5.8
+Saskatchewan,02-Apr,5.9
+Saskatchewan,02-May,6
+Saskatchewan,02-Jun,5.6
+Saskatchewan,02-Jul,5.3
+Saskatchewan,02-Aug,5.2
+Saskatchewan,02-Sep,5.4
+Saskatchewan,02-Oct,6.1
+Saskatchewan,02-Nov,5.7
+Saskatchewan,02-Dec,6
+Saskatchewan,03-Jan,5.9
+Saskatchewan,03-Feb,6.2
+Saskatchewan,03-Mar,5.7
+Saskatchewan,03-Apr,5.4
+Saskatchewan,03-May,5.7
+Saskatchewan,03-Jun,5.4
+Saskatchewan,03-Jul,5.3
+Saskatchewan,03-Aug,5.4
+Saskatchewan,03-Sep,5.5
+Saskatchewan,03-Oct,5.7
+Saskatchewan,03-Nov,5.8
+Saskatchewan,03-Dec,5.8
+Saskatchewan,04-Jan,5.6
+Saskatchewan,04-Feb,5.4
+Saskatchewan,04-Mar,5.8
+Saskatchewan,04-Apr,5.4
+Saskatchewan,04-May,4.7
+Saskatchewan,04-Jun,5.1
+Saskatchewan,04-Jul,5.3
+Saskatchewan,04-Aug,5
+Saskatchewan,04-Sep,5.6
+Saskatchewan,04-Oct,4.9
+Saskatchewan,04-Nov,5.2
+Saskatchewan,04-Dec,5.3
+Saskatchewan,05-Jan,4.9
+Saskatchewan,05-Feb,4.9
+Saskatchewan,05-Mar,5
+Saskatchewan,05-Apr,5.1
+Saskatchewan,05-May,4.5
+Saskatchewan,05-Jun,4.7
+Saskatchewan,05-Jul,4.6
+Saskatchewan,05-Aug,4.9
+Saskatchewan,05-Sep,6
+Saskatchewan,05-Oct,5.3
+Saskatchewan,05-Nov,5.3
+Saskatchewan,05-Dec,5.2
+Saskatchewan,06-Jan,5.1
+Saskatchewan,06-Feb,5.4
+Saskatchewan,06-Mar,5
+Saskatchewan,06-Apr,4.9
+Saskatchewan,06-May,4.8
+Saskatchewan,06-Jun,5
+Saskatchewan,06-Jul,4.7
+Saskatchewan,06-Aug,5.1
+Saskatchewan,06-Sep,4.5
+Saskatchewan,06-Oct,3.9
+Saskatchewan,06-Nov,4.3
+Saskatchewan,06-Dec,4.2
+Saskatchewan,07-Jan,4.5
+Saskatchewan,07-Feb,4.3
+Saskatchewan,07-Mar,4.2
+Saskatchewan,07-Apr,4.2
+Saskatchewan,07-May,4.6
+Saskatchewan,07-Jun,4.6
+Saskatchewan,07-Jul,4.5
+Saskatchewan,07-Aug,4.8
+Saskatchewan,07-Sep,3.7
+Saskatchewan,07-Oct,4.3
+Saskatchewan,07-Nov,4.4
+Saskatchewan,07-Dec,4
+Saskatchewan,08-Jan,4.3
+Saskatchewan,08-Feb,4.4
+Saskatchewan,08-Mar,4.4
+Saskatchewan,08-Apr,4.3
+Saskatchewan,08-May,4.2
+Saskatchewan,08-Jun,3.9
+Saskatchewan,08-Jul,4.5
+Saskatchewan,08-Aug,4.3
+Saskatchewan,08-Sep,4.2
+Saskatchewan,08-Oct,3.9
+Saskatchewan,08-Nov,3.8
+Saskatchewan,08-Dec,4.8
+Saskatchewan,09-Jan,4.5
+Saskatchewan,09-Feb,5
+Saskatchewan,09-Mar,4.8
+Saskatchewan,09-Apr,5
+Saskatchewan,09-May,5.2
+Saskatchewan,09-Jun,4.7
+Saskatchewan,09-Jul,5.1
+Saskatchewan,09-Aug,5
+Saskatchewan,09-Sep,5.1
+Saskatchewan,09-Oct,5.8
+Saskatchewan,09-Nov,5.3
+Saskatchewan,09-Dec,4.9
+Saskatchewan,10-Jan,4.8
+Saskatchewan,10-Feb,4.5
+Saskatchewan,10-Mar,5.1
+Saskatchewan,10-Apr,5.2
+Saskatchewan,10-May,4.9
+Saskatchewan,10-Jun,5.7
+Saskatchewan,10-Jul,5.4
+Saskatchewan,10-Aug,5
+Saskatchewan,10-Sep,6
+Saskatchewan,10-Oct,6.3
+Saskatchewan,10-Nov,5.6
+Saskatchewan,10-Dec,5.4
+Saskatchewan,11-Jan,5.5
+Saskatchewan,11-Feb,5.4
+Saskatchewan,11-Mar,5.1
+Saskatchewan,11-Apr,5.1
+Saskatchewan,11-May,5.2
+Saskatchewan,11-Jun,4.8
+Saskatchewan,11-Jul,5
+Saskatchewan,11-Aug,4.7
+Saskatchewan,11-Sep,4.5
+Saskatchewan,11-Oct,4.4
+Saskatchewan,11-Nov,5
+Saskatchewan,11-Dec,4.8
+Saskatchewan,12-Jan,4.8
+Saskatchewan,12-Feb,5
+Saskatchewan,12-Mar,5.1
+Saskatchewan,12-Apr,5.1
+Saskatchewan,12-May,4.7
+Saskatchewan,12-Jun,5.1
+Saskatchewan,12-Jul,4.8
+Saskatchewan,12-Aug,4.7
+Saskatchewan,12-Sep,4.8
+Saskatchewan,12-Oct,4.6
+Saskatchewan,12-Nov,4.7
+Saskatchewan,12-Dec,4.9
+Saskatchewan,13-Jan,3.9
+Saskatchewan,13-Feb,4.2
+Saskatchewan,13-Mar,4
+Saskatchewan,13-Apr,4.4
+Saskatchewan,13-May,4.5
+Saskatchewan,13-Jun,4
+Saskatchewan,13-Jul,4.4
+Saskatchewan,13-Aug,4.2
+Saskatchewan,13-Sep,4.3
+Saskatchewan,13-Oct,3.9
+Saskatchewan,13-Nov,4.1
+Saskatchewan,13-Dec,4.4
+Saskatchewan,14-Jan,4.5
+Saskatchewan,14-Feb,4
+Saskatchewan,14-Mar,4.5
+Saskatchewan,14-Apr,3.5
+Saskatchewan,14-May,3.8
+Saskatchewan,14-Jun,4
+Saskatchewan,14-Jul,3.5
+Saskatchewan,14-Aug,4.4
+Saskatchewan,14-Sep,3.7
+Saskatchewan,14-Oct,3.7
+Saskatchewan,14-Nov,3.6
+Saskatchewan,14-Dec,3.7
+Saskatchewan,15-Jan,4.8
+Saskatchewan,15-Feb,5.1
+Saskatchewan,15-Mar,4.3
+Saskatchewan,15-Apr,4.4
+Saskatchewan,15-May,4.9
+Saskatchewan,15-Jun,4.8
+Saskatchewan,15-Jul,5.4
+Saskatchewan,15-Aug,5.2
+Saskatchewan,15-Sep,5.4
+Saskatchewan,15-Oct,6
+Saskatchewan,15-Nov,5.9
+Saskatchewan,15-Dec,5.9
+Saskatchewan,16-Jan,6
+Saskatchewan,16-Feb,6.1
+Saskatchewan,16-Mar,6.3
+Saskatchewan,16-Apr,6.6
+Saskatchewan,16-May,6
+Saskatchewan,16-Jun,6.3
+Saskatchewan,16-Jul,6.1
+Saskatchewan,16-Aug,6.3
+Saskatchewan,16-Sep,6.8
+Saskatchewan,16-Oct,7
+Saskatchewan,16-Nov,7.1
+Saskatchewan,16-Dec,6.5
+Saskatchewan,17-Jan,6.7
+Saskatchewan,17-Feb,6.1
+Saskatchewan,17-Mar,6.3
+Saskatchewan,17-Apr,6.3
+Saskatchewan,17-May,6.7
+Saskatchewan,17-Jun,6.4
+Saskatchewan,17-Jul,6.8
+Saskatchewan,17-Aug,6.1
+Saskatchewan,17-Sep,6.2
+Saskatchewan,17-Oct,6.2
+Saskatchewan,17-Nov,6.5
+Saskatchewan,17-Dec,6.7
+Saskatchewan,18-Jan,5.7
+Saskatchewan,18-Feb,5.7
+Saskatchewan,18-Mar,6.1
+Saskatchewan,18-Apr,6.3
+Saskatchewan,18-May,6.6
+Saskatchewan,18-Jun,6.4
+Saskatchewan,18-Jul,6.4
+Saskatchewan,18-Aug,6.5
+Saskatchewan,18-Sep,6.4
+Saskatchewan,18-Oct,6.2
+Saskatchewan,18-Nov,5.4
+Saskatchewan,18-Dec,5.7
+Saskatchewan,19-Jan,5.4
+Saskatchewan,19-Feb,5.8
+Saskatchewan,19-Mar,5.1
+Saskatchewan,19-Apr,5.5
+Saskatchewan,19-May,5.3
+Saskatchewan,19-Jun,5
+Saskatchewan,19-Jul,5.6
+Saskatchewan,19-Aug,5.3
+Saskatchewan,19-Sep,5.6
+Saskatchewan,19-Oct,5.3
+Saskatchewan,19-Nov,6.2
+Saskatchewan,19-Dec,6.1
+Saskatchewan,20-Jan,5.8
+Saskatchewan,20-Feb,6.4
+Saskatchewan,20-Mar,7.3
+Saskatchewan,20-Apr,11.4
+Saskatchewan,20-May,12.3
+Saskatchewan,20-Jun,11.1
+Saskatchewan,20-Jul,9.4
+Saskatchewan,20-Aug,8.2
+Saskatchewan,20-Sep,6.9
+Saskatchewan,20-Oct,6.7
+Saskatchewan,20-Nov,7.1
+Saskatchewan,20-Dec,7.4
+Saskatchewan,21-Jan,7
+Saskatchewan,21-Feb,7.2
+Saskatchewan,21-Mar,7
+Saskatchewan,21-Apr,6.5
+Saskatchewan,21-May,6.6
+Saskatchewan,21-Jun,7
+Saskatchewan,21-Jul,6.9
+Saskatchewan,21-Aug,6.7
+Saskatchewan,21-Sep,6.5
+Saskatchewan,21-Oct,6
+Saskatchewan,21-Nov,5.4
+Saskatchewan,21-Dec,5.5
+Saskatchewan,22-Jan,5.5
+Saskatchewan,22-Feb,4.7
+Saskatchewan,22-Mar,4.9
+Saskatchewan,22-Apr,5.3
+Saskatchewan,22-May,4.7
+Saskatchewan,22-Jun,4
+Saskatchewan,22-Jul,4.1
+Saskatchewan,22-Aug,4.5
+Saskatchewan,22-Sep,4.3
+Saskatchewan,22-Oct,5
+Saskatchewan,22-Nov,4.4
+Saskatchewan,22-Dec,4.4
+Saskatchewan,23-Jan,4.3
+Saskatchewan,23-Feb,4.5
+Saskatchewan,23-Mar,4.7
+Saskatchewan,23-Apr,4.7
+Saskatchewan,23-May,4.4
+Saskatchewan,23-Jun,4.9
+Saskatchewan,23-Jul,5.1
+Saskatchewan,23-Aug,5.3
+Saskatchewan,23-Sep,4.9
+Saskatchewan,23-Oct,4.4
+Saskatchewan,23-Nov,5
+Saskatchewan,23-Dec,5
+Saskatchewan,24-Jan,4.7
+Saskatchewan,24-Feb,5
+Saskatchewan,24-Mar,5.4
+Saskatchewan,24-Apr,5.7
+Saskatchewan,24-May,5.6
+Alberta,Jan-76,4.3
+Alberta,Feb-76,3.7
+Alberta,Mar-76,3.8
+Alberta,Apr-76,3.5
+Alberta,May-76,4.2
+Alberta,Jun-76,3.8
+Alberta,Jul-76,3.7
+Alberta,Aug-76,3.7
+Alberta,Sep-76,3.8
+Alberta,Oct-76,4
+Alberta,Nov-76,4
+Alberta,Dec-76,4.2
+Alberta,Jan-77,4.6
+Alberta,Feb-77,4.3
+Alberta,Mar-77,4.6
+Alberta,Apr-77,4
+Alberta,May-77,4.5
+Alberta,Jun-77,4.1
+Alberta,Jul-77,4.3
+Alberta,Aug-77,4.3
+Alberta,Sep-77,4.5
+Alberta,Oct-77,4.6
+Alberta,Nov-77,5
+Alberta,Dec-77,4.9
+Alberta,Jan-78,4.7
+Alberta,Feb-78,5
+Alberta,Mar-78,4.9
+Alberta,Apr-78,4.7
+Alberta,May-78,4.7
+Alberta,Jun-78,4.7
+Alberta,Jul-78,4.6
+Alberta,Aug-78,4.8
+Alberta,Sep-78,5.1
+Alberta,Oct-78,4.9
+Alberta,Nov-78,4.6
+Alberta,Dec-78,4.3
+Alberta,Jan-79,4.1
+Alberta,Feb-79,4.4
+Alberta,Mar-79,3.9
+Alberta,Apr-79,4.4
+Alberta,May-79,4
+Alberta,Jun-79,4
+Alberta,Jul-79,3.8
+Alberta,Aug-79,3.8
+Alberta,Sep-79,3.8
+Alberta,Oct-79,3.7
+Alberta,Nov-79,3.8
+Alberta,Dec-79,3.9
+Alberta,Jan-80,4.2
+Alberta,Feb-80,4.1
+Alberta,Mar-80,3.8
+Alberta,Apr-80,3.8
+Alberta,May-80,3.8
+Alberta,Jun-80,4
+Alberta,Jul-80,3.8
+Alberta,Aug-80,4
+Alberta,Sep-80,3.7
+Alberta,Oct-80,3.7
+Alberta,Nov-80,3.7
+Alberta,Dec-80,3.8
+Alberta,Jan-81,4
+Alberta,Feb-81,4.1
+Alberta,Mar-81,4.1
+Alberta,Apr-81,3.6
+Alberta,May-81,3.4
+Alberta,Jun-81,3.3
+Alberta,Jul-81,3.4
+Alberta,Aug-81,3.3
+Alberta,Sep-81,3.7
+Alberta,Oct-81,4.2
+Alberta,Nov-81,4.9
+Alberta,Dec-81,4.6
+Alberta,Jan-82,5.2
+Alberta,Feb-82,5.1
+Alberta,Mar-82,5.7
+Alberta,Apr-82,6.5
+Alberta,May-82,7.1
+Alberta,Jun-82,7.8
+Alberta,Jul-82,8.3
+Alberta,Aug-82,8.1
+Alberta,Sep-82,9.3
+Alberta,Oct-82,9.6
+Alberta,Nov-82,10
+Alberta,Dec-82,10.3
+Alberta,Jan-83,10.6
+Alberta,Feb-83,10.9
+Alberta,Mar-83,11.2
+Alberta,Apr-83,10.9
+Alberta,May-83,11.3
+Alberta,Jun-83,11.4
+Alberta,Jul-83,11.5
+Alberta,Aug-83,11
+Alberta,Sep-83,10.9
+Alberta,Oct-83,10.6
+Alberta,Nov-83,10.6
+Alberta,Dec-83,11.2
+Alberta,Jan-84,10.9
+Alberta,Feb-84,10.5
+Alberta,Mar-84,11.3
+Alberta,Apr-84,11.2
+Alberta,May-84,12
+Alberta,Jun-84,11.6
+Alberta,Jul-84,11.4
+Alberta,Aug-84,11.4
+Alberta,Sep-84,12.4
+Alberta,Oct-84,11.5
+Alberta,Nov-84,11.4
+Alberta,Dec-84,11.3
+Alberta,Jan-85,10.2
+Alberta,Feb-85,10.7
+Alberta,Mar-85,10.5
+Alberta,Apr-85,10.2
+Alberta,May-85,10.1
+Alberta,Jun-85,9.6
+Alberta,Jul-85,9.4
+Alberta,Aug-85,9.4
+Alberta,Sep-85,9.2
+Alberta,Oct-85,9.3
+Alberta,Nov-85,9.6
+Alberta,Dec-85,9.1
+Alberta,Jan-86,8.6
+Alberta,Feb-86,8.6
+Alberta,Mar-86,9.4
+Alberta,Apr-86,9.9
+Alberta,May-86,10.4
+Alberta,Jun-86,10.8
+Alberta,Jul-86,10.2
+Alberta,Aug-86,10.5
+Alberta,Sep-86,10.1
+Alberta,Oct-86,10.5
+Alberta,Nov-86,10.6
+Alberta,Dec-86,10.5
+Alberta,Jan-87,10.8
+Alberta,Feb-87,10.7
+Alberta,Mar-87,10
+Alberta,Apr-87,10.2
+Alberta,May-87,9.5
+Alberta,Jun-87,9.8
+Alberta,Jul-87,9.4
+Alberta,Aug-87,9.6
+Alberta,Sep-87,9.4
+Alberta,Oct-87,8.4
+Alberta,Nov-87,8.2
+Alberta,Dec-87,8.3
+Alberta,Jan-88,8.5
+Alberta,Feb-88,8.1
+Alberta,Mar-88,8.2
+Alberta,Apr-88,7.9
+Alberta,May-88,8
+Alberta,Jun-88,7.7
+Alberta,Jul-88,8
+Alberta,Aug-88,8
+Alberta,Sep-88,7.7
+Alberta,Oct-88,8.1
+Alberta,Nov-88,8
+Alberta,Dec-88,7.6
+Alberta,Jan-89,7.5
+Alberta,Feb-89,7.4
+Alberta,Mar-89,7.5
+Alberta,Apr-89,7.5
+Alberta,May-89,7
+Alberta,Jun-89,7.2
+Alberta,Jul-89,6.9
+Alberta,Aug-89,7.3
+Alberta,Sep-89,7.2
+Alberta,Oct-89,6.5
+Alberta,Nov-89,7
+Alberta,Dec-89,6.9
+Alberta,Jan-90,6.9
+Alberta,Feb-90,6.7
+Alberta,Mar-90,6.5
+Alberta,Apr-90,6.7
+Alberta,May-90,6.7
+Alberta,Jun-90,6.2
+Alberta,Jul-90,6.7
+Alberta,Aug-90,6.6
+Alberta,Sep-90,7.2
+Alberta,Oct-90,7.4
+Alberta,Nov-90,7.6
+Alberta,Dec-90,7.8
+Alberta,Jan-91,7.7
+Alberta,Feb-91,7.5
+Alberta,Mar-91,8
+Alberta,Apr-91,7.9
+Alberta,May-91,8.2
+Alberta,Jun-91,8.3
+Alberta,Jul-91,8.3
+Alberta,Aug-91,8.1
+Alberta,Sep-91,8.4
+Alberta,Oct-91,8.5
+Alberta,Nov-91,9
+Alberta,Dec-91,9.1
+Alberta,Jan-92,9.4
+Alberta,Feb-92,9.7
+Alberta,Mar-92,9.1
+Alberta,Apr-92,8.9
+Alberta,May-92,9
+Alberta,Jun-92,9.8
+Alberta,Jul-92,9.2
+Alberta,Aug-92,9.5
+Alberta,Sep-92,9.5
+Alberta,Oct-92,9.5
+Alberta,Nov-92,10.2
+Alberta,Dec-92,9.7
+Alberta,Jan-93,9
+Alberta,Feb-93,8.9
+Alberta,Mar-93,9.7
+Alberta,Apr-93,9.9
+Alberta,May-93,9.6
+Alberta,Jun-93,9.7
+Alberta,Jul-93,9.9
+Alberta,Aug-93,9.9
+Alberta,Sep-93,10.2
+Alberta,Oct-93,9.3
+Alberta,Nov-93,9.3
+Alberta,Dec-93,9.6
+Alberta,Jan-94,9.5
+Alberta,Feb-94,8.9
+Alberta,Mar-94,9.2
+Alberta,Apr-94,8.9
+Alberta,May-94,9.4
+Alberta,Jun-94,9.6
+Alberta,Jul-94,9.2
+Alberta,Aug-94,8.4
+Alberta,Sep-94,8.7
+Alberta,Oct-94,8.3
+Alberta,Nov-94,7.7
+Alberta,Dec-94,7.6
+Alberta,Jan-95,7.8
+Alberta,Feb-95,7.6
+Alberta,Mar-95,7.8
+Alberta,Apr-95,7.9
+Alberta,May-95,8.1
+Alberta,Jun-95,7.7
+Alberta,Jul-95,8
+Alberta,Aug-95,8.2
+Alberta,Sep-95,7.7
+Alberta,Oct-95,7.7
+Alberta,Nov-95,7.8
+Alberta,Dec-95,7.8
+Alberta,Jan-96,7.6
+Alberta,Feb-96,7.4
+Alberta,Mar-96,7.1
+Alberta,Apr-96,6.6
+Alberta,May-96,7
+Alberta,Jun-96,7.3
+Alberta,Jul-96,6.9
+Alberta,Aug-96,6.5
+Alberta,Sep-96,6.8
+Alberta,Oct-96,6.7
+Alberta,Nov-96,6.5
+Alberta,Dec-96,6.2
+Alberta,Jan-97,6.4
+Alberta,Feb-97,6.4
+Alberta,Mar-97,6.3
+Alberta,Apr-97,6.2
+Alberta,May-97,5.7
+Alberta,Jun-97,5.8
+Alberta,Jul-97,5.8
+Alberta,Aug-97,5.6
+Alberta,Sep-97,5.4
+Alberta,Oct-97,5.5
+Alberta,Nov-97,5.7
+Alberta,Dec-97,5.7
+Alberta,Jan-98,5.3
+Alberta,Feb-98,5.3
+Alberta,Mar-98,5.4
+Alberta,Apr-98,5.1
+Alberta,May-98,5.4
+Alberta,Jun-98,5.5
+Alberta,Jul-98,5.3
+Alberta,Aug-98,5.3
+Alberta,Sep-98,6.2
+Alberta,Oct-98,6.2
+Alberta,Nov-98,6.1
+Alberta,Dec-98,5.9
+Alberta,Jan-99,5.9
+Alberta,Feb-99,5.9
+Alberta,Mar-99,5.7
+Alberta,Apr-99,5.7
+Alberta,May-99,6.1
+Alberta,Jun-99,5.4
+Alberta,Jul-99,5.5
+Alberta,Aug-99,5.8
+Alberta,Sep-99,5.9
+Alberta,Oct-99,5.2
+Alberta,Nov-99,5.4
+Alberta,Dec-99,5.5
+Alberta,Jan-00,5
+Alberta,Feb-00,4.9
+Alberta,Mar-00,5.1
+Alberta,Apr-00,4.9
+Alberta,May-00,4.8
+Alberta,Jun-00,4.9
+Alberta,Jul-00,5.2
+Alberta,Aug-00,5.3
+Alberta,Sep-00,4.8
+Alberta,Oct-00,4.7
+Alberta,Nov-00,5
+Alberta,Dec-00,5
+Alberta,01-Jan,5.2
+Alberta,01-Feb,4.8
+Alberta,01-Mar,4.9
+Alberta,01-Apr,5
+Alberta,01-May,4.6
+Alberta,01-Jun,4.6
+Alberta,01-Jul,4.7
+Alberta,01-Aug,4.4
+Alberta,01-Sep,4.1
+Alberta,01-Oct,4.6
+Alberta,01-Nov,4.5
+Alberta,01-Dec,5.3
+Alberta,02-Jan,4.9
+Alberta,02-Feb,5.4
+Alberta,02-Mar,5.4
+Alberta,02-Apr,5.6
+Alberta,02-May,6.1
+Alberta,02-Jun,5.5
+Alberta,02-Jul,5.4
+Alberta,02-Aug,4.9
+Alberta,02-Sep,5.6
+Alberta,02-Oct,5.5
+Alberta,02-Nov,5.1
+Alberta,02-Dec,4.9
+Alberta,03-Jan,5.4
+Alberta,03-Feb,5.2
+Alberta,03-Mar,5.5
+Alberta,03-Apr,5.8
+Alberta,03-May,5.5
+Alberta,03-Jun,5.2
+Alberta,03-Jul,4.8
+Alberta,03-Aug,5.1
+Alberta,03-Sep,4.7
+Alberta,03-Oct,4.7
+Alberta,03-Nov,4.7
+Alberta,03-Dec,4.7
+Alberta,04-Jan,4.8
+Alberta,04-Feb,5
+Alberta,04-Mar,5
+Alberta,04-Apr,4.4
+Alberta,04-May,4.1
+Alberta,04-Jun,4.6
+Alberta,04-Jul,4.6
+Alberta,04-Aug,4.3
+Alberta,04-Sep,4.6
+Alberta,04-Oct,4.7
+Alberta,04-Nov,4.6
+Alberta,04-Dec,4.4
+Alberta,05-Jan,4.4
+Alberta,05-Feb,4.1
+Alberta,05-Mar,3.6
+Alberta,05-Apr,3.9
+Alberta,05-May,3.7
+Alberta,05-Jun,3.9
+Alberta,05-Jul,3.5
+Alberta,05-Aug,3.7
+Alberta,05-Sep,3.9
+Alberta,05-Oct,4.1
+Alberta,05-Nov,4.1
+Alberta,05-Dec,4.3
+Alberta,06-Jan,3.9
+Alberta,06-Feb,3.2
+Alberta,06-Mar,3.3
+Alberta,06-Apr,3.4
+Alberta,06-May,3.5
+Alberta,06-Jun,3.6
+Alberta,06-Jul,3.5
+Alberta,06-Aug,4
+Alberta,06-Sep,3.6
+Alberta,06-Oct,3.4
+Alberta,06-Nov,3.2
+Alberta,06-Dec,3.7
+Alberta,07-Jan,3.7
+Alberta,07-Feb,3.8
+Alberta,07-Mar,3.7
+Alberta,07-Apr,3.5
+Alberta,07-May,4
+Alberta,07-Jun,3.8
+Alberta,07-Jul,3.5
+Alberta,07-Aug,3.4
+Alberta,07-Sep,3.7
+Alberta,07-Oct,3.6
+Alberta,07-Nov,3.9
+Alberta,07-Dec,3.5
+Alberta,08-Jan,3.8
+Alberta,08-Feb,3.9
+Alberta,08-Mar,3.6
+Alberta,08-Apr,3.6
+Alberta,08-May,3.7
+Alberta,08-Jun,3.3
+Alberta,08-Jul,3.8
+Alberta,08-Aug,3.9
+Alberta,08-Sep,4.1
+Alberta,08-Oct,3.8
+Alberta,08-Nov,3.9
+Alberta,08-Dec,4.9
+Alberta,09-Jan,4.9
+Alberta,09-Feb,5.7
+Alberta,09-Mar,6.1
+Alberta,09-Apr,6.6
+Alberta,09-May,6.9
+Alberta,09-Jun,7
+Alberta,09-Jul,7.4
+Alberta,09-Aug,7.3
+Alberta,09-Sep,7.1
+Alberta,09-Oct,7.5
+Alberta,09-Nov,7.7
+Alberta,09-Dec,7
+Alberta,10-Jan,6.9
+Alberta,10-Feb,6.9
+Alberta,10-Mar,7
+Alberta,10-Apr,7.1
+Alberta,10-May,6.7
+Alberta,10-Jun,6.4
+Alberta,10-Jul,6.5
+Alberta,10-Aug,6.3
+Alberta,10-Sep,6.2
+Alberta,10-Oct,6.2
+Alberta,10-Nov,6.1
+Alberta,10-Dec,5.8
+Alberta,11-Jan,5.9
+Alberta,11-Feb,5.8
+Alberta,11-Mar,5.7
+Alberta,11-Apr,5.9
+Alberta,11-May,5.5
+Alberta,11-Jun,5.6
+Alberta,11-Jul,5.6
+Alberta,11-Aug,5.5
+Alberta,11-Sep,5.6
+Alberta,11-Oct,5.1
+Alberta,11-Nov,5
+Alberta,11-Dec,4.9
+Alberta,12-Jan,5.1
+Alberta,12-Feb,5
+Alberta,12-Mar,5
+Alberta,12-Apr,4.9
+Alberta,12-May,4.5
+Alberta,12-Jun,4.6
+Alberta,12-Jul,4.6
+Alberta,12-Aug,4.3
+Alberta,12-Sep,4.7
+Alberta,12-Oct,4.8
+Alberta,12-Nov,4.5
+Alberta,12-Dec,4.8
+Alberta,13-Jan,4.6
+Alberta,13-Feb,4.6
+Alberta,13-Mar,4.7
+Alberta,13-Apr,4.3
+Alberta,13-May,4.6
+Alberta,13-Jun,4.7
+Alberta,13-Jul,4.6
+Alberta,13-Aug,4.8
+Alberta,13-Sep,4.3
+Alberta,13-Oct,4.6
+Alberta,13-Nov,4.7
+Alberta,13-Dec,4.9
+Alberta,14-Jan,4.8
+Alberta,14-Feb,4.6
+Alberta,14-Mar,5
+Alberta,14-Apr,5
+Alberta,14-May,4.8
+Alberta,14-Jun,4.9
+Alberta,14-Jul,4.4
+Alberta,14-Aug,5.1
+Alberta,14-Sep,4.5
+Alberta,14-Oct,5
+Alberta,14-Nov,4.7
+Alberta,14-Dec,4.9
+Alberta,15-Jan,4.7
+Alberta,15-Feb,5.4
+Alberta,15-Mar,5.5
+Alberta,15-Apr,5.7
+Alberta,15-May,6.2
+Alberta,15-Jun,6.1
+Alberta,15-Jul,6
+Alberta,15-Aug,6.2
+Alberta,15-Sep,6.6
+Alberta,15-Oct,6.3
+Alberta,15-Nov,6.9
+Alberta,15-Dec,7.1
+Alberta,16-Jan,7.5
+Alberta,16-Feb,7.7
+Alberta,16-Mar,7.3
+Alberta,16-Apr,7.6
+Alberta,16-May,8.2
+Alberta,16-Jun,8.2
+Alberta,16-Jul,8.9
+Alberta,16-Aug,8.3
+Alberta,16-Sep,8.6
+Alberta,16-Oct,8.6
+Alberta,16-Nov,8.8
+Alberta,16-Dec,8.6
+Alberta,17-Jan,8.5
+Alberta,17-Feb,8.1
+Alberta,17-Mar,8.6
+Alberta,17-Apr,8.2
+Alberta,17-May,8.3
+Alberta,17-Jun,7.8
+Alberta,17-Jul,8.2
+Alberta,17-Aug,8.4
+Alberta,17-Sep,7.6
+Alberta,17-Oct,7.8
+Alberta,17-Nov,7.4
+Alberta,17-Dec,7.2
+Alberta,18-Jan,6.7
+Alberta,18-Feb,6.5
+Alberta,18-Mar,6.1
+Alberta,18-Apr,6.7
+Alberta,18-May,6.2
+Alberta,18-Jun,6.6
+Alberta,18-Jul,6.9
+Alberta,18-Aug,6.8
+Alberta,18-Sep,7
+Alberta,18-Oct,7
+Alberta,18-Nov,6.3
+Alberta,18-Dec,6.3
+Alberta,19-Jan,6.6
+Alberta,19-Feb,7.1
+Alberta,19-Mar,6.8
+Alberta,19-Apr,6.5
+Alberta,19-May,6.7
+Alberta,19-Jun,6.7
+Alberta,19-Jul,7.1
+Alberta,19-Aug,7.6
+Alberta,19-Sep,6.7
+Alberta,19-Oct,6.5
+Alberta,19-Nov,7.2
+Alberta,19-Dec,7.1
+Alberta,20-Jan,7.2
+Alberta,20-Feb,7.3
+Alberta,20-Mar,8.7
+Alberta,20-Apr,13.1
+Alberta,20-May,15.5
+Alberta,20-Jun,15.2
+Alberta,20-Jul,13
+Alberta,20-Aug,12.4
+Alberta,20-Sep,12
+Alberta,20-Oct,11.3
+Alberta,20-Nov,11
+Alberta,20-Dec,10.8
+Alberta,21-Jan,10.3
+Alberta,21-Feb,9.8
+Alberta,21-Mar,9.1
+Alberta,21-Apr,8.8
+Alberta,21-May,8.6
+Alberta,21-Jun,8.8
+Alberta,21-Jul,8.4
+Alberta,21-Aug,8
+Alberta,21-Sep,7.8
+Alberta,21-Oct,7.7
+Alberta,21-Nov,7.4
+Alberta,21-Dec,6.9
+Alberta,22-Jan,6.8
+Alberta,22-Feb,6.5
+Alberta,22-Mar,6.2
+Alberta,22-Apr,6.1
+Alberta,22-May,5.8
+Alberta,22-Jun,5.2
+Alberta,22-Jul,4.9
+Alberta,22-Aug,5.5
+Alberta,22-Sep,5.4
+Alberta,22-Oct,5.4
+Alberta,22-Nov,5.7
+Alberta,22-Dec,5.6
+Alberta,23-Jan,6
+Alberta,23-Feb,5.9
+Alberta,23-Mar,5.7
+Alberta,23-Apr,5.9
+Alberta,23-May,5.7
+Alberta,23-Jun,5.8
+Alberta,23-Jul,6
+Alberta,23-Aug,5.7
+Alberta,23-Sep,5.5
+Alberta,23-Oct,5.9
+Alberta,23-Nov,5.9
+Alberta,23-Dec,6.3
+Alberta,24-Jan,6.2
+Alberta,24-Feb,6.2
+Alberta,24-Mar,6.3
+Alberta,24-Apr,7
+Alberta,24-May,7.2
+British Columbia,Jan-76,8.5
+British Columbia,Feb-76,8.4
+British Columbia,Mar-76,8.2
+British Columbia,Apr-76,8.8
+British Columbia,May-76,9
+British Columbia,Jun-76,8.6
+British Columbia,Jul-76,8.9
+British Columbia,Aug-76,8.1
+British Columbia,Sep-76,8.5
+British Columbia,Oct-76,8
+British Columbia,Nov-76,7.8
+British Columbia,Dec-76,8.1
+British Columbia,Jan-77,8.4
+British Columbia,Feb-77,7.9
+British Columbia,Mar-77,8.2
+British Columbia,Apr-77,8.8
+British Columbia,May-77,7.7
+British Columbia,Jun-77,8.4
+British Columbia,Jul-77,8.4
+British Columbia,Aug-77,8.5
+British Columbia,Sep-77,8.4
+British Columbia,Oct-77,8.9
+British Columbia,Nov-77,8.6
+British Columbia,Dec-77,8.2
+British Columbia,Jan-78,8.3
+British Columbia,Feb-78,8.3
+British Columbia,Mar-78,8.5
+British Columbia,Apr-78,8
+British Columbia,May-78,8.1
+British Columbia,Jun-78,8
+British Columbia,Jul-78,7.7
+British Columbia,Aug-78,8.5
+British Columbia,Sep-78,7.8
+British Columbia,Oct-78,8.5
+British Columbia,Nov-78,8.8
+British Columbia,Dec-78,8.9
+British Columbia,Jan-79,8.1
+British Columbia,Feb-79,8.7
+British Columbia,Mar-79,8.3
+British Columbia,Apr-79,8.3
+British Columbia,May-79,8.1
+British Columbia,Jun-79,7.7
+British Columbia,Jul-79,7.6
+British Columbia,Aug-79,7.3
+British Columbia,Sep-79,7.4
+British Columbia,Oct-79,7
+British Columbia,Nov-79,6.8
+British Columbia,Dec-79,7.2
+British Columbia,Jan-80,8
+British Columbia,Feb-80,7.3
+British Columbia,Mar-80,7.7
+British Columbia,Apr-80,6.9
+British Columbia,May-80,6.7
+British Columbia,Jun-80,6.8
+British Columbia,Jul-80,6.6
+British Columbia,Aug-80,6.1
+British Columbia,Sep-80,6.5
+British Columbia,Oct-80,6.3
+British Columbia,Nov-80,5.7
+British Columbia,Dec-80,5.9
+British Columbia,Jan-81,5.5
+British Columbia,Feb-81,5.9
+British Columbia,Mar-81,6
+British Columbia,Apr-81,6.3
+British Columbia,May-81,6.4
+British Columbia,Jun-81,6.1
+British Columbia,Jul-81,6.3
+British Columbia,Aug-81,6.6
+British Columbia,Sep-81,7.9
+British Columbia,Oct-81,7.9
+British Columbia,Nov-81,8.1
+British Columbia,Dec-81,9
+British Columbia,Jan-82,8.9
+British Columbia,Feb-82,9.4
+British Columbia,Mar-82,9.8
+British Columbia,Apr-82,10.5
+British Columbia,May-82,10.7
+British Columbia,Jun-82,12.3
+British Columbia,Jul-82,13.7
+British Columbia,Aug-82,13.4
+British Columbia,Sep-82,13.9
+British Columbia,Oct-82,14.6
+British Columbia,Nov-82,14.3
+British Columbia,Dec-82,14.6
+British Columbia,Jan-83,14.5
+British Columbia,Feb-83,13.9
+British Columbia,Mar-83,14.1
+British Columbia,Apr-83,13.5
+British Columbia,May-83,13.9
+British Columbia,Jun-83,13.8
+British Columbia,Jul-83,13.5
+British Columbia,Aug-83,14
+British Columbia,Sep-83,13.9
+British Columbia,Oct-83,13.6
+British Columbia,Nov-83,14.1
+British Columbia,Dec-83,13.9
+British Columbia,Jan-84,14
+British Columbia,Feb-84,14.3
+British Columbia,Mar-84,14.7
+British Columbia,Apr-84,15.2
+British Columbia,May-84,15.7
+British Columbia,Jun-84,15.4
+British Columbia,Jul-84,15
+British Columbia,Aug-84,15.1
+British Columbia,Sep-84,15.4
+British Columbia,Oct-84,15.3
+British Columbia,Nov-84,14.9
+British Columbia,Dec-84,14.9
+British Columbia,Jan-85,14.3
+British Columbia,Feb-85,14.8
+British Columbia,Mar-85,14.3
+British Columbia,Apr-85,14.6
+British Columbia,May-85,14
+British Columbia,Jun-85,14.9
+British Columbia,Jul-85,14.3
+British Columbia,Aug-85,14.1
+British Columbia,Sep-85,13.4
+British Columbia,Oct-85,14.4
+British Columbia,Nov-85,14.6
+British Columbia,Dec-85,13.8
+British Columbia,Jan-86,13.2
+British Columbia,Feb-86,13.1
+British Columbia,Mar-86,13.3
+British Columbia,Apr-86,12.6
+British Columbia,May-86,12.4
+British Columbia,Jun-86,12.3
+British Columbia,Jul-86,12.1
+British Columbia,Aug-86,12.7
+British Columbia,Sep-86,12.6
+British Columbia,Oct-86,12.5
+British Columbia,Nov-86,13.1
+British Columbia,Dec-86,13.5
+British Columbia,Jan-87,13.9
+British Columbia,Feb-87,13.2
+British Columbia,Mar-87,13.2
+British Columbia,Apr-87,12.7
+British Columbia,May-87,12.2
+British Columbia,Jun-87,12.1
+British Columbia,Jul-87,12.2
+British Columbia,Aug-87,11.7
+British Columbia,Sep-87,11.3
+British Columbia,Oct-87,11.5
+British Columbia,Nov-87,10.6
+British Columbia,Dec-87,10.2
+British Columbia,Jan-88,10.3
+British Columbia,Feb-88,10.7
+British Columbia,Mar-88,10.3
+British Columbia,Apr-88,10.6
+British Columbia,May-88,10.6
+British Columbia,Jun-88,10.5
+British Columbia,Jul-88,9.9
+British Columbia,Aug-88,10
+British Columbia,Sep-88,10.6
+British Columbia,Oct-88,9.8
+British Columbia,Nov-88,10.2
+British Columbia,Dec-88,9.8
+British Columbia,Jan-89,9.8
+British Columbia,Feb-89,9.5
+British Columbia,Mar-89,9.6
+British Columbia,Apr-89,9.4
+British Columbia,May-89,9.7
+British Columbia,Jun-89,9
+British Columbia,Jul-89,9.2
+British Columbia,Aug-89,8.7
+British Columbia,Sep-89,8.4
+British Columbia,Oct-89,8.4
+British Columbia,Nov-89,8.3
+British Columbia,Dec-89,8.3
+British Columbia,Jan-90,7.8
+British Columbia,Feb-90,8
+British Columbia,Mar-90,7.8
+British Columbia,Apr-90,8.2
+British Columbia,May-90,8.2
+British Columbia,Jun-90,8.2
+British Columbia,Jul-90,8.2
+British Columbia,Aug-90,8.4
+British Columbia,Sep-90,8.8
+British Columbia,Oct-90,8.7
+British Columbia,Nov-90,9.3
+British Columbia,Dec-90,9.4
+British Columbia,Jan-91,9.9
+British Columbia,Feb-91,10
+British Columbia,Mar-91,10.3
+British Columbia,Apr-91,9.7
+British Columbia,May-91,10.1
+British Columbia,Jun-91,9.8
+British Columbia,Jul-91,9.8
+British Columbia,Aug-91,9.7
+British Columbia,Sep-91,9.8
+British Columbia,Oct-91,9.8
+British Columbia,Nov-91,9.9
+British Columbia,Dec-91,9.9
+British Columbia,Jan-92,10
+British Columbia,Feb-92,9.5
+British Columbia,Mar-92,9.9
+British Columbia,Apr-92,9.6
+British Columbia,May-92,9.4
+British Columbia,Jun-92,10.7
+British Columbia,Jul-92,10.2
+British Columbia,Aug-92,10.9
+British Columbia,Sep-92,10.6
+British Columbia,Oct-92,10.6
+British Columbia,Nov-92,10.7
+British Columbia,Dec-92,10.1
+British Columbia,Jan-93,9.9
+British Columbia,Feb-93,10
+British Columbia,Mar-93,9.5
+British Columbia,Apr-93,10.1
+British Columbia,May-93,10.3
+British Columbia,Jun-93,9.8
+British Columbia,Jul-93,10
+British Columbia,Aug-93,9.2
+British Columbia,Sep-93,9.5
+British Columbia,Oct-93,9.6
+British Columbia,Nov-93,8.8
+British Columbia,Dec-93,9.6
+British Columbia,Jan-94,9.9
+British Columbia,Feb-94,9.9
+British Columbia,Mar-94,9.3
+British Columbia,Apr-94,10
+British Columbia,May-94,9.3
+British Columbia,Jun-94,9
+British Columbia,Jul-94,8.8
+British Columbia,Aug-94,9.1
+British Columbia,Sep-94,8.6
+British Columbia,Oct-94,8.7
+British Columbia,Nov-94,8.3
+British Columbia,Dec-94,8.3
+British Columbia,Jan-95,8.5
+British Columbia,Feb-95,8.6
+British Columbia,Mar-95,8.4
+British Columbia,Apr-95,8.5
+British Columbia,May-95,8.4
+British Columbia,Jun-95,8.5
+British Columbia,Jul-95,8.6
+British Columbia,Aug-95,8.3
+British Columbia,Sep-95,8.3
+British Columbia,Oct-95,8.3
+British Columbia,Nov-95,8.5
+British Columbia,Dec-95,8.7
+British Columbia,Jan-96,8.9
+British Columbia,Feb-96,8.4
+British Columbia,Mar-96,8.5
+British Columbia,Apr-96,8.1
+British Columbia,May-96,8.1
+British Columbia,Jun-96,8.5
+British Columbia,Jul-96,8.1
+British Columbia,Aug-96,8.8
+British Columbia,Sep-96,8.8
+British Columbia,Oct-96,9.5
+British Columbia,Nov-96,9.3
+British Columbia,Dec-96,9
+British Columbia,Jan-97,8.1
+British Columbia,Feb-97,8.5
+British Columbia,Mar-97,8.2
+British Columbia,Apr-97,8.8
+British Columbia,May-97,8.6
+British Columbia,Jun-97,8.6
+British Columbia,Jul-97,8.4
+British Columbia,Aug-97,8.3
+British Columbia,Sep-97,8.7
+British Columbia,Oct-97,8.7
+British Columbia,Nov-97,8.7
+British Columbia,Dec-97,8.2
+British Columbia,Jan-98,9.2
+British Columbia,Feb-98,9.5
+British Columbia,Mar-98,9.5
+British Columbia,Apr-98,9
+British Columbia,May-98,9.5
+British Columbia,Jun-98,9.3
+British Columbia,Jul-98,8.9
+British Columbia,Aug-98,8.5
+British Columbia,Sep-98,8.2
+British Columbia,Oct-98,8
+British Columbia,Nov-98,7.8
+British Columbia,Dec-98,8.3
+British Columbia,Jan-99,8.3
+British Columbia,Feb-99,8.3
+British Columbia,Mar-99,8.6
+British Columbia,Apr-99,8.8
+British Columbia,May-99,8.3
+British Columbia,Jun-99,8.9
+British Columbia,Jul-99,8.4
+British Columbia,Aug-99,8.1
+British Columbia,Sep-99,7.8
+British Columbia,Oct-99,7.6
+British Columbia,Nov-99,7.9
+British Columbia,Dec-99,7.6
+British Columbia,Jan-00,7.2
+British Columbia,Feb-00,7.1
+British Columbia,Mar-00,7.2
+British Columbia,Apr-00,6.9
+British Columbia,May-00,6.9
+British Columbia,Jun-00,6.9
+British Columbia,Jul-00,6.9
+British Columbia,Aug-00,7.7
+British Columbia,Sep-00,7.6
+British Columbia,Oct-00,7.7
+British Columbia,Nov-00,7
+British Columbia,Dec-00,7
+British Columbia,01-Jan,7.3
+British Columbia,01-Feb,7.4
+British Columbia,01-Mar,6.8
+British Columbia,01-Apr,7.1
+British Columbia,01-May,6.8
+British Columbia,01-Jun,7.5
+British Columbia,01-Jul,7.5
+British Columbia,01-Aug,8.2
+British Columbia,01-Sep,7.8
+British Columbia,01-Oct,8.3
+British Columbia,01-Nov,8.6
+British Columbia,01-Dec,9.8
+British Columbia,02-Jan,9
+British Columbia,02-Feb,8.9
+British Columbia,02-Mar,9.2
+British Columbia,02-Apr,8.8
+British Columbia,02-May,9.3
+British Columbia,02-Jun,8.7
+British Columbia,02-Jul,8.2
+British Columbia,02-Aug,7.6
+British Columbia,02-Sep,7.9
+British Columbia,02-Oct,8.1
+British Columbia,02-Nov,8.6
+British Columbia,02-Dec,8.8
+British Columbia,03-Jan,8.1
+British Columbia,03-Feb,8.1
+British Columbia,03-Mar,7.8
+British Columbia,03-Apr,7.9
+British Columbia,03-May,8.4
+British Columbia,03-Jun,8
+British Columbia,03-Jul,8.6
+British Columbia,03-Aug,8.4
+British Columbia,03-Sep,8.6
+British Columbia,03-Oct,7.8
+British Columbia,03-Nov,7.7
+British Columbia,03-Dec,7.2
+British Columbia,04-Jan,7.6
+British Columbia,04-Feb,7.6
+British Columbia,04-Mar,7.6
+British Columbia,04-Apr,7.7
+British Columbia,04-May,7.5
+British Columbia,04-Jun,7.3
+British Columbia,04-Jul,6.9
+British Columbia,04-Aug,7.1
+British Columbia,04-Sep,6.6
+British Columbia,04-Oct,6.9
+British Columbia,04-Nov,6.5
+British Columbia,04-Dec,6.2
+British Columbia,05-Jan,6.6
+British Columbia,05-Feb,7.1
+British Columbia,05-Mar,6.5
+British Columbia,05-Apr,6.2
+British Columbia,05-May,5.9
+British Columbia,05-Jun,5.9
+British Columbia,05-Jul,5.9
+British Columbia,05-Aug,5.6
+British Columbia,05-Sep,5.4
+British Columbia,05-Oct,5
+British Columbia,05-Nov,4.8
+British Columbia,05-Dec,4.9
+British Columbia,06-Jan,5
+British Columbia,06-Feb,4.8
+British Columbia,06-Mar,4.7
+British Columbia,06-Apr,4.7
+British Columbia,06-May,4.5
+British Columbia,06-Jun,4.6
+British Columbia,06-Jul,4.9
+British Columbia,06-Aug,5.1
+British Columbia,06-Sep,4.9
+British Columbia,06-Oct,4.9
+British Columbia,06-Nov,5.1
+British Columbia,06-Dec,5.3
+British Columbia,07-Jan,4.6
+British Columbia,07-Feb,4.3
+British Columbia,07-Mar,4.4
+British Columbia,07-Apr,4.6
+British Columbia,07-May,4.2
+British Columbia,07-Jun,4.2
+British Columbia,07-Jul,4.3
+British Columbia,07-Aug,4.1
+British Columbia,07-Sep,4.7
+British Columbia,07-Oct,4.5
+British Columbia,07-Nov,4.2
+British Columbia,07-Dec,4.2
+British Columbia,08-Jan,4.4
+British Columbia,08-Feb,4.5
+British Columbia,08-Mar,4.6
+British Columbia,08-Apr,4.7
+British Columbia,08-May,4.7
+British Columbia,08-Jun,4.6
+British Columbia,08-Jul,4.7
+British Columbia,08-Aug,4.6
+British Columbia,08-Sep,4.7
+British Columbia,08-Oct,5.2
+British Columbia,08-Nov,5.3
+British Columbia,08-Dec,6
+British Columbia,09-Jan,6.6
+British Columbia,09-Feb,7.1
+British Columbia,09-Mar,7.4
+British Columbia,09-Apr,8
+British Columbia,09-May,7.9
+British Columbia,09-Jun,8.4
+British Columbia,09-Jul,7.9
+British Columbia,09-Aug,8.3
+British Columbia,09-Sep,7.4
+British Columbia,09-Oct,8
+British Columbia,09-Nov,8.1
+British Columbia,09-Dec,8.6
+British Columbia,10-Jan,8.1
+British Columbia,10-Feb,7.7
+British Columbia,10-Mar,7.9
+British Columbia,10-Apr,7.5
+British Columbia,10-May,7.5
+British Columbia,10-Jun,7.9
+British Columbia,10-Jul,7.7
+British Columbia,10-Aug,7.3
+British Columbia,10-Sep,7.9
+British Columbia,10-Oct,8.1
+British Columbia,10-Nov,7.6
+British Columbia,10-Dec,7.9
+British Columbia,11-Jan,8.2
+British Columbia,11-Feb,8.7
+British Columbia,11-Mar,8
+British Columbia,11-Apr,8
+British Columbia,11-May,7.7
+British Columbia,11-Jun,7.6
+British Columbia,11-Jul,7.5
+British Columbia,11-Aug,7.5
+British Columbia,11-Sep,7.3
+British Columbia,11-Oct,6.8
+British Columbia,11-Nov,7.2
+British Columbia,11-Dec,6.9
+British Columbia,12-Jan,7
+British Columbia,12-Feb,7
+British Columbia,12-Mar,7.2
+British Columbia,12-Apr,6.6
+British Columbia,12-May,7.4
+British Columbia,12-Jun,6.9
+British Columbia,12-Jul,7
+British Columbia,12-Aug,6.7
+British Columbia,12-Sep,7.1
+British Columbia,12-Oct,6.8
+British Columbia,12-Nov,6.7
+British Columbia,12-Dec,6.4
+British Columbia,13-Jan,6.5
+British Columbia,13-Feb,6.5
+British Columbia,13-Mar,7
+British Columbia,13-Apr,6.8
+British Columbia,13-May,6.4
+British Columbia,13-Jun,6.6
+British Columbia,13-Jul,6.7
+British Columbia,13-Aug,6.7
+British Columbia,13-Sep,6.5
+British Columbia,13-Oct,6.8
+British Columbia,13-Nov,6.9
+British Columbia,13-Dec,6.9
+British Columbia,14-Jan,6.9
+British Columbia,14-Feb,6.6
+British Columbia,14-Mar,6.2
+British Columbia,14-Apr,6.4
+British Columbia,14-May,6.7
+British Columbia,14-Jun,6.4
+British Columbia,14-Jul,6.3
+British Columbia,14-Aug,6.4
+British Columbia,14-Sep,6.3
+British Columbia,14-Oct,6
+British Columbia,14-Nov,5.6
+British Columbia,14-Dec,5.4
+British Columbia,15-Jan,5.7
+British Columbia,15-Feb,6
+British Columbia,15-Mar,5.8
+British Columbia,15-Apr,6.4
+British Columbia,15-May,5.9
+British Columbia,15-Jun,5.9
+British Columbia,15-Jul,6.3
+British Columbia,15-Aug,6.3
+British Columbia,15-Sep,6.4
+British Columbia,15-Oct,6.1
+British Columbia,15-Nov,6.1
+British Columbia,15-Dec,6.8
+British Columbia,16-Jan,6.7
+British Columbia,16-Feb,6.7
+British Columbia,16-Mar,6.1
+British Columbia,16-Apr,5.6
+British Columbia,16-May,5.8
+British Columbia,16-Jun,5.9
+British Columbia,16-Jul,5.7
+British Columbia,16-Aug,5.5
+British Columbia,16-Sep,6
+British Columbia,16-Oct,6.1
+British Columbia,16-Nov,6.2
+British Columbia,16-Dec,6.1
+British Columbia,17-Jan,5.6
+British Columbia,17-Feb,5.4
+British Columbia,17-Mar,5.6
+British Columbia,17-Apr,5.5
+British Columbia,17-May,5.4
+British Columbia,17-Jun,5.1
+British Columbia,17-Jul,5
+British Columbia,17-Aug,5
+British Columbia,17-Sep,5.2
+British Columbia,17-Oct,5.4
+British Columbia,17-Nov,5
+British Columbia,17-Dec,4.9
+British Columbia,18-Jan,4.9
+British Columbia,18-Feb,5
+British Columbia,18-Mar,4.9
+British Columbia,18-Apr,5
+British Columbia,18-May,4.8
+British Columbia,18-Jun,4.8
+British Columbia,18-Jul,4.6
+British Columbia,18-Aug,4.7
+British Columbia,18-Sep,4
+British Columbia,18-Oct,4.2
+British Columbia,18-Nov,4.6
+British Columbia,18-Dec,4.5
+British Columbia,19-Jan,4.7
+British Columbia,19-Feb,4.5
+British Columbia,19-Mar,4.9
+British Columbia,19-Apr,4.8
+British Columbia,19-May,4.5
+British Columbia,19-Jun,4.7
+British Columbia,19-Jul,4.7
+British Columbia,19-Aug,5
+British Columbia,19-Sep,5.1
+British Columbia,19-Oct,5
+British Columbia,19-Nov,5.2
+British Columbia,19-Dec,5
+British Columbia,20-Jan,4.7
+British Columbia,20-Feb,5.5
+British Columbia,20-Mar,7.6
+British Columbia,20-Apr,11.9
+British Columbia,20-May,13.7
+British Columbia,20-Jun,12.7
+British Columbia,20-Jul,10.8
+British Columbia,20-Aug,10.8
+British Columbia,20-Sep,8.7
+British Columbia,20-Oct,8.3
+British Columbia,20-Nov,7.9
+British Columbia,20-Dec,7.6
+British Columbia,21-Jan,7.7
+British Columbia,21-Feb,7.2
+British Columbia,21-Mar,7
+British Columbia,21-Apr,7
+British Columbia,21-May,7.1
+British Columbia,21-Jun,6.6
+British Columbia,21-Jul,6.4
+British Columbia,21-Aug,6.4
+British Columbia,21-Sep,6.2
+British Columbia,21-Oct,5.7
+British Columbia,21-Nov,5.7
+British Columbia,21-Dec,5.3
+British Columbia,22-Jan,5.1
+British Columbia,22-Feb,4.7
+British Columbia,22-Mar,5
+British Columbia,22-Apr,4.8
+British Columbia,22-May,4.5
+British Columbia,22-Jun,4.5
+British Columbia,22-Jul,4.5
+British Columbia,22-Aug,4.6
+British Columbia,22-Sep,4.4
+British Columbia,22-Oct,4.6
+British Columbia,22-Nov,4.4
+British Columbia,22-Dec,4.2
+British Columbia,23-Jan,4.5
+British Columbia,23-Feb,5
+British Columbia,23-Mar,4.6
+British Columbia,23-Apr,5.1
+British Columbia,23-May,5.2
+British Columbia,23-Jun,5.5
+British Columbia,23-Jul,5.4
+British Columbia,23-Aug,5.3
+British Columbia,23-Sep,5.5
+British Columbia,23-Oct,5.3
+British Columbia,23-Nov,5.3
+British Columbia,23-Dec,5.5
+British Columbia,24-Jan,5.4
+British Columbia,24-Feb,5.2
+British Columbia,24-Mar,5.5
+British Columbia,24-Apr,5
+British Columbia,24-May,5.6
