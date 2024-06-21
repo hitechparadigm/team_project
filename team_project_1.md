@@ -44,14 +44,35 @@ By the end of team project, participants will be able to:
 
 1. Explore the open source datasets above.
 2. As a team, decide which dataset you would like to analyze and determine:
+We choose data set examining Unemployment rate in Canada and minimum wage
     1. What is the primary focus within the dataset?
+    The primary focus within the datasets are to analyze labor force characteristics in Canada, including the unemployment rate, minimum wage, and other relevant economic indicators. The datasets aim to understand the dynamics of the labor market and how different variables influence the unemployment rate.
     2. What are potential relationships in the data that you could explore?
+    Unemployment Rate vs. Minimum Wage:
+Analyze how changes in the minimum wage impact the unemployment rate.
+Unemployment Rate vs. Minimum Wage by Province:
+Compare how changes in the minimum wage affect the unemployment rate across different provinces. Identify if some provinces experience more significant impacts than others.
+The following would require additional datasets:
+Unemployment Rate vs. GDP Growth Rate:
+Explore how economic growth, as measured by GDP, affects unemployment.
+Unemployment Rate vs. Economic Indicators (e.g., Inflation, Industry Growth):
+Analyze how various economic indicators correlate with the unemployment rate.
     3. What are key questions your project could answer? 
+    Impact of Minimum Wage on Unemployment:
+How does an increase or decrease in the minimum wage affect the unemployment rate in Canada?
+Demographic Analysis:
+How do different demographic groups (e.g., age, gender) within the population experience changes in employment and unemployment?
+
+COVID-19 Pandemic Impact:
+How did the COVID-19 pandemic affect labor force characteristics from January 2020 onwards?
+
 3. Create rules of engagement to guide how your team will work together (Examples can be found below under [Resources](https://github.com/UofT-DSI/team_project/edit/main/team_project_1.md#resources).
+We used task tracking to guide team work. whcih can be found in the team project tracker
 4. Create a new repository for your project. Hint: this repo has some features commonly found in industry repos. 
 5. Work on the "Advanced Topics" section of [LearnGitBranching](https://learngitbranching.js.org/) to learn more about rebasing
 6. Learn why merge conflicts occur via this [article](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts#:~:text=Understanding%20merge%20conflicts,automatically%20determine%20what%20is%20correct.)
 7. Determine what roles the various team members will play on the team, which tasks need to be completed and assigned to which team members, and what your team norms will be with respect to code reviews, approvals and merges. 
+Dem
 8. At the end of the week, please record a 3-5 minute video individually that answers the following questions:
     1. What did you learn?
     2. What challenges did you face?
@@ -63,9 +84,18 @@ By the end of team project, participants will be able to:
 ## Questions to discuss when reviewing your dataset
 
 * What are the key variables and attributes in your dataset?
+Key variables and attributes in the dataset are :
+- Year, minimum wage across across provinces/territories
 * How can we explore the relationships between different variables?
 * Are there any patterns or trends in the data that we can identify?
 * Who is the intended audience for our data analysis?
+The data can be directed at various groups. Government/ Policy makers/ Bank of Canada to help inform:
+Interest rates hikes
+minimum wage increases timeframe 
+to inform business and greater public on decisions related to wage increase.  Employees are demanding  higher minimum wage to support increased cost. Some argue, current wage increases have not kept up with inflation conribution to current increasing gap between the middle and upper class.
+
+This information can also be used to support small and medium size companies that and to help with economic incentatives to offset potential future minimum wage increases.
+
 * What is the question our analysis is trying to answer?
 * Are there any specific libraries or frameworks that are well-suited to our project requirements?
 
