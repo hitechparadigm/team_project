@@ -47,7 +47,7 @@ The analysis aimed to answer the following research questions:
 
 #### Economic Insights and Future Research
 
-The project emphasizes the necessity of considering regional economic disparities in formulating minimum wage policies. Future research should delve into additional factors influencing unemployment rates and refine our understanding of Canadian labor market dynamics.
+Future research should delve into additional factors influencing unemployment rates and refine our understanding of Canadian labor market dynamics.
 
 Key areas for future analysis include:
 - Continued monitoring of minimum wage impacts on unemployment rates at national and provincial levels.
