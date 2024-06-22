@@ -8,40 +8,40 @@ For example, your team might wish to examine the relationship between the length
 
 The task in front of your team is deliberately open-ended. Your team will have to make decisions together:
 * How will you select your dataset?
-- Identify Potential Sources: Research various public data repositories such as government databases, academic research sites, and Statistics Canada that provide relevant data on minimum wage and unemployment rates.
-- Criteria for Selection:
-  - Relevance: Ensure the dataset includes variables related to minimum wage and unemployment rates across different provinces and time periods.
-  - Completeness: The dataset should have minimal missing values and cover a significant time span to allow for robust analysis.
-  - Accuracy: Verify that the data comes from reputable sources to ensure accuracy and reliability.
-  - Format: Prefer datasets in formats that are easy to work with, such as CSV or Excel files.
-  - Example Datasets: Statistics Canada, Labour Market Reports
+    - Identify Potential Sources: Research various public data repositories such as government databases, academic research sites, and Statistics Canada that provide relevant data on minimum wage and unemployment rates.
+    - Criteria for Selection:
+    - Relevance: Ensure the dataset includes variables related to minimum wage and unemployment rates across different provinces and time periods.
+    - Completeness: The dataset should have minimal missing values and cover a significant time span to allow for robust analysis.
+    - Accuracy: Verify that the data comes from reputable sources to ensure accuracy and reliability.
+    - Format: Prefer datasets in formats that are easy to work with, such as CSV or Excel files.
+    - Example Datasets: Statistics Canada, Labour Market Reports
 
 * How will you make sure all team members can contribute to the project?
-- Define Roles and Responsibilities: Assign specific tasks and roles based on each team member’s expertise and interests. For example, data cleaning, data analysis, regression analysis and report writing.
-- Regular Meetings: Schedule meetings to discuss progress, challenges, and next steps. Use collaborative tools for virtual meetings.
-- Shared Workspace: Utilize collaborative platforms such as GitHub for code sharing and version control, and Slack for real-time communication.
-- Documentation: Maintain thorough documentation of the project.
+    - Define Roles and Responsibilities: Assign specific tasks and roles based on each team member’s expertise and interests. For example, data cleaning, data analysis, regression analysis and report writing.
+    - Regular Meetings: Schedule meetings to discuss progress, challenges, and next steps. Use collaborative tools for virtual meetings.
+    - Shared Workspace: Utilize collaborative platforms such as GitHub for code sharing and version control, and Slack for real-time communication.
+    - Documentation: Maintain thorough documentation of the project.
 
 * How will you make decisions?
-- Consensus-Based Decisions: Encourage open discussions and gather input from all team members before making decisions.
-- Voting: For critical decisions where consensus cannot be reached, use a voting system to make a decision.
-- Lead Roles: Assign lead roles for major components of the project.
-- Feedback Loop: Establish a feedback loop where team members can raise concerns or suggest improvements at any stage of the project.
+    - Consensus-Based Decisions: Encourage open discussions and gather input from all team members before making decisions.
+    - Voting: For critical decisions where consensus cannot be reached, use a voting system to make a decision.
+    - Lead Roles: Assign lead roles for major components of the project.
+    - Feedback Loop: Establish a feedback loop where team members can raise concerns or suggest improvements at any stage of the project.
 
 * What is the question you're trying to answer through your data analysis?
-- What is the impact of minimum wage changes on unemployment rates across different provinces in Canada?
-  - How does the relationship between minimum wage and unemployment rate vary across different provinces?
-  - Are there any provinces where the minimum wage has a statistically significant impact on unemployment rates?
-  - What other factors might influence the unemployment rate alongside minimum wage changes?
+    - What is the impact of minimum wage changes on unemployment rates across different provinces in Canada?
+    - How does the relationship between minimum wage and unemployment rate vary across different provinces?
+    - Are there any provinces where the minimum wage has a statistically significant impact on unemployment rates?
+    - What other factors might influence the unemployment rate alongside minimum wage changes?
 
 * What tasks need to be completed to get to your final output?
-- Project Planning: Define the research question. Select the dataset and set up a shared workspace. Assign roles and responsibilities.
-- Data Collection and Preparation:Collect the dataset from selected sources. Clean the data: handle missing values, format data, and ensure consistency. Merge datasets. Perform exploratory data analysis to understand the dataset.
-- Analysis: Conduct descriptive statistics to summarize the data. Perform regression analysis to determine the relationship between minimum wage and unemployment rates. Analyze results and interpret the significance and strength of the relationships.
-- Visualization: Create visualizations such as scatter plots, regression lines, and summary charts to illustrate the findings.
-- Reporting: A comprehensive report detailing the impact of minimum wage on unemployment rates across Canada and its provinces.
+    - Project Planning: Define the research question. Select the dataset and set up a shared workspace. Assign roles and responsibilities.
+    - Data Collection and Preparation:Collect the dataset from selected sources. Clean the data: handle missing values, format data, and ensure consistency. Merge datasets. Perform exploratory data analysis to understand the dataset.
+    - Analysis: Conduct descriptive statistics to summarize the data. Perform regression analysis to determine the relationship between minimum wage and unemployment rates. Analyze results and interpret the significance and strength of the relationships.
+    - Visualization: Create visualizations such as scatter plots, regression lines, and summary charts to illustrate the findings.
+    - Reporting: A comprehensive report detailing the impact of minimum wage on unemployment rates across Canada and its provinces.
 
-![Team project tasks][./image.png]
+    ![Team project tasks](./image.png)
 
 
 
