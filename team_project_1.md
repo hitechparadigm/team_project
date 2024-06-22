@@ -80,28 +80,39 @@ By the end of team project, participants will be able to:
 
 2. As a team, decide which dataset you would like to analyze and determine:
     - We choose data set examining Unemployment rate in Canada and minimum wage
+
     1. What is the primary focus within the dataset?
-    - The primary focus within the datasets are to analyze labor force characteristics in Canada, including the unemployment rate, minimum wage, and other relevant economic indicators. 
-    - The datasets aim to understand the dynamics of the labor market and how different variables influence the unemployment rate.
+        - The primary focus within the datasets are to analyze labor force characteristics in Canada, including the unemployment rate, minimum wage, and other relevant economic indicators. 
+        - The datasets aim to understand the dynamics of the labor market and how different variables influence the unemployment rate.
     2. What are potential relationships in the data that you could explore?
-    - Unemployment Rate vs. Minimum Wage: Analyze how changes in the minimum wage impact the unemployment rate.
-    - Unemployment Rate vs. Minimum Wage by Province: Compare how changes in the minimum wage affect the unemployment rate across different provinces. Identify if some provinces experience more significant impacts than others.
-    - The following would require additional datasets:
-        - Unemployment Rate vs. GDP Growth Rate: Explore how economic growth, as measured by GDP, affects unemployment.
-        - Unemployment Rate vs. Economic Indicators (e.g., Inflation, Industry Growth): Analyze how various economic indicators correlate with the unemployment rate.
+        - Unemployment Rate vs. Minimum Wage: Analyze how changes in the minimum wage impact the unemployment rate.
+        - Unemployment Rate vs. Minimum Wage by Province: Compare how changes in the minimum wage affect the unemployment rate across different provinces. Identify if some provinces experience more significant impacts than others.
+        - The following would require additional datasets:
+            - Unemployment Rate vs. GDP Growth Rate: Explore how economic growth, as measured by GDP, affects unemployment.
+            - Unemployment Rate vs. Economic Indicators (e.g., Inflation, Industry Growth): Analyze how various economic indicators correlate with the unemployment rate.
     3. What are key questions your project could answer? 
-    - Impact of Minimum Wage on Unemployment: 
-        - How does an increase or decrease in the minimum wage affect the unemployment rate in Canada?
-        - What is the impact of minimum wage changes on unemployment rates across different provinces in Canada? 
-    - For Future Projects:
-        - COVID-19 Pandemic Impact: How did the COVID-19 pandemic affect labor force characteristics from January 2020 onwards?
-        - Demographic Analysis: How do different demographic groups (e.g., age, gender) within the population experience changes in employment and unemployment?
+        - Impact of Minimum Wage on Unemployment: 
+            - How does an increase or decrease in the minimum wage affect the unemployment rate in Canada?
+            - What is the impact of minimum wage changes on unemployment rates across different provinces in Canada? 
+        - For Future Projects:
+            - COVID-19 Pandemic Impact: How did the COVID-19 pandemic affect labor force characteristics from January 2020 onwards?
+            - Demographic Analysis: How do different demographic groups (e.g., age, gender) within the population experience changes in employment and unemployment?
 
 3. Create rules of engagement to guide how your team will work together (Examples can be found below under [Resources](https://github.com/UofT-DSI/team_project/edit/main/team_project_1.md#resources).
     - We used task tracking to guide team work. It can be found in the team project tracker.
-    - ![Team project tasks](./image.png)
+
+    ![Team project tasks](./image.png)
+
 4. Create a new repository for your project. Hint: this repo has some features commonly found in industry repos. 
 5. Work on the "Advanced Topics" section of [LearnGitBranching](https://learngitbranching.js.org/) to learn more about rebasing
+        We push changes to our own branches, e.g. dmytro
+        Then we create a pull request to merge with team-project-1
+        Please post in the channel once you've created your pull request. It's good practice to have peer reviews.
+        After the merge, it's a good practice to delete your branch to avoid a mess in the future. Keep reading...
+        Then we go to VS Code, switch to branch team-project-1 and do pull to synchronize.
+        To continue working on your changes, create your own branch again (e.g. git checkout -b dmytro) and follow steps 1-6.
+        Replace steps 4-6 if you merge your own branch with team-project-1.
+
 6. Learn why merge conflicts occur via this [article](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts#:~:text=Understanding%20merge%20conflicts,automatically%20determine%20what%20is%20correct.)
 7. Determine what roles the various team members will play on the team, which tasks need to be completed and assigned to which team members, and what your team norms will be with respect to code reviews, approvals and merges. 
 Dem
