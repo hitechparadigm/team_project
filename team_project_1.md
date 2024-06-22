@@ -105,17 +105,17 @@ By the end of team project, participants will be able to:
 
 4. Create a new repository for your project. Hint: this repo has some features commonly found in industry repos. 
 5. Work on the "Advanced Topics" section of [LearnGitBranching](https://learngitbranching.js.org/) to learn more about rebasing
-        We push changes to our own branches, e.g. dmytro
-        Then we create a pull request to merge with team-project-1
-        Please post in the channel once you've created your pull request. It's good practice to have peer reviews.
-        After the merge, it's a good practice to delete your branch to avoid a mess in the future. Keep reading...
-        Then we go to VS Code, switch to branch team-project-1 and do pull to synchronize.
-        To continue working on your changes, create your own branch again (e.g. git checkout -b dmytro) and follow steps 1-6.
-        Replace steps 4-6 if you merge your own branch with team-project-1.
+    - Push Changes to Your Branch: Make sure local changes are committed. Push the branch (newbranch) to the remote repository. - git push origin newbranch
+    - Create a Pull Request: Go to GitHub and create a pull request from the newbranch branch into team-project-1.
+    - Peer Review: Wait for team members to review thr pull request.
+    - Merge the Pull Request: Once approved, merge the pull request into team-project-1 on GitHub.
+    - Delete Branch:After merging, delete the remote branch (newbranch) to keep the repository clean
+    - Update the Local Repository: - git checkout team-project-1 then - git pull origin team-project-1
+    - Rebase the Branch: - git checkout newbranch, then - git rebase team-project-1
+    - Continue Working: - git checkout -b newbranch
 
 6. Learn why merge conflicts occur via this [article](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts#:~:text=Understanding%20merge%20conflicts,automatically%20determine%20what%20is%20correct.)
 7. Determine what roles the various team members will play on the team, which tasks need to be completed and assigned to which team members, and what your team norms will be with respect to code reviews, approvals and merges. 
-Dem
 8. At the end of the week, please record a 3-5 minute video individually that answers the following questions:
     1. What did you learn?
     2. What challenges did you face?
