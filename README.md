@@ -45,13 +45,20 @@ The analysis aimed to answer the following research questions:
 - What is the impact of minimum wage changes on unemployment rates in Canada and across different provinces?
 
 ### Model
-- The following linear regression model was used to test the hypothesis if minimum wage increases affect unemployment rates across provinces: 
-
-![Model Unemployment rates vs Wage increases across Canadian provinces](./src/img/model_provinces.png)
 
 - The following linear regression model was used to test the hypothesis if minimum wage increases affect unemployment rates in Canada:
 
-  - :nerd_face:  Unemployment Rate = $B_0$ + $B_1$ x Minimum Wage
+  - :nerd_face:  UR = β0 + β1 x MW + ϵ
+  - Variables:
+    - Dependent Variable (Y): Unemployment Rate (UR)
+    - Independent Variable (X): Minimum Wage (MW)
+  - β0: The intercept term. This represents the predicted value of the Unemployment Rate when the Minimum Wage is zero. 
+  - β1: The slope term. This coefficient represents the change in the Unemployment Rate for a one-unit change in the Minimum Wage. If β1 is positive, it suggests that an increase in the Minimum Wage is associated with an increase in the Unemployment Rate. If β1 is negative, it suggests that an increase in the Minimum Wage is associated with a decrease in the Unemployment Rate.
+
+- The following linear regression model was used to test the hypothesis if minimum wage increases affect unemployment rates across provinces: 
+  - :nerd_face:  UR_{i,t} = \alpha_{i} + \beta_{1,i} \times MW_{i,t} + \epsilon_{i,t}
+
+![Model Unemployment rates vs Wage increases across Canadian provinces](./src/img/model_provinces.png)
 
 ## Findings: Impact of Minimum Wage Changes
 
