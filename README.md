@@ -48,7 +48,7 @@ The analysis aimed to answer the following research questions:
 
 - The following linear regression model was used to test the hypothesis if minimum wage increases affect unemployment rates in Canada:
 
-  - :nerd_face:  UR = $β_0$ + $β_1$ x MW + ϵ
+  - :nerd_face:  $UR$ = $β_0$ + $β_1$ x MW + ϵ
   - Variables:
     - Dependent Variable (Y): Unemployment Rate (UR)
     - Independent Variable (X): Minimum Wage (MW)
