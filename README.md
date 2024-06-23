@@ -56,7 +56,7 @@ The analysis aimed to answer the following research questions:
   - β1: The slope term. This coefficient represents the change in the Unemployment Rate for a one-unit change in the Minimum Wage. If β1 is positive, it suggests that an increase in the Minimum Wage is associated with an increase in the Unemployment Rate. If β1 is negative, it suggests that an increase in the Minimum Wage is associated with a decrease in the Unemployment Rate.
 
 - The following linear regression model was used to test the hypothesis if minimum wage increases affect unemployment rates across provinces: 
-  - :nerd_face:  UR_{i,t} = \alpha_{i} + \beta_{1,i} \times MW_{i,t} + \epsilon_{i,t}
+  - :nerd_face:  \[ UR_{i,t} = \alpha_{i} + \beta_{1,i} \times MW_{i,t} + \epsilon_{i,t} \]
 
 ![Model Unemployment rates vs Wage increases across Canadian provinces](./src/img/model_provinces.png)
 
