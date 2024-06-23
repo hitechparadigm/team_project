@@ -57,12 +57,12 @@ The analysis aimed to answer the following research questions:
   - ϵ: Error term, representing the random disturbances or factors influencing the unemployment rate that are not accounted for in the model.
 
 - The following linear regression model was used to test the hypothesis if minimum wage increases affect unemployment rates across provinces: 
-  - :nerd_face:  UR_{i,t} = \β_{i} + \β_{1,i} \times MW_{i,t} + \ϵ_{i,t}
+  - :nerd_face:  UR_{i,t} = β_{i} + β_{1,i} x MW_{i,t} + \ϵ_{i,t}
   - Variables:
     - Dependent Variable (Y): Unemployment rate in province 𝑖 at time 𝑡 (UR_{i,t}) 
     - Independent Variable (X): Minimum Wage in province 𝑖 at time 𝑡 (MW_{i,t})
   - β_{i}: Intercept specific to province 𝑖 representing the baseline unemployment rate when the minimum wage is zero.
-  - β_{1,i} : Coefficient representing the change in the unemployment rate for a one-unit change in the minimum wage in province 
+  - β_{1,i}: Coefficient representing the change in the unemployment rate for a one-unit change in the minimum wage in the province 
 𝑖.
   - ϵ_{i,t}: Error term, representing the random disturbances or factors influencing the unemployment rate that are not accounted for in the model.
 
