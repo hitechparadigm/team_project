@@ -48,23 +48,23 @@ The analysis aimed to answer the following research questions:
 
 - The following linear regression model was used to test the hypothesis if minimum wage increases affect unemployment rates in Canada:
 
-  - :nerd_face:  UR = β0 + β1 x MW + ϵ
+  - :nerd_face:  UR = β_0 + β_1 x MW + ϵ
   - Variables:
     - Dependent Variable (Y): Unemployment Rate (UR)
     - Independent Variable (X): Minimum Wage (MW)
-  - β0: The intercept term. This represents the predicted value of the Unemployment Rate when the Minimum Wage is zero. 
-  - β1: The slope term. This coefficient represents the change in the Unemployment Rate for a one-unit change in the Minimum Wage. If β1 is positive, it suggests that an increase in the Minimum Wage is associated with an increase in the Unemployment Rate. If β1 is negative, it suggests that an increase in the Minimum Wage is associated with a decrease in the Unemployment Rate.
+  - β_0: The intercept term. This represents the predicted value of the Unemployment Rate when the Minimum Wage is zero. 
+  - β_1: The slope term. This coefficient represents the change in the Unemployment Rate for a one-unit change in the Minimum Wage. If β_1 is positive, it suggests that an increase in the Minimum Wage is associated with an increase in the Unemployment Rate. If β_1 is negative, it suggests that an increase in the Minimum Wage is associated with a decrease in the Unemployment Rate.
   - ϵ: Error term, representing the random disturbances or factors influencing the unemployment rate that are not accounted for in the model.
 
 - The following linear regression model was used to test the hypothesis if minimum wage increases affect unemployment rates across provinces: 
-  - :nerd_face:  UR_{i,t} = β_{i} + β_{1,i} x MW_{i,t} + \ϵ_{i,t}
+  - :nerd_face:  UR_i,t = β_i + β_1,i x MW_i,t + ϵ_i,t
   - Variables:
-    - Dependent Variable (Y): Unemployment rate in province 𝑖 at time 𝑡 (UR_{i,t}) 
-    - Independent Variable (X): Minimum Wage in province 𝑖 at time 𝑡 (MW_{i,t})
-  - β_{i}: Intercept specific to province 𝑖 representing the baseline unemployment rate when the minimum wage is zero.
-  - β_{1,i}: Coefficient representing the change in the unemployment rate for a one-unit change in the minimum wage in the province 
+    - Dependent Variable (Y): Unemployment rate in province 𝑖 at time 𝑡 (UR_i,t) 
+    - Independent Variable (X): Minimum Wage in province 𝑖 at time 𝑡 (MW_i,t)
+  - β_i: Intercept specific to province 𝑖 representing the baseline unemployment rate when the minimum wage is zero.
+  - β_1,i: Coefficient representing the change in the unemployment rate for a one-unit change in the minimum wage in the province 
 𝑖.
-  - ϵ_{i,t}: Error term, representing the random disturbances or factors influencing the unemployment rate that are not accounted for in the model.
+  - ϵ_i,t: Error term, representing the random disturbances or factors influencing the unemployment rate that are not accounted for in the model.
 
 ## Findings: Impact of Minimum Wage Changes
 
