@@ -125,9 +125,9 @@ Whether higher minimum wages are "good" or "bad" depends on the balance between 
 - **Links for individual videos**
   - [Janaparan (Jay)](https://drive.google.com/file/d/11ADMGfVLlmB0PGKVE3AiGE1pYGqM6N8i/view?usp=sharing)
   - [Yixi (Grace) Gong](https://drive.google.com/file/d/1b2MJgBqacibr2kWKau7u20XTyQvTsM1M/view?usp=sharing)
+  - [Dmytro Malyk](https://drive.google.com/file/d/1L2M0-74dwFq_ldhs-Akx24oWjtj3apIa/view?usp=sharing)
   - [Phoebe Z Wei](https://)
   - [Yuri](https://)
-  - [Dmytro Malyk](https://)
 
 
 
