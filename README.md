@@ -3,7 +3,7 @@
 ## Project #1: Impact of Minimum Wage Changes on Unemployment Rates in Canada
 ### Executive Summary
 
-This project presents findings from an extensive analysis exploring the impact of minimum wage changes on unemployment rates across Canadian provinces :canada:. Leveraging datasets from [Statistics Canada](./data/raw/unemployment_rates_data.csv) and the [Government of Canada](./data/raw/minimum_wage_data.csv), the team conducted thorough data analysis and regression modeling to investigate the relationships between minimum wage adjustments and unemployment dynamics. Key findings reveal significant variations across provinces, underscoring the influence of regional economic contexts on policy outcomes. These insights are vital for informing stakeholders about the implications of minimum wage policies on labor market dynamics.
+This project presents findings from an extensive analysis exploring the impact of minimum wage changes on unemployment rates across Canadian provinces in 1976-2024. Leveraging datasets from [Statistics Canada](./data/raw/unemployment_rates_data.csv) and the [Government of Canada](./data/raw/minimum_wage_data.csv), the team conducted thorough data analysis and regression modeling to investigate the relationships between minimum wage adjustments and unemployment dynamics. Key findings reveal significant variations across provinces, underscoring the influence of regional economic contexts on policy outcomes. These insights are vital for informing stakeholders about the implications of minimum wage policies on labor market dynamics.
 
 ### Project Overview
 
@@ -109,7 +109,7 @@ Key areas for future analysis include:
 
 :slightly_smiling_face:  This project contributes comprehensive insights into how minimum wage policies influence unemployment rates across Canadian provinces. By analyzing diverse datasets and employing robust methodologies, the findings provide valuable guidance for policymakers, businesses, and the public, aiding in informed decision-making and policy formulation.
 
-Overall, the observed negative correlations between minimum wage and unemployment rates in most provinces suggest that increasing the minimum wage can have :sparkles:positive economic effects:sparkles: , such as reducing unemployment and improving living standards for low-wage workers. These findings align more closely with contemporary economic theories like Keynesian economics and efficiency wage theory, rather than classical economic theory.
+Overall, the observed negative correlations between minimum wage and unemployment rates in most provinces suggest that :sparkles:**increasing the minimum wage can have positive economic effects**:sparkles: , such as reducing unemployment and improving living standards for low-wage workers. These findings align more closely with contemporary economic theories like Keynesian economics and efficiency wage theory, rather than classical economic theory.
 
 Whether higher minimum wages are "good" or "bad" depends on the balance between the positive impacts on worker incomes and economic demand, and the potential challenges faced by businesses and specific sectors. Policymakers need to consider these factors and regional economic conditions when setting minimum wage levels to maximize the benefits and minimize potential downsides.
 
