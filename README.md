@@ -105,6 +105,14 @@ Key areas for future analysis include:
 - Tailoring minimum wage policies to regional economic conditions and industry-specific factors.
 - Exploration of broader economic contexts beyond minimum wage adjustments.
 
+### Conclusion
+
+:slightly_smiling_face:  This project contributes comprehensive insights into how minimum wage policies influence unemployment rates across Canadian provinces. By analyzing diverse datasets and employing robust methodologies, the findings provide valuable guidance for policymakers, businesses, and the public, aiding in informed decision-making and policy formulation.
+
+Overall, the observed negative correlations between minimum wage and unemployment rates in most provinces suggest that increasing the minimum wage can have :sparkles:positive economic effects:sparkles: , such as reducing unemployment and improving living standards for low-wage workers. These findings align more closely with contemporary economic theories like Keynesian economics and efficiency wage theory, rather than classical economic theory.
+
+Whether higher minimum wages are "good" or "bad" depends on the balance between the positive impacts on worker incomes and economic demand, and the potential challenges faced by businesses and specific sectors. Policymakers need to consider these factors and regional economic conditions when setting minimum wage levels to maximize the benefits and minimize potential downsides.
+
 ### Appendix
 
 **References**
@@ -121,13 +129,7 @@ Key areas for future analysis include:
   - [Yuri](https://)
   - [Dmytro Malyk](https://)
 
-### Conclusion
 
-:slightly_smiling_face:  This project contributes comprehensive insights into how minimum wage policies influence unemployment rates across Canadian provinces. By analyzing diverse datasets and employing robust methodologies, the findings provide valuable guidance for policymakers, businesses, and the public, aiding in informed decision-making and policy formulation.
-
-Overall, the observed negative correlations between minimum wage and unemployment rates in most provinces suggest that increasing the minimum wage can have :sparkles:positive economic effects:sparkles: , such as reducing unemployment and improving living standards for low-wage workers. These findings align more closely with contemporary economic theories like Keynesian economics and efficiency wage theory, rather than classical economic theory.
-
-Whether higher minimum wages are "good" or "bad" depends on the balance between the positive impacts on worker incomes and economic demand, and the potential challenges faced by businesses and specific sectors. Policymakers need to consider these factors and regional economic conditions when setting minimum wage levels to maximize the benefits and minimize potential downsides.
 
 
 
